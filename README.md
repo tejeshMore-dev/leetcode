@@ -12,6 +12,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0001-two-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/tejeshMore-dev/leetcode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejeshMore-dev/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0200-number-of-islands](https://github.com/tejeshMore-dev/leetcode/tree/master/0200-number-of-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,4 +39,20 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/tejeshMore-dev/leetcode/tree/master/0056-merge-intervals) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/tejeshMore-dev/leetcode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/tejeshMore-dev/leetcode/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/tejeshMore-dev/leetcode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/tejeshMore-dev/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
