@@ -8,12 +8,11 @@ class Solution:
         ans = 0
 
         def mark_island_visted(r, c): # O(mn), O(1)
-            queue = deque()
-            queue.append([r, c])
+            queue = deque([(r, c)])
 
             while queue:
                 r, c = queue.popleft()
-
+                    
                 for dr, dc in DIRECTIONS:
                     nr = dr + r
                     nc = dc + c
@@ -22,7 +21,7 @@ class Solution:
                         continue
                     
                     grid[nr][nc] = "#"
-                    queue.append([nr, nc])
+                    queue.append((nr, nc))
 
         # count and mark island
         for  r in range(ROWS): # O(mn), O(1) + # O(mn), O(1)
