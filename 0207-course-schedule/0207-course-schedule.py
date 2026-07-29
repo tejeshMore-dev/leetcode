@@ -23,13 +23,13 @@ class Solution:
         visited = 0
 
         while queue:
-            prerequisite = queue.popleft()
+            course = queue.popleft()
             visited += 1
 
-            for course in graph[prerequisite]:
-                indegrees[course] -= 1
+            for next_course in graph[course]:
+                indegrees[next_course] -= 1
 
-                if indegrees[course] == 0:
-                    queue.append(course)
+                if indegrees[next_course] == 0:
+                    queue.append(next_course)
         
         return numCourses == visited
