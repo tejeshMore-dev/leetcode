@@ -12,6 +12,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0001-two-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/tejeshMore-dev/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/tejeshMore-dev/leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/tejeshMore-dev/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejeshMore-dev/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/tejeshMore-dev/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -57,6 +58,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | ------- |
 | [0049-group-anagrams](https://github.com/tejeshMore-dev/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/tejeshMore-dev/leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/tejeshMore-dev/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/tejeshMore-dev/leetcode/tree/master/0217-contains-duplicate) |
@@ -121,6 +123,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/tejeshMore-dev/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/tejeshMore-dev/leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
