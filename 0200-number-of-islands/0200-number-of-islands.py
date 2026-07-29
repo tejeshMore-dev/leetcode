@@ -4,7 +4,7 @@ class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
         '''
         TC: O(mn)
-        SC: O(1)
+        SC: O(mn)
 
         '''
         DIRECTIONS = [[0, 1], [0, -1], [-1, 0], [1, 0]]
@@ -12,7 +12,7 @@ class Solution:
         COLS = len(grid[0])
         ans = 0
 
-        def mark_island_visted(r, c): # O(mn), O(1)
+        def mark_island_visted(r, c): # O(mn), O(mn)
             queue = deque([(r, c)])
             grid[r][c] = "#"
 
@@ -37,11 +37,11 @@ class Solution:
                     mark_island_visted(r, c) 
 
 
-        #unmark island
-        for  r in range(ROWS): # O(mn), O(1)
-            for c in range(COLS):
-                if grid[r][c] == "#":
-                    grid[r][c] = "1"
+        # #unmark island
+        # for  r in range(ROWS): # O(mn), O(1)
+        #     for c in range(COLS):
+        #         if grid[r][c] == "#":
+        #             grid[r][c] = "1"
             
         return ans
 
