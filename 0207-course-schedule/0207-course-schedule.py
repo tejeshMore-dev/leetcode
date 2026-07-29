@@ -32,4 +32,4 @@ class Solution:
                 if indegrees[next_course] == 0:
                     queue.append(next_course)
         
-        return numCourses == visited
+        return all(degree == 0 for degree in indegrees)
