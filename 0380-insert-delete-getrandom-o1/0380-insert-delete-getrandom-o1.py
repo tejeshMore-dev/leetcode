@@ -20,8 +20,15 @@ class RandomizedSet:
         if val not in self.int_map:
             return False
         
-        self.int_list.remove(val)
+        i = self.int_map[val]
+        last = self.int_list[-1]
+        
+        self.int_map[last] = i
+        self.int_list[i] = last
+        self.int_list.pop()
+        
         del self.int_map[val]
+        
         return True
         
         
