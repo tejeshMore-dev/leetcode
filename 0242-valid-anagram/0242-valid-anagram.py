@@ -12,9 +12,6 @@ class Solution:
         s_counter = Counter(s)
 
         for char in t:
-            if char not in s_counter:
-                return False
-            
             s_counter[char] -= 1
 
             if s_counter[char] < 0:
