@@ -4,8 +4,8 @@ class Solution:
     def findKthLargest(self, nums: List[int], k: int) -> int:
         '''
         Pattern : min_hep of size k
-        TC: O(n log n)
-        SC: O(n)
+        TC: O(n log k)
+        SC: O(k)
 
         '''
         min_heap = []
