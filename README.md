@@ -15,6 +15,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0200-number-of-islands](https://github.com/tejeshMore-dev/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/tejeshMore-dev/leetcode/tree/master/0217-contains-duplicate) |
+| [0704-binary-search](https://github.com/tejeshMore-dev/leetcode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,4 +86,8 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/tejeshMore-dev/leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
