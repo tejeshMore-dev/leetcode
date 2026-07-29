@@ -2,6 +2,11 @@ from collections import deque
 
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
+        '''
+        TC: O(mn)
+        SC: O(1)
+
+        '''
         DIRECTIONS = [[0, 1], [0, -1], [-1, 0], [1, 0]]
         ROWS = len(grid)
         COLS = len(grid[0])
