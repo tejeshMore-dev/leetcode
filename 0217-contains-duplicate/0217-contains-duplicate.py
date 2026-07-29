@@ -1,6 +1,8 @@
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
         '''
+        Pattern : Hash memory
+
         TC : O(n)
         SC : O(n)
         '''
