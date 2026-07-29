@@ -15,7 +15,7 @@ class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         '''
             TC : O(n * k)
-            SC : O(k)
+            SC : O(n * k)
         '''
         groups = defaultdict(list)
         
