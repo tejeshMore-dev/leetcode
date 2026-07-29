@@ -2,14 +2,16 @@ from collections import defaultdict
 import bisect
 
 class TimeMap:
+    '''
+    '''
 
-    def __init__(self):
+    def __init__(self): # SC: ~ O(n)
         self.time_map = defaultdict(list)
 
-    def set(self, key: str, value: str, timestamp: int) -> None:
+    def set(self, key: str, value: str, timestamp: int) -> None: # TC : O(1)
         self.time_map[key].append((timestamp, value))
         
-    def get(self, key: str, timestamp: int) -> str:
+    def get(self, key: str, timestamp: int) -> str: # TC : O(log n)
         arr = self.time_map[key]
         if not arr:
             return ""
