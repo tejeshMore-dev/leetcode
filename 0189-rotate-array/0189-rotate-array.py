@@ -1,7 +1,7 @@
 class Solution:
 
     @staticmethod
-    def rotate_arr(arr: list, l: int, r: int) ->None:
+    def reverse(arr: list, l: int, r: int) ->None:
         while l < r:
             arr[l], arr[r] = arr[r], arr[l]
             l += 1
@@ -14,9 +14,9 @@ class Solution:
         l = len(nums)
         k = k % l
 
-        Solution.rotate_arr(nums, 0,  l - 1)
-        Solution.rotate_arr(nums, 0,  k - 1)
-        Solution.rotate_arr(nums, k,  l - 1)
+        Solution.reverse(nums, 0,  l - 1)
+        Solution.reverse(nums, 0,  k - 1)
+        Solution.reverse(nums, k,  l - 1)
 
 
 
