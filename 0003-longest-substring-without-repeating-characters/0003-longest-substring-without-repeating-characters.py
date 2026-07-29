@@ -2,6 +2,11 @@ from collections import defaultdict
 
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
+        '''
+        Time complexity: O(n)
+        Space Complexity: O(n)
+        '''
+        
         s_counter = defaultdict(int)
         l = 0
         ans = 0
