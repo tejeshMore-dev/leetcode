@@ -14,6 +14,7 @@ class Solution:
 
         def mark_island_visted(r, c): # O(mn), O(1)
             queue = deque([(r, c)])
+            grid[r][c] = "#"
 
             while queue:
                 r, c = queue.popleft()
@@ -22,7 +23,7 @@ class Solution:
                     nr = dr + r
                     nc = dc + c
 
-                    if nr < 0 or nc < 0 or nr == ROWS or nc == COLS or grid[nr][nc] != "1":
+                    if nr < 0 or nc < 0 or nr >= ROWS or nc >= COLS or grid[nr][nc] != "1":
                         continue
                     
                     grid[nr][nc] = "#"
