@@ -4,8 +4,8 @@ class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
         '''
         Pattern : cycle detection in directed graph
-        TC: O(n)
-        SC: O(n)
+        TC: O(V + E)
+        SC: O(V + E)
         '''
         graph = defaultdict(list)
         indegrees = [0] * numCourses
