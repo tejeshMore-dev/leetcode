@@ -14,9 +14,9 @@ class Solution:
         l = len(nums)
         k = k % l
 
-        self.rotate_arr(nums, 0,  l - 1)
-        self.rotate_arr(nums, 0,  k - 1)
-        self.rotate_arr(nums, k,  l - 1)
+        Solution.rotate_arr(nums, 0,  l - 1)
+        Solution.rotate_arr(nums, 0,  k - 1)
+        Solution.rotate_arr(nums, k,  l - 1)
 
 
 
