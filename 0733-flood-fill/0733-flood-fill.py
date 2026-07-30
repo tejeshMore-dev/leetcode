@@ -7,7 +7,10 @@ class Solution:
         DIRECTIONS = [[0, 1], [0, -1], [1, 0], [-1, 0]]
         
         original_color = image[sr][sc]
-        image[sr][sc] = "#"
+        if original_color == color:
+            return image
+
+        image[sr][sc] = color
         queue = deque([(sr, sc)])
 
         while queue:
@@ -20,13 +23,8 @@ class Solution:
                 if nr < 0 or nc < 0 or nr == ROWS or nc == COLS or image[nr][nc] != original_color:
                     continue
                 
-                image[nr][nc] = "#"
+                image[nr][nc] = color
                 queue.append((nr, nc))
-        
-        for r in range(ROWS):
-            for c in range(COLS):
-                if image[r][c] == "#":
-                    image[r][c] = color
         
         return image
 
