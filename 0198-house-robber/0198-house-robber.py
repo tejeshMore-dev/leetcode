@@ -15,7 +15,7 @@ class Solution:
         for i in range(l - 3, -1, -1):
             one, two = max(nums[i] + two, one), one
         
-        return max(one, two)
+        return one
 
         # mem = {} # maximum we can rob forward at i
 
