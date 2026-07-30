@@ -2,6 +2,10 @@ from collections import defaultdict, deque
 
 class Solution:
     def calcEquation(self, equations: List[List[str]], values: List[float], queries: List[List[str]]) -> List[float]:
+        '''
+        TC : O(E + Q*(V + E))
+        SC : O(V + E)
+        '''
         graph = defaultdict(list)
         
         for i in range(len(equations)):
