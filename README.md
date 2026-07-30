@@ -37,6 +37,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0049-group-anagrams](https://github.com/tejeshMore-dev/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/tejeshMore-dev/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/tejeshMore-dev/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/tejeshMore-dev/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/tejeshMore-dev/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tejeshMore-dev/leetcode/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tejeshMore-dev/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -128,6 +129,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | ------- |
 | [0070-climbing-stairs](https://github.com/tejeshMore-dev/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/tejeshMore-dev/leetcode/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tejeshMore-dev/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Design
 |  |
@@ -144,6 +146,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0075-sort-colors](https://github.com/tejeshMore-dev/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/tejeshMore-dev/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/tejeshMore-dev/leetcode/tree/master/0283-move-zeroes) |
 ## Memoization
 |  |
