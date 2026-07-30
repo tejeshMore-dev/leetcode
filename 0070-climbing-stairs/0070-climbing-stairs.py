@@ -8,16 +8,10 @@ class Solution:
         if n < 3:
             return n
 
-        mem = [1] * n
-        mem[n-1] = 1
-        mem[n-2] = 2
-
+        one = 2
+        two = 1
 
         for i in range(n - 3, -1, -1):
-            mem[i] = mem[i+1] + mem[i+2]
-        
-
-        return mem[0]
-
-
-        
+            one, two = one + two, one
+            
+        return one
