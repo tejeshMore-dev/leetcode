@@ -26,6 +26,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0283-move-zeroes](https://github.com/tejeshMore-dev/leetcode/tree/master/0283-move-zeroes) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/tejeshMore-dev/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tejeshMore-dev/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0399-evaluate-division](https://github.com/tejeshMore-dev/leetcode/tree/master/0399-evaluate-division) |
 | [0704-binary-search](https://github.com/tejeshMore-dev/leetcode/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tejeshMore-dev/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/tejeshMore-dev/leetcode/tree/master/0733-flood-fill) |
@@ -50,6 +51,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0020-valid-parentheses](https://github.com/tejeshMore-dev/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/tejeshMore-dev/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/tejeshMore-dev/leetcode/tree/master/0242-valid-anagram) |
+| [0399-evaluate-division](https://github.com/tejeshMore-dev/leetcode/tree/master/0399-evaluate-division) |
 | [0981-time-based-key-value-store](https://github.com/tejeshMore-dev/leetcode/tree/master/0981-time-based-key-value-store) |
 ## Stack
 |  |
@@ -85,18 +87,21 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | ------- |
 | [0200-number-of-islands](https://github.com/tejeshMore-dev/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/tejeshMore-dev/leetcode/tree/master/0207-course-schedule) |
+| [0399-evaluate-division](https://github.com/tejeshMore-dev/leetcode/tree/master/0399-evaluate-division) |
 | [0733-flood-fill](https://github.com/tejeshMore-dev/leetcode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/tejeshMore-dev/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/tejeshMore-dev/leetcode/tree/master/0207-course-schedule) |
+| [0399-evaluate-division](https://github.com/tejeshMore-dev/leetcode/tree/master/0399-evaluate-division) |
 | [0733-flood-fill](https://github.com/tejeshMore-dev/leetcode/tree/master/0733-flood-fill) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tejeshMore-dev/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/tejeshMore-dev/leetcode/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/tejeshMore-dev/leetcode/tree/master/0399-evaluate-division) |
 ## Matrix
 |  |
 | ------- |
@@ -106,6 +111,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/tejeshMore-dev/leetcode/tree/master/0207-course-schedule) |
+| [0399-evaluate-division](https://github.com/tejeshMore-dev/leetcode/tree/master/0399-evaluate-division) |
 ## Topological Sort
 |  |
 | ------- |
@@ -164,4 +170,8 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tejeshMore-dev/leetcode/tree/master/0169-majority-element) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/tejeshMore-dev/leetcode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
