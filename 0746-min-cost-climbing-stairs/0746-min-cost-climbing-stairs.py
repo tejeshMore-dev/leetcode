@@ -1,18 +1,24 @@
 class Solution:
     def minCostClimbingStairs(self, cost: List[int]) -> int:
+        '''
+        TC : O(n)
+        SC : O(1)
+        '''
+
         if len(cost) < 3:
             return min(cost)
         
         l = len(cost)
-        mem = cost.copy()
+        two = cost[-1]
+        one = cost[-2]
         
         for i in range(l-3, -1, -1):
-            mem[i] = cost[i] + min(mem[i+1], mem[i+2])
+            one, two = cost[i] + min(one, two), one
         
-        return min(mem[0], mem[1])
+        return min(one, two)
 
         ## recursion approach
-        
+
         # mem = {}
 
         # def helper(i):
