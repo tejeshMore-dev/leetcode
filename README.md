@@ -26,6 +26,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/tejeshMore-dev/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tejeshMore-dev/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0704-binary-search](https://github.com/tejeshMore-dev/leetcode/tree/master/0704-binary-search) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tejeshMore-dev/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/tejeshMore-dev/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
@@ -58,6 +59,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0198-house-robber](https://github.com/tejeshMore-dev/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/tejeshMore-dev/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tejeshMore-dev/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/tejeshMore-dev/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Sliding Window
 |  |
@@ -143,4 +145,8 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tejeshMore-dev/leetcode/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tejeshMore-dev/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 <!---LeetCode Topics End-->
