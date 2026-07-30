@@ -19,6 +19,8 @@ class Solution:
 
                 if count < 0:
                     queue.append((t+n, count, task))
+            else:
+                t = queue[0][0]
             
 
             if queue and queue[0][0] == t:
