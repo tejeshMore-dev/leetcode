@@ -49,6 +49,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/tejeshMore-dev/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejeshMore-dev/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sliding Window
 |  |
@@ -111,6 +112,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/tejeshMore-dev/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tejeshMore-dev/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Design
@@ -129,4 +131,8 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0088-merge-sorted-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tejeshMore-dev/leetcode/tree/master/0283-move-zeroes) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tejeshMore-dev/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
