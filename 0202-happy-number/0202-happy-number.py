@@ -1,23 +1,24 @@
 class Solution:
     def isHappy(self, n: int) -> bool:
-        seen = set([n])
-        ans = True
+        '''
+        TC : O(n)
+        SC : O(n)
+        '''
+        def next_num(n: int) -> int:
+            total = 0
 
-        while n != 1:
-            num = n
-            new_n = 0
+            while n:
+                val = n % 10
+                total += val * val
+                n = n // 10
+            
+            return total
 
-            while num:
-                val = num % 10
-                new_n += val * val
+        slow = n
+        fast = next_num(slow)
 
-                num = num // 10
-
-            if new_n in seen:
-                ans = False
-                break
-
-            seen.add(new_n)
-            n = new_n
-
-        return ans 
+        while fast != 1 and fast != slow:
+            slow = next_num(slow)
+            fast = next_num(next_num(fast))
+        
+        return fast == 1
