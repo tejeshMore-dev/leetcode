@@ -10,6 +10,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/tejeshMore-dev/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/tejeshMore-dev/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/tejeshMore-dev/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/tejeshMore-dev/leetcode/tree/master/0075-sort-colors) |
@@ -37,6 +38,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | ------- |
 | [0001-two-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tejeshMore-dev/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/tejeshMore-dev/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/tejeshMore-dev/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/tejeshMore-dev/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/tejeshMore-dev/leetcode/tree/master/0169-majority-element) |
@@ -108,6 +110,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/tejeshMore-dev/leetcode/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/tejeshMore-dev/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/tejeshMore-dev/leetcode/tree/master/0733-flood-fill) |
 ## Graph Theory
