@@ -24,7 +24,7 @@ class Solution:
             
 
             if queue and queue[0][0] == t:
-                t, c, task = queue.popleft()
-                heapq.heappush(max_heap, (c, task))
+                qt, qc, qtask = queue.popleft()
+                heapq.heappush(max_heap, (qc, qtask))
         
         return t
