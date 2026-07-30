@@ -11,7 +11,7 @@ class Solution:
             graph[a].append((b, val))
             graph[b].append((a, 1/val))
 
-        def helper(a: int, b: int) -> int:
+        def helper(a: int, b: int) -> float:
             visited = set([a])
             queue = deque([(a, 1)])
 
@@ -29,13 +29,13 @@ class Solution:
                         queue.append((nei_n, val * nei_v))
 
 
-            return -1
+            return -1.0
         
         ans = []
         for querie in queries:
             a, b = querie
             if a not in graph or b not in graph:
-                ans.append(-1)
+                ans.append(-1.0)
             else:
                 ans.append(helper(a, b))
 
