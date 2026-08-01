@@ -1,8 +1,8 @@
 class Solution:
     def maxChunksToSorted(self, arr: List[int]) -> int:
         chunks = 0
-        l = len(arr)
         maximum = 0
+        l = len(arr)
 
         for i in range(l):
             maximum = max(maximum, arr[i])
