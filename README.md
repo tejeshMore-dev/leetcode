@@ -44,6 +44,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0881-boats-to-save-people](https://github.com/tejeshMore-dev/leetcode/tree/master/0881-boats-to-save-people) |
 | [0941-valid-mountain-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0941-valid-mountain-array) |
 | [1029-two-city-scheduling](https://github.com/tejeshMore-dev/leetcode/tree/master/1029-two-city-scheduling) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1732-find-the-highest-altitude](https://github.com/tejeshMore-dev/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/tejeshMore-dev/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -87,6 +88,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tejeshMore-dev/leetcode/tree/master/0020-valid-parentheses) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -175,6 +177,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | ------- |
 | [0704-binary-search](https://github.com/tejeshMore-dev/leetcode/tree/master/0704-binary-search) |
 | [0981-time-based-key-value-store](https://github.com/tejeshMore-dev/leetcode/tree/master/0981-time-based-key-value-store) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Math
 |  |
 | ------- |
@@ -205,6 +208,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0455-assign-cookies](https://github.com/tejeshMore-dev/leetcode/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/tejeshMore-dev/leetcode/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/tejeshMore-dev/leetcode/tree/master/0881-boats-to-save-people) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Memoization
 |  |
 | ------- |
@@ -244,4 +248,8 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/tejeshMore-dev/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 <!---LeetCode Topics End-->
