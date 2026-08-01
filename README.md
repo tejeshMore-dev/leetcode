@@ -48,6 +48,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1732-find-the-highest-altitude](https://github.com/tejeshMore-dev/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/tejeshMore-dev/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/tejeshMore-dev/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 ## Hash Table
 |  |
 | ------- |
