@@ -27,9 +27,9 @@ class Solution:
                 count2 += 1
 
         ans = []
-        if count1 > l/3:
+        if count1 > l//3:
             ans.append(num1)
-        if count2 > l/3:
+        if count2 > l//3:
             ans.append(num2)
         
         return ans
