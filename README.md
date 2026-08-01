@@ -17,6 +17,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0053-maximum-subarray](https://github.com/tejeshMore-dev/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/tejeshMore-dev/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/tejeshMore-dev/leetcode/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/tejeshMore-dev/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/tejeshMore-dev/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejeshMore-dev/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -62,6 +63,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0003-longest-substring-without-repeating-characters](https://github.com/tejeshMore-dev/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/tejeshMore-dev/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/tejeshMore-dev/leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/tejeshMore-dev/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/tejeshMore-dev/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/tejeshMore-dev/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/tejeshMore-dev/leetcode/tree/master/0202-happy-number) |
@@ -167,6 +169,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/tejeshMore-dev/leetcode/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/tejeshMore-dev/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/tejeshMore-dev/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/tejeshMore-dev/leetcode/tree/master/0733-flood-fill) |
 ## Graph Theory
