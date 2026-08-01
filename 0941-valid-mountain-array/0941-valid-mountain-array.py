@@ -9,7 +9,7 @@ class Solution:
         while i + 1 < l and arr[i] < arr[i+1]:
             i += 1
         
-        # peak can not be last
+        # peak can not be last or first
         if i == l - 1 or i == 0:
             return False
         
