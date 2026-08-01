@@ -45,6 +45,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0781-rabbits-in-forest](https://github.com/tejeshMore-dev/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0860-lemonade-change](https://github.com/tejeshMore-dev/leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/tejeshMore-dev/leetcode/tree/master/0881-boats-to-save-people) |
+| [0918-maximum-sum-circular-subarray](https://github.com/tejeshMore-dev/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0941-valid-mountain-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0941-valid-mountain-array) |
 | [1029-two-city-scheduling](https://github.com/tejeshMore-dev/leetcode/tree/master/1029-two-city-scheduling) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -109,6 +110,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0392-is-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/0392-is-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tejeshMore-dev/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/tejeshMore-dev/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0918-maximum-sum-circular-subarray](https://github.com/tejeshMore-dev/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -172,6 +174,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0053-maximum-subarray](https://github.com/tejeshMore-dev/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/tejeshMore-dev/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/tejeshMore-dev/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -258,9 +261,14 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/tejeshMore-dev/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/tejeshMore-dev/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0769-max-chunks-to-make-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/tejeshMore-dev/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
