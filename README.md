@@ -34,6 +34,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0268-missing-number](https://github.com/tejeshMore-dev/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tejeshMore-dev/leetcode/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/tejeshMore-dev/leetcode/tree/master/0289-game-of-life) |
+| [0303-range-sum-query-immutable](https://github.com/tejeshMore-dev/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/tejeshMore-dev/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tejeshMore-dev/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/tejeshMore-dev/leetcode/tree/master/0399-evaluate-division) |
@@ -225,6 +226,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/tejeshMore-dev/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tejeshMore-dev/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0981-time-based-key-value-store](https://github.com/tejeshMore-dev/leetcode/tree/master/0981-time-based-key-value-store) |
 ## Randomized
@@ -281,6 +283,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/tejeshMore-dev/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1732-find-the-highest-altitude](https://github.com/tejeshMore-dev/leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Queue
 |  |
