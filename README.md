@@ -13,6 +13,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0027-remove-element](https://github.com/tejeshMore-dev/leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/tejeshMore-dev/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/tejeshMore-dev/leetcode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/tejeshMore-dev/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/tejeshMore-dev/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/tejeshMore-dev/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0088-merge-sorted-array) |
@@ -83,6 +84,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/tejeshMore-dev/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/tejeshMore-dev/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejeshMore-dev/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/tejeshMore-dev/leetcode/tree/master/0198-house-robber) |
@@ -199,6 +201,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/tejeshMore-dev/leetcode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/tejeshMore-dev/leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/tejeshMore-dev/leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/tejeshMore-dev/leetcode/tree/master/0621-task-scheduler) |
