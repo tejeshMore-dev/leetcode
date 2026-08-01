@@ -12,8 +12,6 @@ class Solution:
         
         ans = []
         for f, char in f_list:
-            while f > 0:
-                ans.append(char)
-                f -= 1
+            ans.append(char * f)
             
         return "".join(ans)
