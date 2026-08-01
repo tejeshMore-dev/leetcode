@@ -2,7 +2,7 @@ from collections import defaultdict
 
 class Solution:
     def lemonadeChange(self, bills: List[int]) -> bool:
-        PRICE= 5
+        PRICE = 5
         cash = defaultdict(int)
         cash_list = [20, 10, 5]
 
@@ -11,11 +11,12 @@ class Solution:
                 return True
 
             for c in cash_list:
-                if amount >= c and c in cash and cash[c]:
+                if amount >= c and cash[c]:
                     cash[c] -= 1
-                    amount -= c
-                    if pay(amount):
+                    if pay(amount - c):
                         return True
+                    
+                    cash[c] += 1
             
             return False
 
