@@ -25,7 +25,7 @@ class Solution:
             return ans1
 
         total = sum(nums)
-        ans2 = helper(1, l, 0)
+        ans2 = helper(0, l, 0)
 
         return max(ans1, total - ans2)
         
