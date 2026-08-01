@@ -33,6 +33,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0229-majority-element-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/tejeshMore-dev/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tejeshMore-dev/leetcode/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/tejeshMore-dev/leetcode/tree/master/0289-game-of-life) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/tejeshMore-dev/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tejeshMore-dev/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/tejeshMore-dev/leetcode/tree/master/0399-evaluate-division) |
@@ -177,6 +178,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0036-valid-sudoku](https://github.com/tejeshMore-dev/leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/tejeshMore-dev/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/tejeshMore-dev/leetcode/tree/master/0200-number-of-islands) |
+| [0289-game-of-life](https://github.com/tejeshMore-dev/leetcode/tree/master/0289-game-of-life) |
 | [0733-flood-fill](https://github.com/tejeshMore-dev/leetcode/tree/master/0733-flood-fill) |
 ## Graph Theory
 |  |
@@ -303,4 +305,8 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | ------- |
 | [0268-missing-number](https://github.com/tejeshMore-dev/leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/tejeshMore-dev/leetcode/tree/master/0645-set-mismatch) |
+## Simulation
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/tejeshMore-dev/leetcode/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
