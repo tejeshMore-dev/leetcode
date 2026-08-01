@@ -1,23 +1,23 @@
 class Solution:
     def validMountainArray(self, arr: List[int]) -> bool:
         l = len(arr) 
-
         if l < 3:
             return False
         
-        incr = False
-        decr = False
-
-        i = 1
-        while i < l and arr[i] > arr[i-1]:
-            incr = True
+        i = 0
+        #climb 
+        while i + 1 < l and arr[i] < arr[i+1]:
             i += 1
         
-        while i < l and arr[i] < arr[i-1]:
-            decr = True
+        # peak can not be last
+        if i == l - 1 or i == 0:
+            return False
+        
+        #Descend
+        while i + 1 < l and arr[i] > arr[i+1]:
             i += 1
         
-        return i == l and incr and decr
+        return i == l - 1
 
 
         
