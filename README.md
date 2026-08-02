@@ -66,6 +66,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1248-count-number-of-nice-subarrays](https://github.com/tejeshMore-dev/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1310-xor-queries-of-a-subarray](https://github.com/tejeshMore-dev/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1395-count-number-of-teams](https://github.com/tejeshMore-dev/leetcode/tree/master/1395-count-number-of-teams) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/tejeshMore-dev/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1480-running-sum-of-1d-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -160,6 +161,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tejeshMore-dev/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/tejeshMore-dev/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tejeshMore-dev/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1395-count-number-of-teams](https://github.com/tejeshMore-dev/leetcode/tree/master/1395-count-number-of-teams) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/tejeshMore-dev/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/tejeshMore-dev/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/tejeshMore-dev/leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
@@ -385,4 +387,12 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | ------- |
 | [0289-game-of-life](https://github.com/tejeshMore-dev/leetcode/tree/master/0289-game-of-life) |
 | [1094-car-pooling](https://github.com/tejeshMore-dev/leetcode/tree/master/1094-car-pooling) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/tejeshMore-dev/leetcode/tree/master/1395-count-number-of-teams) |
+## Segment Tree
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/tejeshMore-dev/leetcode/tree/master/1395-count-number-of-teams) |
 <!---LeetCode Topics End-->
