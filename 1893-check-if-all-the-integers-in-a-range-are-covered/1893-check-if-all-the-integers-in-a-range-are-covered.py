@@ -6,16 +6,16 @@ class Solution:
             l = max(l, left)
             r = min(r, right)
 
-            while l <= r:
-                i = l - left
-                if 0 <= i < len(coverage):
-                    coverage[i] += 1
-                    
-                l += 1
-
-
+            if l <= r:
+                coverage[l - left] += 1
+                if (r - left + 1) < len(coverage):
+                    coverage[r - left + 1] -= 1
+                
+        current_coverage = 0
         for val in coverage:
-            if val == 0:
+            current_coverage += val
+
+            if current_coverage == 0:
                 return False
-        
+
         return True
