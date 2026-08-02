@@ -71,6 +71,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/tejeshMore-dev/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1991-find-the-middle-index-in-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/tejeshMore-dev/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2574-left-and-right-sum-differences](https://github.com/tejeshMore-dev/leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
 | ------- |
@@ -316,6 +317,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1480-running-sum-of-1d-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/tejeshMore-dev/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2574-left-and-right-sum-differences](https://github.com/tejeshMore-dev/leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Queue
 |  |
 | ------- |
