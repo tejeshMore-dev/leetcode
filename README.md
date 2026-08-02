@@ -60,6 +60,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0941-valid-mountain-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0941-valid-mountain-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tejeshMore-dev/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1029-two-city-scheduling](https://github.com/tejeshMore-dev/leetcode/tree/master/1029-two-city-scheduling) |
+| [1248-count-number-of-nice-subarrays](https://github.com/tejeshMore-dev/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1732-find-the-highest-altitude](https://github.com/tejeshMore-dev/leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -96,6 +97,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0781-rabbits-in-forest](https://github.com/tejeshMore-dev/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tejeshMore-dev/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/tejeshMore-dev/leetcode/tree/master/0981-time-based-key-value-store) |
+| [1248-count-number-of-nice-subarrays](https://github.com/tejeshMore-dev/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/tejeshMore-dev/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 ## String
 |  |
@@ -140,6 +142,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tejeshMore-dev/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1248-count-number-of-nice-subarrays](https://github.com/tejeshMore-dev/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sorting
 |  |
 | ------- |
@@ -233,6 +236,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0268-missing-number](https://github.com/tejeshMore-dev/leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tejeshMore-dev/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0781-rabbits-in-forest](https://github.com/tejeshMore-dev/leetcode/tree/master/0781-rabbits-in-forest) |
+| [1248-count-number-of-nice-subarrays](https://github.com/tejeshMore-dev/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Design
 |  |
 | ------- |
@@ -300,6 +304,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0560-subarray-sum-equals-k](https://github.com/tejeshMore-dev/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/tejeshMore-dev/leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tejeshMore-dev/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/tejeshMore-dev/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/tejeshMore-dev/leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Queue
