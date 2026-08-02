@@ -7,13 +7,12 @@ class Solution:
         ans = 0
 
         for f in s_counter.values():
-            while f in f_set and f >0:
+            while f in f_set and f > 0:
                 f -= 1
                 ans += 1
             
             f_set.add(f)
     
-
         return ans
         
 
