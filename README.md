@@ -71,6 +71,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1395-count-number-of-teams](https://github.com/tejeshMore-dev/leetcode/tree/master/1395-count-number-of-teams) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/tejeshMore-dev/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1480-running-sum-of-1d-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1572-matrix-diagonal-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/tejeshMore-dev/leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1720-decode-xored-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1720-decode-xored-array) |
@@ -228,6 +229,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0566-reshape-the-matrix](https://github.com/tejeshMore-dev/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/tejeshMore-dev/leetcode/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/tejeshMore-dev/leetcode/tree/master/0766-toeplitz-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Graph Theory
 |  |
 | ------- |
