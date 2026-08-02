@@ -62,6 +62,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0918-maximum-sum-circular-subarray](https://github.com/tejeshMore-dev/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0941-valid-mountain-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0941-valid-mountain-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tejeshMore-dev/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/tejeshMore-dev/leetcode/tree/master/1029-two-city-scheduling) |
 | [1094-car-pooling](https://github.com/tejeshMore-dev/leetcode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/tejeshMore-dev/leetcode/tree/master/1109-corporate-flight-bookings) |
@@ -194,6 +195,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0645-set-mismatch](https://github.com/tejeshMore-dev/leetcode/tree/master/0645-set-mismatch) |
 | [0769-max-chunks-to-make-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0881-boats-to-save-people](https://github.com/tejeshMore-dev/leetcode/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/tejeshMore-dev/leetcode/tree/master/1029-two-city-scheduling) |
 | [1094-car-pooling](https://github.com/tejeshMore-dev/leetcode/tree/master/1094-car-pooling) |
 | [1331-rank-transform-of-an-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -301,6 +303,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0455-assign-cookies](https://github.com/tejeshMore-dev/leetcode/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/tejeshMore-dev/leetcode/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/tejeshMore-dev/leetcode/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Memoization
 |  |
