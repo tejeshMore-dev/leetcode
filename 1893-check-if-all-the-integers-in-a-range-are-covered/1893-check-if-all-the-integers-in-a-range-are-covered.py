@@ -3,6 +3,9 @@ class Solution:
         coverage = [0] * (right - left + 1)
 
         for l, r in ranges:
+            l = max(l, left)
+            r = min(r, right)
+
             while l <= r:
                 i = l - left
                 if 0 <= i < len(coverage):
