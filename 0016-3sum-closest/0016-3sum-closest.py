@@ -5,7 +5,7 @@ class Solution:
         min_diff = float('inf')
         ans = 0
 
-        for i in range(n):
+        for i in range(n - 2):
             l = i + 1
             r = n - 1
 
@@ -14,7 +14,7 @@ class Solution:
                 diff = target - total
 
                 if abs(diff) < min_diff:
-                    min_diff = min(min_diff, abs(diff))
+                    min_diff = abs(diff)
                     ans = total
 
                 if diff == 0:
