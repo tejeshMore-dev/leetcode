@@ -507,4 +507,12 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tejeshMore-dev/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/tejeshMore-dev/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/tejeshMore-dev/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
