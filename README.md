@@ -51,6 +51,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/tejeshMore-dev/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/tejeshMore-dev/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/tejeshMore-dev/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/tejeshMore-dev/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/tejeshMore-dev/leetcode/tree/master/0566-reshape-the-matrix) |
@@ -151,6 +152,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0409-longest-palindrome](https://github.com/tejeshMore-dev/leetcode/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/tejeshMore-dev/leetcode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/tejeshMore-dev/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/tejeshMore-dev/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0763-partition-labels](https://github.com/tejeshMore-dev/leetcode/tree/master/0763-partition-labels) |
 | [0981-time-based-key-value-store](https://github.com/tejeshMore-dev/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/tejeshMore-dev/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -211,6 +213,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0442-find-all-duplicates-in-an-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/tejeshMore-dev/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/tejeshMore-dev/leetcode/tree/master/0455-assign-cookies) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/tejeshMore-dev/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0611-valid-triangle-number](https://github.com/tejeshMore-dev/leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/tejeshMore-dev/leetcode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/tejeshMore-dev/leetcode/tree/master/0645-set-mismatch) |
@@ -344,6 +347,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0392-is-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/tejeshMore-dev/leetcode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/tejeshMore-dev/leetcode/tree/master/0455-assign-cookies) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/tejeshMore-dev/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0611-valid-triangle-number](https://github.com/tejeshMore-dev/leetcode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/tejeshMore-dev/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0763-partition-labels](https://github.com/tejeshMore-dev/leetcode/tree/master/0763-partition-labels) |
