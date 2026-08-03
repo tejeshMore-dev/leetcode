@@ -68,6 +68,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0781-rabbits-in-forest](https://github.com/tejeshMore-dev/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0860-lemonade-change](https://github.com/tejeshMore-dev/leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/tejeshMore-dev/leetcode/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/tejeshMore-dev/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tejeshMore-dev/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0941-valid-mountain-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0941-valid-mountain-array) |
@@ -223,6 +224,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0645-set-mismatch](https://github.com/tejeshMore-dev/leetcode/tree/master/0645-set-mismatch) |
 | [0769-max-chunks-to-make-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0881-boats-to-save-people](https://github.com/tejeshMore-dev/leetcode/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/tejeshMore-dev/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/tejeshMore-dev/leetcode/tree/master/1029-two-city-scheduling) |
@@ -359,6 +361,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0763-partition-labels](https://github.com/tejeshMore-dev/leetcode/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/tejeshMore-dev/leetcode/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/tejeshMore-dev/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/tejeshMore-dev/leetcode/tree/master/2337-move-pieces-to-obtain-a-string) |
