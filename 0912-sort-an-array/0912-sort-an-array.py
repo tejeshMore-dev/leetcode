@@ -47,6 +47,4 @@ class Solution:
 
 
         sort(0, n - 1)
-        return temp
-
-        
+        return nums        
