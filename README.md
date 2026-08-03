@@ -14,6 +14,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0015-3sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/tejeshMore-dev/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tejeshMore-dev/leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/tejeshMore-dev/leetcode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0045-jump-game-ii) |
@@ -308,6 +309,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0015-3sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/tejeshMore-dev/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tejeshMore-dev/leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/tejeshMore-dev/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0088-merge-sorted-array) |
