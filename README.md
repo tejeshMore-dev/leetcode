@@ -67,6 +67,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0781-rabbits-in-forest](https://github.com/tejeshMore-dev/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0860-lemonade-change](https://github.com/tejeshMore-dev/leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/tejeshMore-dev/leetcode/tree/master/0881-boats-to-save-people) |
+| [0912-sort-an-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tejeshMore-dev/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0941-valid-mountain-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0941-valid-mountain-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tejeshMore-dev/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -212,6 +213,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0645-set-mismatch](https://github.com/tejeshMore-dev/leetcode/tree/master/0645-set-mismatch) |
 | [0769-max-chunks-to-make-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0881-boats-to-save-people](https://github.com/tejeshMore-dev/leetcode/tree/master/0881-boats-to-save-people) |
+| [0912-sort-an-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/tejeshMore-dev/leetcode/tree/master/1029-two-city-scheduling) |
 | [1094-car-pooling](https://github.com/tejeshMore-dev/leetcode/tree/master/1094-car-pooling) |
@@ -265,6 +267,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0053-maximum-subarray](https://github.com/tejeshMore-dev/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/tejeshMore-dev/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tejeshMore-dev/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
 |  |
@@ -272,6 +275,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0215-kth-largest-element-in-an-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/tejeshMore-dev/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/tejeshMore-dev/leetcode/tree/master/0621-task-scheduler) |
+| [0912-sort-an-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0912-sort-an-array) |
 | [1094-car-pooling](https://github.com/tejeshMore-dev/leetcode/tree/master/1094-car-pooling) |
 ## Quickselect
 |  |
@@ -422,6 +426,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/tejeshMore-dev/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0912-sort-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -461,4 +466,16 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | ------- |
 | [0143-reorder-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0234-palindrome-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
