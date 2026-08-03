@@ -139,6 +139,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tejeshMore-dev/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/tejeshMore-dev/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/tejeshMore-dev/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/tejeshMore-dev/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/tejeshMore-dev/leetcode/tree/master/0125-valid-palindrome) |
@@ -171,6 +172,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tejeshMore-dev/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/tejeshMore-dev/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/tejeshMore-dev/leetcode/tree/master/0055-jump-game) |
@@ -324,6 +326,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tejeshMore-dev/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/tejeshMore-dev/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/tejeshMore-dev/leetcode/tree/master/0016-3sum-closest) |
@@ -491,4 +494,8 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0912-sort-an-array) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/tejeshMore-dev/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
