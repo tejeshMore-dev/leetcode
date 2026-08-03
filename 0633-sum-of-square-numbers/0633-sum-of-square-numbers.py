@@ -1,7 +1,7 @@
 class Solution:
     def judgeSquareSum(self, c: int) -> bool:
         l = 0
-        r = isqrt(c) - 1
+        r = isqrt(c)
 
         while l <= r:
             square = (l**2) + (r**2)
