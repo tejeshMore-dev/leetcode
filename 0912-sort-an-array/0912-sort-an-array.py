@@ -4,6 +4,7 @@ class Solution:
         temp = [0] * n
         
         def merge(l: int, mid: int, r: int) -> None:
+            print(l, mid, r)
             i = l
             j = mid + 1
             wi = l
@@ -39,9 +40,10 @@ class Solution:
 
             sort(l, mid)
             sort(mid + 1, r)
-            
-            # if nums[mid] <= nums[mid + 1]:
-            #     return
+            print(l, r)
+
+            if nums[mid] <= nums[mid + 1]:
+                return
             
             merge(l, mid, r)
 
