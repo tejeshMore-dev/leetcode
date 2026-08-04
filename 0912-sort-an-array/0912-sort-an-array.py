@@ -4,7 +4,6 @@ class Solution:
         temp = [0] * n
         
         def merge(l: int, mid: int, r: int) -> None:
-            print(l, mid, r)
             i = l
             j = mid + 1
             wi = l
