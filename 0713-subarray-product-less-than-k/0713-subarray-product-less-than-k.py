@@ -9,7 +9,7 @@ class Solution:
             current_product *= nums[r]
 
             while current_product >= k and l <= r :
-                current_product /= nums[l]
+                current_product //= nums[l]
                 l += 1
             
             ans += r - l + 1
