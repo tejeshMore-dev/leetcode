@@ -8,8 +8,7 @@ class Solution:
             if blocks[i] == "W":
                 whites += 1
             
-            if i - k >= 0:
-                if blocks[i - k] == "W":
+            if i - k >= 0 and blocks[i - k] == "W":
                     whites -= 1
             
             if i >= (k - 1):
