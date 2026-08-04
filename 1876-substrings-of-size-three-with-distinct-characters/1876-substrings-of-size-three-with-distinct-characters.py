@@ -15,15 +15,14 @@ class Solution:
 
 
             if i - k >= 0:
-                char = s[i - k]
-                index = ord(char) - ord('a')
-                if frequency_counter[index] == 1:
+                old_char = s[i - k]
+                old_index = ord(old_char) - ord('a')
+                if frequency_counter[old_index] == 1:
                     unique -= 1
                 
-                frequency_counter[index] -= 1
+                frequency_counter[old_index] -= 1
             
-            if i > 1:
-                if unique == k:
+            if i >= (k - 1) and unique == k:
                     ans += 1
         
         return ans
