@@ -144,6 +144,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/tejeshMore-dev/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tejeshMore-dev/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/tejeshMore-dev/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/tejeshMore-dev/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
 | ------- |
@@ -177,6 +178,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [2337-move-pieces-to-obtain-a-string](https://github.com/tejeshMore-dev/leetcode/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/tejeshMore-dev/leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2381-shifting-letters-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/2381-shifting-letters-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/tejeshMore-dev/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
 | ------- |
@@ -220,6 +222,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tejeshMore-dev/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/tejeshMore-dev/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/tejeshMore-dev/leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/tejeshMore-dev/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
 | ------- |
