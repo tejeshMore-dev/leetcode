@@ -6,10 +6,10 @@ class Solution:
         l = 0
 
         for r in range(n):
-            i = ord(s[r]) - ord('a')
-            f_counter[i] += 1
+            right_i = ord(s[r]) - ord('a')
+            f_counter[right_i] += 1
 
-            while f_counter[i] > 2 and l <= r:
+            while f_counter[right_i] > 2 and l <= r:
                 left_i = ord(s[l]) - ord('a')            
                 f_counter[left_i] -= 1
                 l += 1
