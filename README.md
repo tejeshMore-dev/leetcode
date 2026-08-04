@@ -91,6 +91,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tejeshMore-dev/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/tejeshMore-dev/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1480-running-sum-of-1d-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tejeshMore-dev/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1572-matrix-diagonal-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/tejeshMore-dev/leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
@@ -213,6 +214,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0746-min-cost-climbing-stairs](https://github.com/tejeshMore-dev/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tejeshMore-dev/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1395-count-number-of-teams](https://github.com/tejeshMore-dev/leetcode/tree/master/1395-count-number-of-teams) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tejeshMore-dev/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/tejeshMore-dev/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/tejeshMore-dev/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/tejeshMore-dev/leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
@@ -231,6 +233,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1248-count-number-of-nice-subarrays](https://github.com/tejeshMore-dev/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tejeshMore-dev/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tejeshMore-dev/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tejeshMore-dev/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tejeshMore-dev/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/tejeshMore-dev/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/tejeshMore-dev/leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
