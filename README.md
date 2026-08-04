@@ -168,6 +168,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/tejeshMore-dev/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tejeshMore-dev/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/tejeshMore-dev/leetcode/tree/master/2337-move-pieces-to-obtain-a-string) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/tejeshMore-dev/leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2381-shifting-letters-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/2381-shifting-letters-ii) |
 ## Stack
 |  |
@@ -206,6 +207,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0643-maximum-average-subarray-i](https://github.com/tejeshMore-dev/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1248-count-number-of-nice-subarrays](https://github.com/tejeshMore-dev/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tejeshMore-dev/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/tejeshMore-dev/leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Sorting
 |  |
 | ------- |
