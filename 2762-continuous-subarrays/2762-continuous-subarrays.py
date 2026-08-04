@@ -15,7 +15,7 @@ class Solution:
                 max_queue.pop()
             max_queue.append(r)
             
-            while 0 < abs(nums[min_queue[0]] - nums[max_queue[0]]) > 2:
+            while nums[max_queue[0]] - nums[min_queue[0]] > 2:
                 if min_queue[0] == l:
                     min_queue.popleft()
                 
