@@ -11,12 +11,12 @@ class Solution:
             
             if frequency_counter[index] == 0:
                 unique += 1
+
             frequency_counter[index] += 1
 
-
             if i - k >= 0:
-                old_char = s[i - k]
-                old_index = ord(old_char) - ord('a')
+                old_index = ord(s[i - k]) - ord('a')
+                
                 if frequency_counter[old_index] == 1:
                     unique -= 1
                 
