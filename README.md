@@ -88,6 +88,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1029-two-city-scheduling](https://github.com/tejeshMore-dev/leetcode/tree/master/1029-two-city-scheduling) |
 | [1094-car-pooling](https://github.com/tejeshMore-dev/leetcode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/tejeshMore-dev/leetcode/tree/master/1109-corporate-flight-bookings) |
+| [1122-relative-sort-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1122-relative-sort-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/tejeshMore-dev/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1310-xor-queries-of-a-subarray](https://github.com/tejeshMore-dev/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -152,6 +153,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0904-fruit-into-baskets](https://github.com/tejeshMore-dev/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tejeshMore-dev/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/tejeshMore-dev/leetcode/tree/master/0981-time-based-key-value-store) |
+| [1122-relative-sort-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1122-relative-sort-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/tejeshMore-dev/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/tejeshMore-dev/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -285,6 +287,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0977-squares-of-a-sorted-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/tejeshMore-dev/leetcode/tree/master/1029-two-city-scheduling) |
 | [1094-car-pooling](https://github.com/tejeshMore-dev/leetcode/tree/master/1094-car-pooling) |
+| [1122-relative-sort-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/tejeshMore-dev/leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/tejeshMore-dev/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -584,6 +587,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | ------- |
 | [0561-array-partition](https://github.com/tejeshMore-dev/leetcode/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0912-sort-an-array) |
+| [1122-relative-sort-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1122-relative-sort-array) |
 ## Manacher
 |  |
 | ------- |
@@ -592,10 +596,12 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/tejeshMore-dev/leetcode/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/tejeshMore-dev/leetcode/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1122-relative-sort-array) |
 ## Ordered Set
 |  |
 | ------- |
