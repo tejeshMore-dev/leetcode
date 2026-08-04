@@ -39,13 +39,11 @@ class Solution:
 
             sort(l, mid)
             sort(mid + 1, r)
-            print(l, r)
 
             if nums[mid] <= nums[mid + 1]:
                 return
             
             merge(l, mid, r)
-
 
         sort(0, n - 1)
         return nums        
