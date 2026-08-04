@@ -47,6 +47,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0304-range-sum-query-2d-immutable](https://github.com/tejeshMore-dev/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/tejeshMore-dev/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0324-wiggle-sort-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0324-wiggle-sort-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/tejeshMore-dev/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tejeshMore-dev/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/tejeshMore-dev/leetcode/tree/master/0399-evaluate-division) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -127,6 +128,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0229-majority-element-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/tejeshMore-dev/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tejeshMore-dev/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/tejeshMore-dev/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tejeshMore-dev/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/tejeshMore-dev/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/tejeshMore-dev/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -260,6 +262,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0242-valid-anagram](https://github.com/tejeshMore-dev/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tejeshMore-dev/leetcode/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0324-wiggle-sort-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/tejeshMore-dev/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/tejeshMore-dev/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/tejeshMore-dev/leetcode/tree/master/0455-assign-cookies) |
@@ -350,6 +353,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/tejeshMore-dev/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/tejeshMore-dev/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/tejeshMore-dev/leetcode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/tejeshMore-dev/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/tejeshMore-dev/leetcode/tree/master/0704-binary-search) |
@@ -405,6 +409,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0234-palindrome-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/tejeshMore-dev/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/tejeshMore-dev/leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/tejeshMore-dev/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/tejeshMore-dev/leetcode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/tejeshMore-dev/leetcode/tree/master/0455-assign-cookies) |
