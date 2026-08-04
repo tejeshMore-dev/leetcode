@@ -1,19 +1,15 @@
 class Solution:
     def maximumBags(self, capacity: List[int], rocks: List[int], additionalRocks: int) -> int:
-        remaining = list(zip(capacity, rocks))
-        remaining.sort(key = lambda x : x[0] - x[1])
-        put = additionalRocks
+        remaining = [(c - r)  for c, r in zip(capacity, rocks)]
+        remaining.sort()
+
         full = 0
         n = len(remaining)
 
-        for i in range(n):
-            c, r = remaining[i]
-
-            if put >= (c - r):
+        for remaining_block in remaining:
+            if additionalRocks >= remaining_block:
                 full += 1
-                put -= (c - r)
-            else:
-                break
+                additionalRocks -= remaining_block
 
         return full
         
