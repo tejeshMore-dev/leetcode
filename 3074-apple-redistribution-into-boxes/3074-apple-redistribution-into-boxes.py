@@ -1,16 +1,15 @@
 class Solution:
     def minimumBoxes(self, apple: List[int], capacity: List[int]) -> int:
-        total_apples = sum(apple)
+        remaining = sum(apple)
         capacity.sort(reverse=True)
-        ans = 0
-        current = 0
+        total_boxes = 0
         
         for size in capacity:
-            current += size
-            ans += 1
+            remaining -= size
+            total_boxes += 1
 
-            if current >= total_apples:
-                return ans
+            if remaining <= 0 :
+                return total_boxes
         
 
         
