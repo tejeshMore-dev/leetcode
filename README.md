@@ -115,6 +115,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [2016-maximum-difference-between-increasing-elements](https://github.com/tejeshMore-dev/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/tejeshMore-dev/leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tejeshMore-dev/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/tejeshMore-dev/leetcode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2381-shifting-letters-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/2381-shifting-letters-ii) |
 | [2574-left-and-right-sum-differences](https://github.com/tejeshMore-dev/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2762-continuous-subarrays](https://github.com/tejeshMore-dev/leetcode/tree/master/2762-continuous-subarrays) |
@@ -296,6 +297,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1331-rank-transform-of-an-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/tejeshMore-dev/leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/tejeshMore-dev/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/tejeshMore-dev/leetcode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -470,6 +472,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1029-two-city-scheduling](https://github.com/tejeshMore-dev/leetcode/tree/master/1029-two-city-scheduling) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/tejeshMore-dev/leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/tejeshMore-dev/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/tejeshMore-dev/leetcode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 ## Counting
 |  |
 | ------- |
