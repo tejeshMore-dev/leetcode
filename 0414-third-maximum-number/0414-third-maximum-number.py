@@ -1,22 +1,19 @@
 class Solution:
     def thirdMax(self, nums: List[int]) -> int:
-        i = 0
-        k = 3
-        nums.sort()
-        n = len(nums)
+        first = second = third = None
 
-        if n < k:
-            return nums[-1]
-             
-        ans = nums[-1]
-        unique = 1
-
-        for i in range(n - 2, -1, -1):
-            if nums[i] != nums[i + 1]:
-                unique += 1
+        for num in nums:
+            if num in (first, second, third):
+                continue
             
-            if unique == k:
-                return nums[i]
-        
-        return nums[-1]
-        
+            if first is None or num > first:
+                third = second
+                second = first
+                first = num
+            elif second is None or num > second:
+                third = second
+                second = num
+            elif third is None or num > third:
+                third = num
+
+        return first if third is None else third
