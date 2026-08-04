@@ -114,6 +114,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/tejeshMore-dev/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/tejeshMore-dev/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/tejeshMore-dev/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1833-maximum-ice-cream-bars](https://github.com/tejeshMore-dev/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1854-maximum-population-year](https://github.com/tejeshMore-dev/leetcode/tree/master/1854-maximum-population-year) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/tejeshMore-dev/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1991-find-the-middle-index-in-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1991-find-the-middle-index-in-array) |
@@ -313,6 +314,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1630-arithmetic-subarrays](https://github.com/tejeshMore-dev/leetcode/tree/master/1630-arithmetic-subarrays) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/tejeshMore-dev/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1710-maximum-units-on-a-truck](https://github.com/tejeshMore-dev/leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [1833-maximum-ice-cream-bars](https://github.com/tejeshMore-dev/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/tejeshMore-dev/leetcode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/tejeshMore-dev/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Depth-First Search
@@ -493,6 +495,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/tejeshMore-dev/leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/tejeshMore-dev/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1710-maximum-units-on-a-truck](https://github.com/tejeshMore-dev/leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [1833-maximum-ice-cream-bars](https://github.com/tejeshMore-dev/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/tejeshMore-dev/leetcode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/tejeshMore-dev/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Counting
@@ -620,6 +623,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0561-array-partition](https://github.com/tejeshMore-dev/leetcode/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1122-relative-sort-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/tejeshMore-dev/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Manacher
 |  |
 | ------- |
