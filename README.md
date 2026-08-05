@@ -122,6 +122,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1991-find-the-middle-index-in-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/tejeshMore-dev/leetcode/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/tejeshMore-dev/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/tejeshMore-dev/leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tejeshMore-dev/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/tejeshMore-dev/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -177,6 +178,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/tejeshMore-dev/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tejeshMore-dev/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/tejeshMore-dev/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tejeshMore-dev/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
@@ -321,6 +323,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1710-maximum-units-on-a-truck](https://github.com/tejeshMore-dev/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/tejeshMore-dev/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-single-threaded-cpu](https://github.com/tejeshMore-dev/leetcode/tree/master/1834-single-threaded-cpu) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/tejeshMore-dev/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/tejeshMore-dev/leetcode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/tejeshMore-dev/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -387,6 +390,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1094-car-pooling](https://github.com/tejeshMore-dev/leetcode/tree/master/1094-car-pooling) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tejeshMore-dev/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1834-single-threaded-cpu](https://github.com/tejeshMore-dev/leetcode/tree/master/1834-single-threaded-cpu) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2762-continuous-subarrays](https://github.com/tejeshMore-dev/leetcode/tree/master/2762-continuous-subarrays) |
 ## Quickselect
 |  |
