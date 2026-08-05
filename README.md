@@ -114,6 +114,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1710-maximum-units-on-a-truck](https://github.com/tejeshMore-dev/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1720-decode-xored-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/tejeshMore-dev/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/tejeshMore-dev/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/tejeshMore-dev/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/tejeshMore-dev/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/tejeshMore-dev/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -327,6 +328,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1630-arithmetic-subarrays](https://github.com/tejeshMore-dev/leetcode/tree/master/1630-arithmetic-subarrays) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/tejeshMore-dev/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1710-maximum-units-on-a-truck](https://github.com/tejeshMore-dev/leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/tejeshMore-dev/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1833-maximum-ice-cream-bars](https://github.com/tejeshMore-dev/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-single-threaded-cpu](https://github.com/tejeshMore-dev/leetcode/tree/master/1834-single-threaded-cpu) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -366,6 +368,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0733-flood-fill](https://github.com/tejeshMore-dev/leetcode/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/tejeshMore-dev/leetcode/tree/master/0766-toeplitz-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/tejeshMore-dev/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 ## Graph Theory
 |  |
 | ------- |
@@ -387,6 +390,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0912-sort-an-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tejeshMore-dev/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/tejeshMore-dev/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/tejeshMore-dev/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Heap (Priority Queue)
 |  |
@@ -399,6 +403,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0973-k-closest-points-to-origin](https://github.com/tejeshMore-dev/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/tejeshMore-dev/leetcode/tree/master/1094-car-pooling) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tejeshMore-dev/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/tejeshMore-dev/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1834-single-threaded-cpu](https://github.com/tejeshMore-dev/leetcode/tree/master/1834-single-threaded-cpu) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -410,6 +415,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0324-wiggle-sort-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/tejeshMore-dev/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/tejeshMore-dev/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/tejeshMore-dev/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Binary Search
 |  |
@@ -568,6 +574,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/tejeshMore-dev/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/tejeshMore-dev/leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1732-find-the-highest-altitude](https://github.com/tejeshMore-dev/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/tejeshMore-dev/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/tejeshMore-dev/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1854-maximum-population-year](https://github.com/tejeshMore-dev/leetcode/tree/master/1854-maximum-population-year) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/tejeshMore-dev/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -608,6 +615,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/tejeshMore-dev/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/tejeshMore-dev/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1720-decode-xored-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1720-decode-xored-array) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/tejeshMore-dev/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 ## Simulation
 |  |
 | ------- |
