@@ -134,6 +134,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [2381-shifting-letters-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/2381-shifting-letters-ii) |
 | [2574-left-and-right-sum-differences](https://github.com/tejeshMore-dev/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2762-continuous-subarrays](https://github.com/tejeshMore-dev/leetcode/tree/master/2762-continuous-subarrays) |
+| [2848-points-that-intersect-with-cars](https://github.com/tejeshMore-dev/leetcode/tree/master/2848-points-that-intersect-with-cars) |
 | [3074-apple-redistribution-into-boxes](https://github.com/tejeshMore-dev/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Hash Table
 |  |
@@ -183,6 +184,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tejeshMore-dev/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/tejeshMore-dev/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2848-points-that-intersect-with-cars](https://github.com/tejeshMore-dev/leetcode/tree/master/2848-points-that-intersect-with-cars) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tejeshMore-dev/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
@@ -582,6 +584,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [2100-find-good-days-to-rob-the-bank](https://github.com/tejeshMore-dev/leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2381-shifting-letters-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/2381-shifting-letters-ii) |
 | [2574-left-and-right-sum-differences](https://github.com/tejeshMore-dev/leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2848-points-that-intersect-with-cars](https://github.com/tejeshMore-dev/leetcode/tree/master/2848-points-that-intersect-with-cars) |
 ## Queue
 |  |
 | ------- |
