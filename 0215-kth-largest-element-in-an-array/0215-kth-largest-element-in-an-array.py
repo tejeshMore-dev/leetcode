@@ -9,14 +9,30 @@ class Solution:
         SC: O(k)
 
         '''
+        OFFSET = 10_000
+        LENGTH = 20_000
+        nums_counter = [0] * (LENGTH + 1)
 
+        for num in nums:
+            nums_counter[num + OFFSET] += 1
+
+    
+        ans = 0
+        for i in range(len(nums_counter) - 1, -1, -1):
+            if nums_counter[i]:
+                k -= nums_counter[i] 
+                
+                if k <= 0:
+                    return i - OFFSET
+
+        return ans
 
         # n = len(nums)
         # l, r = 0, n - 1
         # target = n - k
         
         # while l <= r:
-        #     pivot = random.randint(l, r)
+        #     pivot = target
         #     nums[r], nums[pivot] = nums[pivot], nums[r]
             
         #     position = l
@@ -34,13 +50,13 @@ class Solution:
         #     else:
         #         r = position - 1
 
-        min_heap = []
+        # min_heap = []
 
-        for num in nums: # TC:O(n log k), SC:O(n)
-            heapq.heappush(min_heap, num)
+        # for num in nums: # TC:O(n log k), SC:O(n)
+        #     heapq.heappush(min_heap, num)
 
-            if len(min_heap) > k:
-                heapq.heappop(min_heap)
+        #     if len(min_heap) > k:
+        #         heapq.heappop(min_heap)
         
-        return min_heap[0]
+        # return min_heap[0]
 
