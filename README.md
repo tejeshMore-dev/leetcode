@@ -16,6 +16,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0018-4sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tejeshMore-dev/leetcode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/tejeshMore-dev/leetcode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/tejeshMore-dev/leetcode/tree/master/0049-group-anagrams) |
@@ -429,6 +430,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/tejeshMore-dev/leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0209-minimum-size-subarray-sum) |
