@@ -450,6 +450,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0209-minimum-size-subarray-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/tejeshMore-dev/leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/tejeshMore-dev/leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/tejeshMore-dev/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/tejeshMore-dev/leetcode/tree/master/0367-valid-perfect-square) |
@@ -743,5 +744,6 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/tejeshMore-dev/leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/tejeshMore-dev/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
