@@ -2,25 +2,51 @@ from collections import defaultdict
 
 class Solution:
     def splitPainting(self, segments: List[List[int]]) -> List[List[int]]:
-        changes = defaultdict(int)
+        events = []
 
         for start, end, color in segments:
-            changes[start] += color
-            changes[end] -= color
+            events.append([start, color])
+            events.append([end, -color])
 
         ans = []
         current_color = 0
-        previous = 0
+        previous = events[0][0]
+        events.sort()
 
-        for position in sorted(changes):
-            if current_color > 0:
+        # print(events)
+
+        for position, change in events:
+            if position !=  previous and current_color > 0:
                 ans.append([
                     previous,
                     position,
                     current_color
                 ])
 
-            current_color += changes[position]
+            current_color += change
             previous = position
 
         return ans
+        
+        # changes = defaultdict(int)
+
+        # for start, end, color in segments:
+        #     changes[start] += color
+        #     changes[end] -= color
+
+        # ans = []
+        # current_color = 0
+        # previous = 0
+
+        # for position in sorted(changes):
+        #     if current_color > 0:
+        #         ans.append([
+        #             previous,
+        #             position,
+        #             current_color
+        #         ])
+
+        #     current_color += changes[position]
+        #     previous = position
+
+        # return ans
