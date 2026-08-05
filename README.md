@@ -137,6 +137,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1991-find-the-middle-index-in-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/tejeshMore-dev/leetcode/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/tejeshMore-dev/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2080-range-frequency-queries](https://github.com/tejeshMore-dev/leetcode/tree/master/2080-range-frequency-queries) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/tejeshMore-dev/leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tejeshMore-dev/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -196,6 +197,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tejeshMore-dev/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/tejeshMore-dev/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1943-describe-the-painting](https://github.com/tejeshMore-dev/leetcode/tree/master/1943-describe-the-painting) |
+| [2080-range-frequency-queries](https://github.com/tejeshMore-dev/leetcode/tree/master/2080-range-frequency-queries) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2848-points-that-intersect-with-cars](https://github.com/tejeshMore-dev/leetcode/tree/master/2848-points-that-intersect-with-cars) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tejeshMore-dev/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -467,6 +469,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0981-time-based-key-value-store](https://github.com/tejeshMore-dev/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/tejeshMore-dev/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2080-range-frequency-queries](https://github.com/tejeshMore-dev/leetcode/tree/master/2080-range-frequency-queries) |
 ## Math
 |  |
 | ------- |
@@ -492,6 +495,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0380-insert-delete-getrandom-o1](https://github.com/tejeshMore-dev/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0729-my-calendar-i](https://github.com/tejeshMore-dev/leetcode/tree/master/0729-my-calendar-i) |
 | [0981-time-based-key-value-store](https://github.com/tejeshMore-dev/leetcode/tree/master/0981-time-based-key-value-store) |
+| [2080-range-frequency-queries](https://github.com/tejeshMore-dev/leetcode/tree/master/2080-range-frequency-queries) |
 ## Randomized
 |  |
 | ------- |
@@ -675,6 +679,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | ------- |
 | [0729-my-calendar-i](https://github.com/tejeshMore-dev/leetcode/tree/master/0729-my-calendar-i) |
 | [1395-count-number-of-teams](https://github.com/tejeshMore-dev/leetcode/tree/master/1395-count-number-of-teams) |
+| [2080-range-frequency-queries](https://github.com/tejeshMore-dev/leetcode/tree/master/2080-range-frequency-queries) |
 ## Linked List
 |  |
 | ------- |
