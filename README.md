@@ -86,6 +86,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0724-find-pivot-index](https://github.com/tejeshMore-dev/leetcode/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/tejeshMore-dev/leetcode/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/tejeshMore-dev/leetcode/tree/master/0733-flood-fill) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/tejeshMore-dev/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/tejeshMore-dev/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/tejeshMore-dev/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0769-max-chunks-to-make-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
@@ -462,6 +463,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0704-binary-search](https://github.com/tejeshMore-dev/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/tejeshMore-dev/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/tejeshMore-dev/leetcode/tree/master/0729-my-calendar-i) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/tejeshMore-dev/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0981-time-based-key-value-store](https://github.com/tejeshMore-dev/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/tejeshMore-dev/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
