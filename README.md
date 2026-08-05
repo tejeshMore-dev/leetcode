@@ -429,6 +429,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/tejeshMore-dev/leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/tejeshMore-dev/leetcode/tree/master/0268-missing-number) |
@@ -445,6 +446,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/tejeshMore-dev/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/tejeshMore-dev/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/tejeshMore-dev/leetcode/tree/master/0202-happy-number) |
@@ -714,4 +716,8 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/tejeshMore-dev/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/tejeshMore-dev/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
