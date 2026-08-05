@@ -435,6 +435,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0268-missing-number](https://github.com/tejeshMore-dev/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tejeshMore-dev/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/tejeshMore-dev/leetcode/tree/master/0367-valid-perfect-square) |
 | [0611-valid-triangle-number](https://github.com/tejeshMore-dev/leetcode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/tejeshMore-dev/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/tejeshMore-dev/leetcode/tree/master/0704-binary-search) |
@@ -451,6 +452,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0189-rotate-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/tejeshMore-dev/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/tejeshMore-dev/leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/tejeshMore-dev/leetcode/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tejeshMore-dev/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/tejeshMore-dev/leetcode/tree/master/0633-sum-of-square-numbers) |
