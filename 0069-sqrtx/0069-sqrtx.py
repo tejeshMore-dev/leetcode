@@ -6,7 +6,6 @@ class Solution:
 
         while l <= r:
             mid = l + (r - l) // 2
-            print(l, mid, r)
             square = mid * mid
 
             if x >= square:
