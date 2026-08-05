@@ -1,20 +1,23 @@
 class Solution:
     def numberOfPoints(self, nums: List[List[int]]) -> int:
-        MAX_POINT = 101
-        coverage = [0] * MAX_POINT
+        # MAX_POINT = 101
+        events = []
 
         for start, end in nums:
-            coverage[start] += 1
-            if end + 1 < MAX_POINT:
-                coverage[end + 1] -= 1
+            events.append((start, 1))
+            events.append((end + 1, -1))
         
-        current_coverage = 0
+        events.sort()
+        change = 0
+        previous = events[0][0]
         ans = 0
-        for val in coverage:
-            current_coverage += val
 
-            if current_coverage:
-                ans += 1
+        for i, val in events:
+            if change > 0:
+                ans += i - previous
+            
+            change += val
+            previous = i
         
         return ans
             
