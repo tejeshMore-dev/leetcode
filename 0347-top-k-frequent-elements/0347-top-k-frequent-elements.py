@@ -19,9 +19,8 @@ class Solution:
         for i in range(len(frequencies) - 1, -1, -1):
             if frequencies[i]:
                 for num in frequencies[i]:
-                    if k > 0 :
-                        ans.append(num)
-                        k -= 1
+                    ans.append(num)
+                    k -= 1
                     
                     if k == 0:
                         return ans
