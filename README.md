@@ -134,6 +134,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/tejeshMore-dev/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/tejeshMore-dev/leetcode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2381-shifting-letters-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/2381-shifting-letters-ii) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/tejeshMore-dev/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2574-left-and-right-sum-differences](https://github.com/tejeshMore-dev/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2762-continuous-subarrays](https://github.com/tejeshMore-dev/leetcode/tree/master/2762-continuous-subarrays) |
 | [2848-points-that-intersect-with-cars](https://github.com/tejeshMore-dev/leetcode/tree/master/2848-points-that-intersect-with-cars) |
@@ -341,6 +342,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/tejeshMore-dev/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/tejeshMore-dev/leetcode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/tejeshMore-dev/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3074-apple-redistribution-into-boxes](https://github.com/tejeshMore-dev/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Depth-First Search
 |  |
@@ -413,6 +415,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1834-single-threaded-cpu](https://github.com/tejeshMore-dev/leetcode/tree/master/1834-single-threaded-cpu) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/tejeshMore-dev/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2762-continuous-subarrays](https://github.com/tejeshMore-dev/leetcode/tree/master/2762-continuous-subarrays) |
 ## Quickselect
 |  |
@@ -509,6 +512,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tejeshMore-dev/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/tejeshMore-dev/leetcode/tree/master/2337-move-pieces-to-obtain-a-string) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/tejeshMore-dev/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Memoization
 |  |
 | ------- |
@@ -542,6 +546,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1833-maximum-ice-cream-bars](https://github.com/tejeshMore-dev/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/tejeshMore-dev/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/tejeshMore-dev/leetcode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/tejeshMore-dev/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3074-apple-redistribution-into-boxes](https://github.com/tejeshMore-dev/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Counting
 |  |
@@ -590,6 +595,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1991-find-the-middle-index-in-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/tejeshMore-dev/leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2381-shifting-letters-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/2381-shifting-letters-ii) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/tejeshMore-dev/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2574-left-and-right-sum-differences](https://github.com/tejeshMore-dev/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2848-points-that-intersect-with-cars](https://github.com/tejeshMore-dev/leetcode/tree/master/2848-points-that-intersect-with-cars) |
 ## Queue
