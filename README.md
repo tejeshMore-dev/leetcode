@@ -467,6 +467,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0350-intersection-of-two-arrays-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/tejeshMore-dev/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/tejeshMore-dev/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/tejeshMore-dev/leetcode/tree/master/0441-arranging-coins) |
 | [0611-valid-triangle-number](https://github.com/tejeshMore-dev/leetcode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/tejeshMore-dev/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/tejeshMore-dev/leetcode/tree/master/0704-binary-search) |
@@ -491,6 +492,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0268-missing-number](https://github.com/tejeshMore-dev/leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/tejeshMore-dev/leetcode/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tejeshMore-dev/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0441-arranging-coins](https://github.com/tejeshMore-dev/leetcode/tree/master/0441-arranging-coins) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/tejeshMore-dev/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0781-rabbits-in-forest](https://github.com/tejeshMore-dev/leetcode/tree/master/0781-rabbits-in-forest) |
