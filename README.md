@@ -105,6 +105,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0974-subarray-sums-divisible-by-k](https://github.com/tejeshMore-dev/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/tejeshMore-dev/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/tejeshMore-dev/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1029-two-city-scheduling](https://github.com/tejeshMore-dev/leetcode/tree/master/1029-two-city-scheduling) |
 | [1094-car-pooling](https://github.com/tejeshMore-dev/leetcode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/tejeshMore-dev/leetcode/tree/master/1109-corporate-flight-bookings) |
@@ -478,6 +479,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0911-online-election](https://github.com/tejeshMore-dev/leetcode/tree/master/0911-online-election) |
 | [0981-time-based-key-value-store](https://github.com/tejeshMore-dev/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/tejeshMore-dev/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/tejeshMore-dev/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2080-range-frequency-queries](https://github.com/tejeshMore-dev/leetcode/tree/master/2080-range-frequency-queries) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/tejeshMore-dev/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
