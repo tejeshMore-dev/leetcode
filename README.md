@@ -246,6 +246,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tejeshMore-dev/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tejeshMore-dev/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/tejeshMore-dev/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1544-make-the-string-great](https://github.com/tejeshMore-dev/leetcode/tree/master/1544-make-the-string-great) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/tejeshMore-dev/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/tejeshMore-dev/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tejeshMore-dev/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -265,6 +266,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0769-max-chunks-to-make-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0844-backspace-string-compare](https://github.com/tejeshMore-dev/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tejeshMore-dev/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/tejeshMore-dev/leetcode/tree/master/1544-make-the-string-great) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Dynamic Programming
 |  |
