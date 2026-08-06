@@ -143,6 +143,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [2161-partition-array-according-to-given-pivot](https://github.com/tejeshMore-dev/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/tejeshMore-dev/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/tejeshMore-dev/leetcode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/tejeshMore-dev/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2381-shifting-letters-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/2381-shifting-letters-ii) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/tejeshMore-dev/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/tejeshMore-dev/leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -354,6 +355,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/tejeshMore-dev/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/tejeshMore-dev/leetcode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/tejeshMore-dev/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/tejeshMore-dev/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/tejeshMore-dev/leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3074-apple-redistribution-into-boxes](https://github.com/tejeshMore-dev/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -472,6 +474,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1004-max-consecutive-ones-iii](https://github.com/tejeshMore-dev/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2080-range-frequency-queries](https://github.com/tejeshMore-dev/leetcode/tree/master/2080-range-frequency-queries) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/tejeshMore-dev/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/tejeshMore-dev/leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Math
 |  |
@@ -545,6 +548,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0977-squares-of-a-sorted-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tejeshMore-dev/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/tejeshMore-dev/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/tejeshMore-dev/leetcode/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/tejeshMore-dev/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/tejeshMore-dev/leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
