@@ -493,6 +493,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0981-time-based-key-value-store](https://github.com/tejeshMore-dev/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/tejeshMore-dev/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tejeshMore-dev/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1201-ugly-number-iii](https://github.com/tejeshMore-dev/leetcode/tree/master/1201-ugly-number-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/tejeshMore-dev/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/tejeshMore-dev/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/tejeshMore-dev/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -519,6 +520,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0633-sum-of-square-numbers](https://github.com/tejeshMore-dev/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0781-rabbits-in-forest](https://github.com/tejeshMore-dev/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0973-k-closest-points-to-origin](https://github.com/tejeshMore-dev/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1201-ugly-number-iii](https://github.com/tejeshMore-dev/leetcode/tree/master/1201-ugly-number-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/tejeshMore-dev/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/tejeshMore-dev/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/tejeshMore-dev/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -794,4 +796,28 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | ------- |
 | [0278-first-bad-version](https://github.com/tejeshMore-dev/leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/tejeshMore-dev/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Combinatorics
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/tejeshMore-dev/leetcode/tree/master/1201-ugly-number-iii) |
+## Number Theory
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/tejeshMore-dev/leetcode/tree/master/1201-ugly-number-iii) |
+## Least Common Multiple
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/tejeshMore-dev/leetcode/tree/master/1201-ugly-number-iii) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/tejeshMore-dev/leetcode/tree/master/1201-ugly-number-iii) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/tejeshMore-dev/leetcode/tree/master/1201-ugly-number-iii) |
+## Inclusion-Exclusion Principle
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/tejeshMore-dev/leetcode/tree/master/1201-ugly-number-iii) |
 <!---LeetCode Topics End-->
