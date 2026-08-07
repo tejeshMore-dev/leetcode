@@ -103,6 +103,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0918-maximum-sum-circular-subarray](https://github.com/tejeshMore-dev/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0941-valid-mountain-array) |
+| [0946-validate-stack-sequences](https://github.com/tejeshMore-dev/leetcode/tree/master/0946-validate-stack-sequences) |
 | [0973-k-closest-points-to-origin](https://github.com/tejeshMore-dev/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tejeshMore-dev/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -268,6 +269,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0682-baseball-game](https://github.com/tejeshMore-dev/leetcode/tree/master/0682-baseball-game) |
 | [0769-max-chunks-to-make-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0844-backspace-string-compare](https://github.com/tejeshMore-dev/leetcode/tree/master/0844-backspace-string-compare) |
+| [0946-validate-stack-sequences](https://github.com/tejeshMore-dev/leetcode/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tejeshMore-dev/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/tejeshMore-dev/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1544-make-the-string-great](https://github.com/tejeshMore-dev/leetcode/tree/master/1544-make-the-string-great) |
@@ -724,6 +726,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0566-reshape-the-matrix](https://github.com/tejeshMore-dev/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/tejeshMore-dev/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/tejeshMore-dev/leetcode/tree/master/0844-backspace-string-compare) |
+| [0946-validate-stack-sequences](https://github.com/tejeshMore-dev/leetcode/tree/master/0946-validate-stack-sequences) |
 | [1094-car-pooling](https://github.com/tejeshMore-dev/leetcode/tree/master/1094-car-pooling) |
 | [1441-build-an-array-with-stack-operations](https://github.com/tejeshMore-dev/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tejeshMore-dev/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
