@@ -259,6 +259,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [2337-move-pieces-to-obtain-a-string](https://github.com/tejeshMore-dev/leetcode/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/tejeshMore-dev/leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2381-shifting-letters-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/2381-shifting-letters-ii) |
+| [2390-removing-stars-from-a-string](https://github.com/tejeshMore-dev/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tejeshMore-dev/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
@@ -276,6 +277,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1441-build-an-array-with-stack-operations](https://github.com/tejeshMore-dev/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1544-make-the-string-great](https://github.com/tejeshMore-dev/leetcode/tree/master/1544-make-the-string-great) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2390-removing-stars-from-a-string](https://github.com/tejeshMore-dev/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -733,6 +735,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1094-car-pooling](https://github.com/tejeshMore-dev/leetcode/tree/master/1094-car-pooling) |
 | [1441-build-an-array-with-stack-operations](https://github.com/tejeshMore-dev/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tejeshMore-dev/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2390-removing-stars-from-a-string](https://github.com/tejeshMore-dev/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Binary Indexed Tree
 |  |
 | ------- |
