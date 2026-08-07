@@ -111,6 +111,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1004-max-consecutive-ones-iii](https://github.com/tejeshMore-dev/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tejeshMore-dev/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1029-two-city-scheduling](https://github.com/tejeshMore-dev/leetcode/tree/master/1029-two-city-scheduling) |
+| [1046-last-stone-weight](https://github.com/tejeshMore-dev/leetcode/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/tejeshMore-dev/leetcode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/tejeshMore-dev/leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1122-relative-sort-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1122-relative-sort-array) |
@@ -462,6 +463,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0703-kth-largest-element-in-a-stream](https://github.com/tejeshMore-dev/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/tejeshMore-dev/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/tejeshMore-dev/leetcode/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/tejeshMore-dev/leetcode/tree/master/1094-car-pooling) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tejeshMore-dev/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/tejeshMore-dev/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
