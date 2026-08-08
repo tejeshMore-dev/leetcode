@@ -1,20 +1,13 @@
 class Solution:
     def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
-        ans_map = {}
+        next_greater = {}
         stack = []
 
         for j, num in enumerate(nums2):
-            while stack and nums2[stack[-1]] < num:
-                i = stack.pop()
-                ans_map[nums2[i]] = num
+            while stack and stack[-1] < num:
+                smaller = stack.pop()
+                next_greater[smaller] = num
 
-            stack.append(j)
+            stack.append(num)
 
-        ans = []
-        for num in nums1:
-            if num in ans_map:
-                ans.append(ans_map[num])
-            else:
-                ans.append(-1)
-        
-        return ans
+        return [ next_greater.get(num, -1) for num in nums1 ]
