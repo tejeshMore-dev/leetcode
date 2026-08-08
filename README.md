@@ -249,6 +249,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0678-valid-parenthesis-string](https://github.com/tejeshMore-dev/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/tejeshMore-dev/leetcode/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/tejeshMore-dev/leetcode/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/tejeshMore-dev/leetcode/tree/master/0856-score-of-parentheses) |
 | [0981-time-based-key-value-store](https://github.com/tejeshMore-dev/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1021-remove-outermost-parentheses](https://github.com/tejeshMore-dev/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tejeshMore-dev/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -278,6 +279,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0735-asteroid-collision](https://github.com/tejeshMore-dev/leetcode/tree/master/0735-asteroid-collision) |
 | [0769-max-chunks-to-make-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0844-backspace-string-compare](https://github.com/tejeshMore-dev/leetcode/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/tejeshMore-dev/leetcode/tree/master/0856-score-of-parentheses) |
 | [0946-validate-stack-sequences](https://github.com/tejeshMore-dev/leetcode/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/tejeshMore-dev/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tejeshMore-dev/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -880,6 +882,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | ------- |
 | [0022-generate-parentheses](https://github.com/tejeshMore-dev/leetcode/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/tejeshMore-dev/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/tejeshMore-dev/leetcode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/tejeshMore-dev/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tejeshMore-dev/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
