@@ -289,6 +289,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0856-score-of-parentheses](https://github.com/tejeshMore-dev/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tejeshMore-dev/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/tejeshMore-dev/leetcode/tree/master/0946-validate-stack-sequences) |
+| [1006-clumsy-factorial](https://github.com/tejeshMore-dev/leetcode/tree/master/1006-clumsy-factorial) |
 | [1021-remove-outermost-parentheses](https://github.com/tejeshMore-dev/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tejeshMore-dev/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/tejeshMore-dev/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -563,6 +564,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0633-sum-of-square-numbers](https://github.com/tejeshMore-dev/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0781-rabbits-in-forest](https://github.com/tejeshMore-dev/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0973-k-closest-points-to-origin](https://github.com/tejeshMore-dev/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1006-clumsy-factorial](https://github.com/tejeshMore-dev/leetcode/tree/master/1006-clumsy-factorial) |
 | [1201-ugly-number-iii](https://github.com/tejeshMore-dev/leetcode/tree/master/1201-ugly-number-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/tejeshMore-dev/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/tejeshMore-dev/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -762,6 +764,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0735-asteroid-collision](https://github.com/tejeshMore-dev/leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/tejeshMore-dev/leetcode/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/tejeshMore-dev/leetcode/tree/master/0946-validate-stack-sequences) |
+| [1006-clumsy-factorial](https://github.com/tejeshMore-dev/leetcode/tree/master/1006-clumsy-factorial) |
 | [1094-car-pooling](https://github.com/tejeshMore-dev/leetcode/tree/master/1094-car-pooling) |
 | [1441-build-an-array-with-stack-operations](https://github.com/tejeshMore-dev/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tejeshMore-dev/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
