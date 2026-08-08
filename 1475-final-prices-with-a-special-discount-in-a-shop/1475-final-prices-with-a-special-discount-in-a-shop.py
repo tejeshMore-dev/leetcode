@@ -5,10 +5,10 @@ class Solution:
         ans = prices.copy()
 
         for j, price in enumerate(prices):
-            while stack and stack[-1][0] >= price:
-                val, i = stack.pop()
-                ans[i] = val - price
+            while stack and prices[stack[-1]] >= price:
+                i = stack.pop()
+                ans[i] -= price
             
-            stack.append((price, j))
+            stack.append(j)
         
         return ans
