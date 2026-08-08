@@ -226,6 +226,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0003-longest-substring-without-repeating-characters](https://github.com/tejeshMore-dev/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/tejeshMore-dev/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/tejeshMore-dev/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/tejeshMore-dev/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/tejeshMore-dev/leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/tejeshMore-dev/leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/tejeshMore-dev/leetcode/tree/master/0125-valid-palindrome) |
@@ -287,6 +288,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tejeshMore-dev/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/tejeshMore-dev/leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/tejeshMore-dev/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/tejeshMore-dev/leetcode/tree/master/0055-jump-game) |
@@ -872,6 +874,11 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tejeshMore-dev/leetcode/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/tejeshMore-dev/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tejeshMore-dev/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/tejeshMore-dev/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
