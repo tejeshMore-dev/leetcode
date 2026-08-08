@@ -253,6 +253,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tejeshMore-dev/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/tejeshMore-dev/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1544-make-the-string-great](https://github.com/tejeshMore-dev/leetcode/tree/master/1544-make-the-string-great) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tejeshMore-dev/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/tejeshMore-dev/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/tejeshMore-dev/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tejeshMore-dev/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -280,6 +281,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1441-build-an-array-with-stack-operations](https://github.com/tejeshMore-dev/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1544-make-the-string-great](https://github.com/tejeshMore-dev/leetcode/tree/master/1544-make-the-string-great) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tejeshMore-dev/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/tejeshMore-dev/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
@@ -871,4 +873,5 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/tejeshMore-dev/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tejeshMore-dev/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
