@@ -1,23 +1,19 @@
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
-        opening = 0
-        closing = 0
         ans = []
-        current = []
+        stack = [ ["", 0, 0] ] # [ current, opening: int, closing: int]
 
-        def helper(opening: int, closing: int):
+        while stack:
+            current, opening, closing = stack.pop()
+
             if len(current) == 2*n:
-                ans.append("".join(current))
+                ans.append(current)
+                continue
             
+            if opening > closing:
+                stack.append([ current + ")", opening, closing + 1 ])
+                
             if opening < n:
-                current.append("(")
-                helper(opening + 1, closing)
-                current.pop()
-            
-            if opening > closing and closing < n:
-                current.append(")")
-                helper(opening, closing + 1)
-                current.pop()
-        
-        helper(0, 0)
+                stack.append([ current + "(", opening + 1, closing ])
+
         return ans
