@@ -91,6 +91,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0729-my-calendar-i](https://github.com/tejeshMore-dev/leetcode/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/tejeshMore-dev/leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/tejeshMore-dev/leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/tejeshMore-dev/leetcode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tejeshMore-dev/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/tejeshMore-dev/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/tejeshMore-dev/leetcode/tree/master/0766-toeplitz-matrix) |
@@ -295,6 +296,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0678-valid-parenthesis-string](https://github.com/tejeshMore-dev/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/tejeshMore-dev/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/tejeshMore-dev/leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/tejeshMore-dev/leetcode/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0844-backspace-string-compare](https://github.com/tejeshMore-dev/leetcode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/tejeshMore-dev/leetcode/tree/master/0856-score-of-parentheses) |
@@ -753,6 +755,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0316-remove-duplicate-letters](https://github.com/tejeshMore-dev/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/tejeshMore-dev/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/tejeshMore-dev/leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/tejeshMore-dev/leetcode/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0907-sum-of-subarray-minimums](https://github.com/tejeshMore-dev/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/tejeshMore-dev/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
