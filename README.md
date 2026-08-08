@@ -242,6 +242,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0387-first-unique-character-in-a-string](https://github.com/tejeshMore-dev/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/tejeshMore-dev/leetcode/tree/master/0399-evaluate-division) |
+| [0402-remove-k-digits](https://github.com/tejeshMore-dev/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/tejeshMore-dev/leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejeshMore-dev/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tejeshMore-dev/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -284,6 +285,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0150-evaluate-reverse-polish-notation](https://github.com/tejeshMore-dev/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/tejeshMore-dev/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/tejeshMore-dev/leetcode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/tejeshMore-dev/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/tejeshMore-dev/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/tejeshMore-dev/leetcode/tree/master/0735-asteroid-collision) |
@@ -649,6 +651,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0179-largest-number](https://github.com/tejeshMore-dev/leetcode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/tejeshMore-dev/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0324-wiggle-sort-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0324-wiggle-sort-ii) |
+| [0402-remove-k-digits](https://github.com/tejeshMore-dev/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/tejeshMore-dev/leetcode/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/tejeshMore-dev/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tejeshMore-dev/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -737,6 +740,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/tejeshMore-dev/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/tejeshMore-dev/leetcode/tree/master/0402-remove-k-digits) |
 | [0769-max-chunks-to-make-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/tejeshMore-dev/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
