@@ -12,4 +12,4 @@ class Solution:
                 else:
                     unmatched += 1
         
-        return (unmatched + 1) // 2
+        return ceil(unmatched / 2)
