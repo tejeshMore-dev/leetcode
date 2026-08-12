@@ -847,6 +847,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/tejeshMore-dev/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/tejeshMore-dev/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0148-sort-list) |
@@ -860,6 +861,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/tejeshMore-dev/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
