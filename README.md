@@ -100,6 +100,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0766-toeplitz-matrix](https://github.com/tejeshMore-dev/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0769-max-chunks-to-make-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0781-rabbits-in-forest](https://github.com/tejeshMore-dev/leetcode/tree/master/0781-rabbits-in-forest) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/tejeshMore-dev/leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0853-car-fleet](https://github.com/tejeshMore-dev/leetcode/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/tejeshMore-dev/leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/tejeshMore-dev/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -418,6 +419,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0646-maximum-length-of-pair-chain](https://github.com/tejeshMore-dev/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/tejeshMore-dev/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0769-max-chunks-to-make-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/tejeshMore-dev/leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0853-car-fleet](https://github.com/tejeshMore-dev/leetcode/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/tejeshMore-dev/leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/tejeshMore-dev/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -520,6 +522,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0621-task-scheduler](https://github.com/tejeshMore-dev/leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/tejeshMore-dev/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/tejeshMore-dev/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/tejeshMore-dev/leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0912-sort-an-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/tejeshMore-dev/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/tejeshMore-dev/leetcode/tree/master/1046-last-stone-weight) |
@@ -570,6 +573,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0713-subarray-product-less-than-k](https://github.com/tejeshMore-dev/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/tejeshMore-dev/leetcode/tree/master/0729-my-calendar-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tejeshMore-dev/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/tejeshMore-dev/leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0875-koko-eating-bananas](https://github.com/tejeshMore-dev/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0911-online-election](https://github.com/tejeshMore-dev/leetcode/tree/master/0911-online-election) |
 | [0981-time-based-key-value-store](https://github.com/tejeshMore-dev/leetcode/tree/master/0981-time-based-key-value-store) |
@@ -660,6 +664,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0633-sum-of-square-numbers](https://github.com/tejeshMore-dev/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/tejeshMore-dev/leetcode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/tejeshMore-dev/leetcode/tree/master/0763-partition-labels) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/tejeshMore-dev/leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0844-backspace-string-compare](https://github.com/tejeshMore-dev/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/tejeshMore-dev/leetcode/tree/master/0881-boats-to-save-people) |
