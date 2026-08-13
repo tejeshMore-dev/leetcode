@@ -11,8 +11,8 @@ class Solution:
         if not root:
             return 0
         
-        depth = 1
+        depth = 0
         for child in root.children:
-            depth = max(self.maxDepth(child) + 1, depth)
+            depth = max(self.maxDepth(child), depth)
         
-        return depth
+        return 1 + depth
