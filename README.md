@@ -1016,6 +1016,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0590-n-ary-tree-postorder-traversal](https://github.com/tejeshMore-dev/leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/tejeshMore-dev/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/tejeshMore-dev/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0993-cousins-in-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -1024,6 +1025,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 ## Binary Search Tree
 |  |
 | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/tejeshMore-dev/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
@@ -1045,6 +1047,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0572-subtree-of-another-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/tejeshMore-dev/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/tejeshMore-dev/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0993-cousins-in-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
