@@ -32,6 +32,7 @@ class Solution:
         
         if fast and fast.next:
             node.next = fast.next
+            fast.next = None
 
         return dummy.next
 
