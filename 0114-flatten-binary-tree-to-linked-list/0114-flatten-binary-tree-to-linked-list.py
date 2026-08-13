@@ -14,7 +14,7 @@ class Solution:
 
         def helper(node):
             nonlocal previous
-            
+
             if not node:
                 return
 
@@ -24,8 +24,6 @@ class Solution:
             node.right = previous
             node.left = None
             previous = node
-            
-            return node
-        
-        return helper(root)
-        
+                    
+        helper(root)
+        return root
