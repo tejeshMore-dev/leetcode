@@ -11,11 +11,8 @@ class Solution:
         
         def helper(node):
             if not node:
-                return node
+                return None
 
-            if not node.left and not node.right:
-                return node
-            
             node.right, node.left = helper(node.left), helper(node.right)
 
             return node
