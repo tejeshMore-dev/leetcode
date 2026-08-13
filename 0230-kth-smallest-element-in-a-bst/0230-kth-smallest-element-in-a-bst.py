@@ -12,16 +12,18 @@ class Solution:
             nonlocal k, ans
             
             if not node:
-                return 
+                return False
             
-            helper(node.left)
+            if helper(node.left):
+                return True
             
             k -= 1
             if k == 0:
                 ans = node.val
-                return
+                return True
             
-            helper(node.right)
+            if helper(node.right):
+                return True
         
         helper(root)
         return ans
