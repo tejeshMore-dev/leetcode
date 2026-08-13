@@ -299,6 +299,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0071-simplify-path](https://github.com/tejeshMore-dev/leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/tejeshMore-dev/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/tejeshMore-dev/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tejeshMore-dev/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/tejeshMore-dev/leetcode/tree/master/0316-remove-duplicate-letters) |
@@ -458,6 +459,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0100-same-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/tejeshMore-dev/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/tejeshMore-dev/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/tejeshMore-dev/leetcode/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/tejeshMore-dev/leetcode/tree/master/0399-evaluate-division) |
@@ -961,6 +963,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0100-same-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/tejeshMore-dev/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/tejeshMore-dev/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -973,6 +976,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0100-same-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/tejeshMore-dev/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/tejeshMore-dev/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
