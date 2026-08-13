@@ -11,7 +11,7 @@ class Solution:
         SC : O(h)
         '''
         if not root:
-            True
+            return True
         
         def helper(left, right):
             if not left and not right:
