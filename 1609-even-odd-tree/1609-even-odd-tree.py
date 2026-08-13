@@ -44,6 +44,5 @@ class Solution:
                 if node.right:
                     queue.append(node.right)
             
-        
         return True
         
