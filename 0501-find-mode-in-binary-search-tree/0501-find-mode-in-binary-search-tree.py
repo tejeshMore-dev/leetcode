@@ -9,34 +9,30 @@ class Solution:
         if not root:
             return 0
         
-        max_f = 1
-        count = 1
+        max_f = 0
+        count = 0
         ans = []
         previous = None
 
         def helper(node):
-            nonlocal max_f
-            nonlocal ans
-            nonlocal previous 
-            nonlocal count
+            nonlocal max_f, ans, previous, count
 
             if not node:
                 return
 
             helper(node.left)
-            print(node.val)
+            
             if previous == node.val:
                 count += 1
-                    
-                if count == max_f:
-                    ans.append(node.val)
-                elif count > max_f:
-                    max_f = count
-                    ans = [node.val]
             else:
                 count = 1
-                if max_f == 1:
-                    ans.append(node.val)
+            
+            if count == max_f:
+                ans.append(node.val)
+            elif count > max_f:
+                max_f = count
+                ans = [node.val]
+
 
             previous = node.val
             helper(node.right)
