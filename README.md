@@ -304,6 +304,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0144-binary-tree-preorder-traversal](https://github.com/tejeshMore-dev/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tejeshMore-dev/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tejeshMore-dev/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0173-binary-search-tree-iterator](https://github.com/tejeshMore-dev/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/tejeshMore-dev/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/tejeshMore-dev/leetcode/tree/master/0402-remove-k-digits) |
@@ -669,6 +670,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/tejeshMore-dev/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/tejeshMore-dev/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/tejeshMore-dev/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tejeshMore-dev/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -1015,6 +1017,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tejeshMore-dev/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tejeshMore-dev/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/tejeshMore-dev/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/tejeshMore-dev/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tejeshMore-dev/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -1041,6 +1044,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/tejeshMore-dev/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tejeshMore-dev/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tejeshMore-dev/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -1062,6 +1066,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tejeshMore-dev/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tejeshMore-dev/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/tejeshMore-dev/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/tejeshMore-dev/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tejeshMore-dev/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -1110,4 +1115,8 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0572-subtree-of-another-tree) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/tejeshMore-dev/leetcode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
