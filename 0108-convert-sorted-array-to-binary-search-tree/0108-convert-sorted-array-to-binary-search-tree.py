@@ -10,7 +10,7 @@ class Solution:
             if l > r:
                 return None
             
-            mid = l + (r - l) // 2
+            mid = l + (r - l + 1) // 2
             node = TreeNode(nums[mid])
             node.left = build(l, mid - 1)
             node.right = build(mid + 1, r)
