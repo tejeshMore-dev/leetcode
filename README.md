@@ -918,6 +918,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0002-add-two-numbers](https://github.com/tejeshMore-dev/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/tejeshMore-dev/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/tejeshMore-dev/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/tejeshMore-dev/leetcode/tree/master/0141-linked-list-cycle) |
@@ -936,6 +937,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | ------- |
 | [0002-add-two-numbers](https://github.com/tejeshMore-dev/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/tejeshMore-dev/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/tejeshMore-dev/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/tejeshMore-dev/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0234-palindrome-linked-list) |
