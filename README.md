@@ -901,6 +901,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1441-build-an-array-with-stack-operations](https://github.com/tejeshMore-dev/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tejeshMore-dev/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tejeshMore-dev/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/tejeshMore-dev/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/tejeshMore-dev/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/tejeshMore-dev/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Binary Indexed Tree
@@ -930,6 +931,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0234-palindrome-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/tejeshMore-dev/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
