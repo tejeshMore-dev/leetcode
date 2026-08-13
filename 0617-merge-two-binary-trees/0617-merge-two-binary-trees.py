@@ -16,12 +16,7 @@ class Solution:
             if not q:
                 return p 
             
-            merge_sum = 0
-            if p:
-                merge_sum += p.val
-            
-            if q:
-                merge_sum += q.val
+            merge_sum = p.val + q.val
             
             new_node = TreeNode(merge_sum)
 
