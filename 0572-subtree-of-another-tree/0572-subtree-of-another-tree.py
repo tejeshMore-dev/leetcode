@@ -34,4 +34,7 @@ class Solution:
                 helper(node.right)
             )
         
+        if not subRoot:
+            return True
+            
         return helper(root)
