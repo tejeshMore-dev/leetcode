@@ -6,6 +6,10 @@
 #         self.right = right
 class Solution:
     def inorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
+        '''
+        TC: O(n)
+        SC: O(h)
+        '''
         ans = []
 
         def helper(node):
