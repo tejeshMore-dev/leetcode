@@ -29,6 +29,7 @@ class Solution:
                     queue.append(node.right)
 
         return min_depth
+        
         # if not root:
         #     return 0
         
