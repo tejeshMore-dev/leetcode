@@ -9,18 +9,28 @@ class Solution:
         def helper(p, q):
             if not p and not q:
                 return
-
-            if not p:
-                return q
-
-            if not q:
-                return p 
             
-            merge_sum = p.val + q.val
+            merge_sum = 0
+            if p:
+                merge_sum += p.val
+            
+            if q:
+                merge_sum += q.val
             
             new_node = TreeNode(merge_sum)
 
-            new_node.left, new_node.right = helper(p.left, q.left), helper(p.right, q.right)
+            if not p:
+                left = helper(None, q.left)
+                right = helper(None, q.right)
+            elif not q:
+                left = helper(p.left, None)
+                right = helper(p.right, None)
+            else:
+                left = helper(p.left, q.left)
+                right = helper(p.right, q.right)
+
+
+            new_node.left, new_node.right = left, right
 
             return new_node
         
