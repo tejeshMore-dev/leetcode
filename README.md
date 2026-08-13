@@ -657,6 +657,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tejeshMore-dev/leetcode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/tejeshMore-dev/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/tejeshMore-dev/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tejeshMore-dev/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -913,6 +914,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tejeshMore-dev/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/tejeshMore-dev/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -930,6 +932,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tejeshMore-dev/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/tejeshMore-dev/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/tejeshMore-dev/leetcode/tree/master/0203-remove-linked-list-elements) |
