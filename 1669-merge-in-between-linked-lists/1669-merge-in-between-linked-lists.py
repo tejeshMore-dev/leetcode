@@ -15,7 +15,6 @@ class Solution:
             fast = fast.next
             diff -= 1
         
-
         while fast and a:
             previous = slow
             slow = slow.next
@@ -23,7 +22,6 @@ class Solution:
 
             a -= 1
         
-        print(slow.val, fast.val, previous.val)
         previous.next = list2
 
         node = list2
