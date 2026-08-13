@@ -297,6 +297,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | ------- |
 | [0020-valid-parentheses](https://github.com/tejeshMore-dev/leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/tejeshMore-dev/leetcode/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/tejeshMore-dev/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tejeshMore-dev/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -453,6 +454,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/tejeshMore-dev/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/tejeshMore-dev/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/tejeshMore-dev/leetcode/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/tejeshMore-dev/leetcode/tree/master/0399-evaluate-division) |
@@ -949,6 +951,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/tejeshMore-dev/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/tejeshMore-dev/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -957,6 +960,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/tejeshMore-dev/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/tejeshMore-dev/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
