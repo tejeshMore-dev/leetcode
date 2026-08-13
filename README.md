@@ -482,6 +482,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0662-maximum-width-of-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/tejeshMore-dev/leetcode/tree/master/0733-flood-fill) |
 | [0993-cousins-in-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -504,6 +505,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0662-maximum-width-of-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/tejeshMore-dev/leetcode/tree/master/0733-flood-fill) |
 | [0993-cousins-in-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -1013,6 +1015,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0662-maximum-width-of-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/tejeshMore-dev/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0993-cousins-in-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1039,6 +1042,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0662-maximum-width-of-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/tejeshMore-dev/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0993-cousins-in-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
