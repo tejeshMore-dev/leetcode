@@ -13,8 +13,6 @@ class Solution:
         ans = []
 
         def helper(node):
-            nonlocal ans
-
             if not node:
                 return
             
