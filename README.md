@@ -260,6 +260,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0165-compare-version-numbers](https://github.com/tejeshMore-dev/leetcode/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/tejeshMore-dev/leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/tejeshMore-dev/leetcode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/tejeshMore-dev/leetcode/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/tejeshMore-dev/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/tejeshMore-dev/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/tejeshMore-dev/leetcode/tree/master/0383-ransom-note) |
@@ -486,6 +487,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0207-course-schedule](https://github.com/tejeshMore-dev/leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tejeshMore-dev/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/tejeshMore-dev/leetcode/tree/master/0257-binary-tree-paths) |
 | [0399-evaluate-division](https://github.com/tejeshMore-dev/leetcode/tree/master/0399-evaluate-division) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/tejeshMore-dev/leetcode/tree/master/0513-find-bottom-left-tree-value) |
@@ -1062,6 +1064,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0199-binary-tree-right-side-view](https://github.com/tejeshMore-dev/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tejeshMore-dev/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/tejeshMore-dev/leetcode/tree/master/0257-binary-tree-paths) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/tejeshMore-dev/leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/tejeshMore-dev/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -1126,6 +1129,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0199-binary-tree-right-side-view](https://github.com/tejeshMore-dev/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tejeshMore-dev/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/tejeshMore-dev/leetcode/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/tejeshMore-dev/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/tejeshMore-dev/leetcode/tree/master/0513-find-bottom-left-tree-value) |
@@ -1166,6 +1170,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tejeshMore-dev/leetcode/tree/master/0022-generate-parentheses) |
+| [0257-binary-tree-paths](https://github.com/tejeshMore-dev/leetcode/tree/master/0257-binary-tree-paths) |
 ## Trie
 |  |
 | ------- |
