@@ -176,6 +176,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [2104-sum-of-subarray-ranges](https://github.com/tejeshMore-dev/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tejeshMore-dev/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2187-minimum-time-to-complete-trips](https://github.com/tejeshMore-dev/leetcode/tree/master/2187-minimum-time-to-complete-trips) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/tejeshMore-dev/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/tejeshMore-dev/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/tejeshMore-dev/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/tejeshMore-dev/leetcode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
@@ -243,6 +244,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1943-describe-the-painting](https://github.com/tejeshMore-dev/leetcode/tree/master/1943-describe-the-painting) |
 | [2080-range-frequency-queries](https://github.com/tejeshMore-dev/leetcode/tree/master/2080-range-frequency-queries) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/tejeshMore-dev/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2848-points-that-intersect-with-cars](https://github.com/tejeshMore-dev/leetcode/tree/master/2848-points-that-intersect-with-cars) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tejeshMore-dev/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
@@ -1080,6 +1082,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1609-even-odd-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/1609-even-odd-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/tejeshMore-dev/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -1138,6 +1141,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1609-even-odd-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/1609-even-odd-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/tejeshMore-dev/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Data Stream
 |  |
