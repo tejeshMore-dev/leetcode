@@ -12,31 +12,23 @@ class Solution:
         if not node:
             return None
 
-        cloned_node_map = {}
-        start = node.val
-        visited = set([node.val])
+        cloned = {
+            node: Node(node.val)
+        }
         stack = [ node ]
 
-        def get_cloned_node(val):
-            if val not in cloned_node_map:
-                cloned_node_map[val] = Node(val)
-
-            return cloned_node_map[val]
-
         while stack:
-            node = stack.pop()
-            cloned_parent = get_cloned_node(node.val)
+            current = stack.pop()
 
-            for nei in node.neighbors:
-                cloned_child = get_cloned_node(nei.val)
-                cloned_parent.neighbors.append(cloned_child)
-
-                if nei.val not in visited:
-                    visited.add(nei.val)
+            for nei in current.neighbors:
+                if nei not in cloned:
+                    cloned[nei] = Node(nei.val)
                     stack.append(nei)
                 
+                cloned[current].neighbors.append(cloned[nei])
+
         
-        return cloned_node_map[start]
+        return cloned[node]
 
 
 
