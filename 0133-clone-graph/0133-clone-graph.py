@@ -15,6 +15,7 @@ class Solution:
         cloned = {
             node: Node(node.val)
         }
+        
         stack = [ node ]
 
         while stack:
