@@ -6,17 +6,8 @@ class Solution:
         pacific = set()
         atlantic = set()
 
-        # first and last row 
-        for c in range(COLS):
-            pacific.add((0, c))
-            atlantic.add((ROWS-1, c))
-
-        # first and last col 
-        for r in range(ROWS):
-            pacific.add((r, 0))
-            atlantic.add((r, COLS-1))
-
         def dfs(r, c, ocean):
+            ocean.add((r, c))
             for dr, dc in DIRECTIONS:
                 nr = dr + r
                 nc = dc + c
@@ -25,13 +16,15 @@ class Solution:
                     ocean.add((nr, nc))
                     dfs(nr, nc, ocean) 
 
+        # first and last row 
+        for c in range(COLS):
+            dfs(0, c, pacific)
+            dfs(ROWS-1, c, atlantic)
+
+        # first and last col 
         for r in range(ROWS):
-            for c in range(COLS):
-                if (r, c) in pacific:
-                    dfs(r, c, pacific)
-                
-                if (r, c) in atlantic:
-                    dfs(r, c, atlantic)
+            dfs(r, 0, pacific)
+            dfs(r, COLS-1, atlantic)
 
         ans = []
         for r in range(ROWS):
