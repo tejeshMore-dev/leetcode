@@ -9,12 +9,10 @@ class Employee:
 
 class Solution:
     def getImportance(self, employees: List['Employee'], id: int) -> int:
-        graph = {}
+        graph = {
+            employee.id: employee for employee in employees
 
-        for i in range(len(employees)):
-            employee_id = employees[i].id
-            graph[employee_id] = employees[i]
-
+        }
 
         ans = 0
         stack = [ id ]
@@ -22,6 +20,7 @@ class Solution:
         while stack:
             employee_id = stack.pop()
             employee = graph[employee_id]
+            
             ans += employee.importance
 
             for subordinate in employee.subordinates:
