@@ -1,32 +1,26 @@
 class Solution:
     def validPath(self, n: int, edges: List[List[int]], source: int, destination: int) -> bool:
-        graph = defaultdict(list)
-        visited = set()
-
-        for node in range(n):
-            graph[node] = []
+        graph = [[] for _ in range(n)]
 
         for u, v in edges:
             graph[u].append(v)
             graph[v].append(u)
         
         def find_path(node):
-            visited.add(node)
-
             if node == destination:
                 return True
 
             for nei in graph[node]:
-                if nei not in visited:
-                    visited.add(nei)
+                if not visited[nei]:
+                    visited[nei] = True
+                    
                     if find_path(nei):
                         return True
                                 
             return False
-
-        if destination not in graph or source not in graph:
-            return False
-
+        
+        visited = [False] * n
+        visited[source] = True
         return find_path(source)
 
 
