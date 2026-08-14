@@ -496,6 +496,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0513-find-bottom-left-tree-value](https://github.com/tejeshMore-dev/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tejeshMore-dev/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tejeshMore-dev/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/tejeshMore-dev/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -1083,6 +1084,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0513-find-bottom-left-tree-value](https://github.com/tejeshMore-dev/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tejeshMore-dev/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tejeshMore-dev/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/tejeshMore-dev/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -1153,6 +1155,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0513-find-bottom-left-tree-value](https://github.com/tejeshMore-dev/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tejeshMore-dev/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tejeshMore-dev/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/tejeshMore-dev/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0654-maximum-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0654-maximum-binary-tree) |
@@ -1213,4 +1216,8 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0654-maximum-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
