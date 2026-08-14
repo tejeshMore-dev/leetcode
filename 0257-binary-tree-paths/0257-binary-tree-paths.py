@@ -5,28 +5,27 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def binaryTreePaths(self, root: Optional[TreeNode]) -> List[str]:
-        if not root:
-            return []
-        
+    def binaryTreePaths(self, root: Optional[TreeNode]) -> List[str]:        
+        path = []
         ans = []
-        def helper(node, current):
+
+        def helper(node):
             nonlocal ans
 
             if not node:
                 return 
 
-            if current:
-                current += "->"
-                
-            current += str(node.val)
+            path.append(str(node.val))
 
             if not node.left and not node.right:
-                ans.append(current)
+                ans.append("->".join(path))
+                path.pop()
                 return 
             
-            helper(node.left, current)
-            helper(node.right, current)
+            helper(node.left)
+            helper(node.right)
+            path.pop()
 
-        helper(root, "")
+        helper(root)
+
         return ans
