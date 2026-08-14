@@ -27,8 +27,8 @@ class Solution:
             left_subtree_root_val = preorder[preorder_i]
             left_root_post_index = postorder_i[left_subtree_root_val]
 
-            root.left = build(post_left,left_root_post_index)
-            root.right = build(left_root_post_index + 1,post_right - 1)
+            root.left = build(post_left, left_root_post_index)
+            root.right = build(left_root_post_index + 1, post_right-1)
 
             return root
         
