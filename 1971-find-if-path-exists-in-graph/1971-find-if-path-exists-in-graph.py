@@ -6,21 +6,32 @@ class Solution:
             graph[u].append(v)
             graph[v].append(u)
         
-        def find_path(node):
-            if node == destination:
-                return True
+        # def find_path(node):
+        #     if node == destination:
+        #         return True
 
-            for nei in graph[node]:
-                if not visited[nei]:
-                    visited[nei] = True
-                    
-                    if find_path(nei):
-                        return True
+        #     for nei in graph[node]:
+        #         if not visited[nei]:
+        #             visited[nei] = True
+
+        #             if find_path(nei):
+        #                 return True
                                 
-            return False
+        #     return False
         
         visited = [False] * n
         visited[source] = True
-        return find_path(source)
+        stack = [ source ]
+        
+        while stack:
+            node = stack.pop()
 
+            if node == destination:
+                return True
+            
+            for nei in graph[node]:
+                if not visited[nei]:
+                    visited[nei] = True
+                    stack.append(nei)
 
+        return False
