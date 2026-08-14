@@ -42,14 +42,16 @@ class Solution:
             return False
             
         lca = find_lca(root)
+
         start_path = []
         destination_path = []
+
         find_path(lca, startValue, start_path)
         find_path(lca, destValue, destination_path)
 
-        start = "U" * len(start_path)
+        upward_path = "U" * len(start_path)
 
-        return start + "".join(destination_path)
+        return upward_path + "".join(destination_path)
 
 
         
