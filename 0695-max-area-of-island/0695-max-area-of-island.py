@@ -5,10 +5,10 @@ class Solution:
         max_area = 0
         DIRECTIONS = [ [1, 0], [-1, 0], [0, 1], [0, -1] ]
 
-        def calculate_area(r, c):
-            stack = [(r, c)]
+        def calculate_area(row, col):
+            stack = [(row, col)]
             ans = 0
-            grid[r][c] = -1
+            grid[row][col] = -1
             
             while stack:
                 r, c = stack.pop()
