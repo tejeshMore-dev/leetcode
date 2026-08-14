@@ -489,6 +489,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0207-course-schedule](https://github.com/tejeshMore-dev/leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tejeshMore-dev/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/tejeshMore-dev/leetcode/tree/master/0257-binary-tree-paths) |
 | [0399-evaluate-division](https://github.com/tejeshMore-dev/leetcode/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/tejeshMore-dev/leetcode/tree/master/0404-sum-of-left-leaves) |
@@ -1077,6 +1078,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0199-binary-tree-right-side-view](https://github.com/tejeshMore-dev/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tejeshMore-dev/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/tejeshMore-dev/leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/tejeshMore-dev/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/tejeshMore-dev/leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
@@ -1150,6 +1152,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0199-binary-tree-right-side-view](https://github.com/tejeshMore-dev/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tejeshMore-dev/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/tejeshMore-dev/leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/tejeshMore-dev/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/tejeshMore-dev/leetcode/tree/master/0450-delete-node-in-a-bst) |
@@ -1224,4 +1227,12 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/tejeshMore-dev/leetcode/tree/master/0687-longest-univalue-path) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
