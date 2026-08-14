@@ -108,6 +108,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0860-lemonade-change](https://github.com/tejeshMore-dev/leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/tejeshMore-dev/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/tejeshMore-dev/leetcode/tree/master/0881-boats-to-save-people) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/tejeshMore-dev/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/tejeshMore-dev/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/tejeshMore-dev/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/tejeshMore-dev/leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -225,6 +226,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0692-top-k-frequent-words](https://github.com/tejeshMore-dev/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/tejeshMore-dev/leetcode/tree/master/0763-partition-labels) |
 | [0781-rabbits-in-forest](https://github.com/tejeshMore-dev/leetcode/tree/master/0781-rabbits-in-forest) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/tejeshMore-dev/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/tejeshMore-dev/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0911-online-election](https://github.com/tejeshMore-dev/leetcode/tree/master/0911-online-election) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tejeshMore-dev/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -570,6 +572,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0324-wiggle-sort-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/tejeshMore-dev/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0654-maximum-binary-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/tejeshMore-dev/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tejeshMore-dev/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/tejeshMore-dev/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -1070,6 +1073,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0700-search-in-a-binary-search-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/tejeshMore-dev/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/tejeshMore-dev/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/tejeshMore-dev/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/tejeshMore-dev/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -1127,6 +1131,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0700-search-in-a-binary-search-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/tejeshMore-dev/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/tejeshMore-dev/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/tejeshMore-dev/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/tejeshMore-dev/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
