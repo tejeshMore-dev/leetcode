@@ -103,6 +103,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0739-daily-temperatures](https://github.com/tejeshMore-dev/leetcode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tejeshMore-dev/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/tejeshMore-dev/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0752-open-the-lock](https://github.com/tejeshMore-dev/leetcode/tree/master/0752-open-the-lock) |
 | [0766-toeplitz-matrix](https://github.com/tejeshMore-dev/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0769-max-chunks-to-make-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0781-rabbits-in-forest](https://github.com/tejeshMore-dev/leetcode/tree/master/0781-rabbits-in-forest) |
@@ -234,6 +235,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0645-set-mismatch](https://github.com/tejeshMore-dev/leetcode/tree/master/0645-set-mismatch) |
 | [0690-employee-importance](https://github.com/tejeshMore-dev/leetcode/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/tejeshMore-dev/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0752-open-the-lock](https://github.com/tejeshMore-dev/leetcode/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/tejeshMore-dev/leetcode/tree/master/0763-partition-labels) |
 | [0781-rabbits-in-forest](https://github.com/tejeshMore-dev/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tejeshMore-dev/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -291,6 +293,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0647-palindromic-substrings](https://github.com/tejeshMore-dev/leetcode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/tejeshMore-dev/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/tejeshMore-dev/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0752-open-the-lock](https://github.com/tejeshMore-dev/leetcode/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/tejeshMore-dev/leetcode/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/tejeshMore-dev/leetcode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/tejeshMore-dev/leetcode/tree/master/0856-score-of-parentheses) |
@@ -572,6 +575,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0690-employee-importance](https://github.com/tejeshMore-dev/leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/tejeshMore-dev/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tejeshMore-dev/leetcode/tree/master/0733-flood-fill) |
+| [0752-open-the-lock](https://github.com/tejeshMore-dev/leetcode/tree/master/0752-open-the-lock) |
 | [0841-keys-and-rooms](https://github.com/tejeshMore-dev/leetcode/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tejeshMore-dev/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0993-cousins-in-binary-tree) |
@@ -1327,4 +1331,5 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 |  |
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/tejeshMore-dev/leetcode/tree/master/0433-minimum-genetic-mutation) |
+| [0752-open-the-lock](https://github.com/tejeshMore-dev/leetcode/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
