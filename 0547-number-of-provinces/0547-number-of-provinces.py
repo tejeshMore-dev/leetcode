@@ -33,9 +33,6 @@ class Solution:
 
         for i in range(n):
             for j in range(n):
-                if i == j:
-                    continue
-
                 if isConnected[i][j] == 1:
                     if dsu.union(i, j):
                         total -= 1
