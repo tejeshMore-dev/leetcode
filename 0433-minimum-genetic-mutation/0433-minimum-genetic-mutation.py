@@ -5,21 +5,19 @@ class Solution:
         CHOICES = [ "A", "C", "G", "T" ]
 
         while queue:
-            string, mutations = queue.popleft()
+            gene, mutations = queue.popleft()
 
-            if string == endGene:
+            if gene == endGene:
                 return mutations
 
-            for i, char in enumerate(string):
+            for i, char in enumerate(gene):
                 for choice in CHOICES:
                     if char != choice:
-                        result = list(string)
-                        result[i] = choice
-                        result_str = "".join(result)
+                        mutation = gene[:i] + choice + gene[i+1:]
 
-                        if result_str in bank_set:
-                            bank_set.remove(result_str)
-                            queue.append((result_str, mutations + 1 ))
+                        if mutation in bank_set:
+                            bank_set.remove(mutation)
+                            queue.append((mutation, mutations + 1 ))
         
         return -1
 
