@@ -858,6 +858,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0977-squares-of-a-sorted-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/tejeshMore-dev/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tejeshMore-dev/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/tejeshMore-dev/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -1056,6 +1057,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0876-middle-of-the-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/tejeshMore-dev/leetcode/tree/master/1669-merge-in-between-linked-lists) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/tejeshMore-dev/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
