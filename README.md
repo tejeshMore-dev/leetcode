@@ -539,6 +539,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0690-employee-importance](https://github.com/tejeshMore-dev/leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/tejeshMore-dev/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tejeshMore-dev/leetcode/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/tejeshMore-dev/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/tejeshMore-dev/leetcode/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tejeshMore-dev/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0938-range-sum-of-bst](https://github.com/tejeshMore-dev/leetcode/tree/master/0938-range-sum-of-bst) |
@@ -586,6 +587,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0695-max-area-of-island](https://github.com/tejeshMore-dev/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tejeshMore-dev/leetcode/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/tejeshMore-dev/leetcode/tree/master/0752-open-the-lock) |
+| [0802-find-eventual-safe-states](https://github.com/tejeshMore-dev/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/tejeshMore-dev/leetcode/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tejeshMore-dev/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0909-snakes-and-ladders](https://github.com/tejeshMore-dev/leetcode/tree/master/0909-snakes-and-ladders) |
@@ -643,6 +645,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0207-course-schedule](https://github.com/tejeshMore-dev/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/tejeshMore-dev/leetcode/tree/master/0399-evaluate-division) |
+| [0802-find-eventual-safe-states](https://github.com/tejeshMore-dev/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/tejeshMore-dev/leetcode/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/tejeshMore-dev/leetcode/tree/master/0997-find-the-town-judge) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/tejeshMore-dev/leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -655,6 +658,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | ------- |
 | [0207-course-schedule](https://github.com/tejeshMore-dev/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/tejeshMore-dev/leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1352,4 +1356,12 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/tejeshMore-dev/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0752-open-the-lock](https://github.com/tejeshMore-dev/leetcode/tree/master/0752-open-the-lock) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/tejeshMore-dev/leetcode/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/tejeshMore-dev/leetcode/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
