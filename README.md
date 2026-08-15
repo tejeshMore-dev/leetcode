@@ -373,6 +373,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [2104-sum-of-subarray-ranges](https://github.com/tejeshMore-dev/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/tejeshMore-dev/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -792,6 +793,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1248-count-number-of-nice-subarrays](https://github.com/tejeshMore-dev/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/tejeshMore-dev/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/tejeshMore-dev/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -1054,6 +1056,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1669-merge-in-between-linked-lists](https://github.com/tejeshMore-dev/leetcode/tree/master/1669-merge-in-between-linked-lists) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/tejeshMore-dev/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
