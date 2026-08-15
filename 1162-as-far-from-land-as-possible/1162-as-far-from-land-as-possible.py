@@ -14,10 +14,10 @@ class Solution:
                 else:
                     zeros += 1
                 
-        if not zeros:
+        if not zeros or not len(queue):
             return -1
 
-        ans = -1
+        ans = 0
         while queue:
             r, c, dist = queue.popleft()
             ans = max(ans, dist)
