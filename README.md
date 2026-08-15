@@ -168,6 +168,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1854-maximum-population-year](https://github.com/tejeshMore-dev/leetcode/tree/master/1854-maximum-population-year) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/tejeshMore-dev/leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/tejeshMore-dev/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/tejeshMore-dev/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1943-describe-the-painting](https://github.com/tejeshMore-dev/leetcode/tree/master/1943-describe-the-painting) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1991-find-the-middle-index-in-array) |
@@ -578,6 +579,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1448-count-good-nodes-in-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/tejeshMore-dev/leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1609-even-odd-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/1609-even-odd-tree) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/tejeshMore-dev/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/tejeshMore-dev/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Union-Find
@@ -608,6 +610,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/tejeshMore-dev/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/tejeshMore-dev/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/tejeshMore-dev/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Graph Theory
 |  |
 | ------- |
