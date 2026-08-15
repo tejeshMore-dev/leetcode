@@ -327,6 +327,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0234-palindrome-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/tejeshMore-dev/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/tejeshMore-dev/leetcode/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/tejeshMore-dev/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/tejeshMore-dev/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -735,6 +736,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0367-valid-perfect-square](https://github.com/tejeshMore-dev/leetcode/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tejeshMore-dev/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/tejeshMore-dev/leetcode/tree/master/0441-arranging-coins) |
+| [0445-add-two-numbers-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/tejeshMore-dev/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0781-rabbits-in-forest](https://github.com/tejeshMore-dev/leetcode/tree/master/0781-rabbits-in-forest) |
@@ -998,6 +1000,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0203-remove-linked-list-elements](https://github.com/tejeshMore-dev/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/tejeshMore-dev/leetcode/tree/master/1669-merge-in-between-linked-lists) |
