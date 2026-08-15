@@ -18,7 +18,7 @@ class Solution:
 
 
         node = reverse(head)
-        dummy = ListNode(head)
+        dummy = ListNode(-1)
         current = dummy
         carry = 0
 
