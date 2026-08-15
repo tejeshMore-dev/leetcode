@@ -536,6 +536,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0590-n-ary-tree-postorder-traversal](https://github.com/tejeshMore-dev/leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/tejeshMore-dev/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/tejeshMore-dev/leetcode/tree/master/0684-redundant-connection) |
 | [0687-longest-univalue-path](https://github.com/tejeshMore-dev/leetcode/tree/master/0687-longest-univalue-path) |
 | [0690-employee-importance](https://github.com/tejeshMore-dev/leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/tejeshMore-dev/leetcode/tree/master/0695-max-area-of-island) |
@@ -585,6 +586,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/tejeshMore-dev/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/tejeshMore-dev/leetcode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/tejeshMore-dev/leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/tejeshMore-dev/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tejeshMore-dev/leetcode/tree/master/0733-flood-fill) |
@@ -614,6 +616,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0200-number-of-islands](https://github.com/tejeshMore-dev/leetcode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/tejeshMore-dev/leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/tejeshMore-dev/leetcode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/tejeshMore-dev/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/tejeshMore-dev/leetcode/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/tejeshMore-dev/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
@@ -649,6 +652,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0210-course-schedule-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/tejeshMore-dev/leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/tejeshMore-dev/leetcode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/tejeshMore-dev/leetcode/tree/master/0684-redundant-connection) |
 | [0802-find-eventual-safe-states](https://github.com/tejeshMore-dev/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/tejeshMore-dev/leetcode/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/tejeshMore-dev/leetcode/tree/master/0997-find-the-town-judge) |
