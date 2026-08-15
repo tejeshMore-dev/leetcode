@@ -3,11 +3,6 @@ class DSU:
         self.parent = list(range(n))
         self.size = [1] * n
 
-        print('initially ')
-        print('parent ', self.parent)
-        print('size ', self.size)
-
-
     def find(self, x):
         if self.parent[x] != x:
             self.parent[x] = self.find(self.parent[x])
@@ -21,22 +16,11 @@ class DSU:
         if root_a == root_b:
             return False
 
-        # self.parent[root_b] =  root_a
-        # print('union ', a, b)
-        # print('parent ', self.parent)
-        # print('size ', self.size)
-
-        # return True
-
         if self.size[root_a] < self.size[root_b]:
             root_a, root_b = root_b, root_a
         
         self.parent[root_b] =  root_a
         self.size[root_a] += self.size[root_b]
-
-        # print('union ', a, b)
-        # print('parent ', self.parent)
-        # print('size ', self.size)
 
         return True
 
