@@ -7,8 +7,6 @@ class Solution:
             return -1
 
         queue = deque([ (start, 0) ])
-        visited = set()
-        visited.add(start)
         
         while queue:
             current, moves = queue.popleft()
@@ -20,12 +18,12 @@ class Solution:
                 new_up = current[:i] + str((int(slot) + 1) % 10) + current[i+1:]
                 new_down = current[:i] + str((int(slot) - 1) % 10) + current[i+1:]
 
-                if new_up not in deadends_set and new_up not in visited:
-                    visited.add(new_up)
+                if new_up not in deadends_set:
+                    deadends_set.add(new_up)
                     queue.append((new_up, moves + 1))
 
-                if new_down not in deadends_set and new_down not in visited:
-                    visited.add(new_down)
+                if new_down not in deadends_set:
+                    deadends_set.add(new_down)
                     queue.append((new_down, moves + 1))
 
         return -1
