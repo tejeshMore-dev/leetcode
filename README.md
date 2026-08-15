@@ -360,6 +360,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/tejeshMore-dev/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2104-sum-of-subarray-ranges](https://github.com/tejeshMore-dev/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/tejeshMore-dev/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -934,6 +935,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2104-sum-of-subarray-ranges](https://github.com/tejeshMore-dev/leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [2487-remove-nodes-from-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1006,6 +1008,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1019-next-greater-node-in-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/tejeshMore-dev/leetcode/tree/master/1669-merge-in-between-linked-lists) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/tejeshMore-dev/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2487-remove-nodes-from-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -1020,6 +1023,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0203-remove-linked-list-elements](https://github.com/tejeshMore-dev/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
