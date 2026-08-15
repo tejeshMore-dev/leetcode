@@ -26,7 +26,7 @@ class Solution:
         
         previous = None
         node = slow
-        while node and node != after:
+        while node != after:
             temp = node.next
             node.next = previous
             previous = node
