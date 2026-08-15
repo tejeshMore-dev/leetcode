@@ -80,6 +80,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0503-next-greater-element-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/tejeshMore-dev/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0525-contiguous-array) |
+| [0542-01-matrix](https://github.com/tejeshMore-dev/leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/tejeshMore-dev/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/tejeshMore-dev/leetcode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/tejeshMore-dev/leetcode/tree/master/0566-reshape-the-matrix) |
@@ -385,6 +386,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/tejeshMore-dev/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0392-is-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/tejeshMore-dev/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/tejeshMore-dev/leetcode/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tejeshMore-dev/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/tejeshMore-dev/leetcode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/tejeshMore-dev/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -570,6 +572,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0513-find-bottom-left-tree-value](https://github.com/tejeshMore-dev/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tejeshMore-dev/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tejeshMore-dev/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/tejeshMore-dev/leetcode/tree/master/0542-01-matrix) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/tejeshMore-dev/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -611,6 +614,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0304-range-sum-query-2d-immutable](https://github.com/tejeshMore-dev/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tejeshMore-dev/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tejeshMore-dev/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/tejeshMore-dev/leetcode/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/tejeshMore-dev/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/tejeshMore-dev/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tejeshMore-dev/leetcode/tree/master/0733-flood-fill) |
