@@ -179,6 +179,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tejeshMore-dev/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/tejeshMore-dev/leetcode/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/tejeshMore-dev/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2059-minimum-operations-to-convert-number](https://github.com/tejeshMore-dev/leetcode/tree/master/2059-minimum-operations-to-convert-number) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/tejeshMore-dev/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2080-range-frequency-queries](https://github.com/tejeshMore-dev/leetcode/tree/master/2080-range-frequency-queries) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -596,6 +597,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1609-even-odd-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/1609-even-odd-tree) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/tejeshMore-dev/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/tejeshMore-dev/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2059-minimum-operations-to-convert-number](https://github.com/tejeshMore-dev/leetcode/tree/master/2059-minimum-operations-to-convert-number) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Union-Find
 |  |
