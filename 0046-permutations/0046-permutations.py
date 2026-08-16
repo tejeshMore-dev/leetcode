@@ -10,13 +10,15 @@ class Solution:
                 ans.append(path.copy())
 
             for i in range(n):
-                if not used[i]:
-                    path.append(nums[i])
-                    used[i] = True
-                    backtrack(i + 1)
+                if used[i]:
+                    continue
 
-                    path.pop()
-                    used[i] = False
+                path.append(nums[i])
+                used[i] = True
+                backtrack(i + 1)
+
+                path.pop()
+                used[i] = False
 
         backtrack(0)
         return ans
