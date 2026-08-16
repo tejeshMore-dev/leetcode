@@ -5,7 +5,7 @@ class Solution:
         used = [False] * n
         path = []
 
-        def backtrack(start):
+        def backtrack():
             if len(path) == n:
                 ans.append(path.copy())
                 return
@@ -16,10 +16,10 @@ class Solution:
 
                 path.append(nums[i])
                 used[i] = True
-                backtrack(i + 1)
+                backtrack()
 
                 path.pop()
                 used[i] = False
 
-        backtrack(0)
+        backtrack()
         return ans
