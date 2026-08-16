@@ -97,6 +97,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0704-binary-search](https://github.com/tejeshMore-dev/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/tejeshMore-dev/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tejeshMore-dev/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0721-accounts-merge](https://github.com/tejeshMore-dev/leetcode/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/tejeshMore-dev/leetcode/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/tejeshMore-dev/leetcode/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/tejeshMore-dev/leetcode/tree/master/0733-flood-fill) |
@@ -240,6 +241,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0645-set-mismatch](https://github.com/tejeshMore-dev/leetcode/tree/master/0645-set-mismatch) |
 | [0690-employee-importance](https://github.com/tejeshMore-dev/leetcode/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/tejeshMore-dev/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/tejeshMore-dev/leetcode/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/tejeshMore-dev/leetcode/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/tejeshMore-dev/leetcode/tree/master/0763-partition-labels) |
 | [0781-rabbits-in-forest](https://github.com/tejeshMore-dev/leetcode/tree/master/0781-rabbits-in-forest) |
@@ -298,6 +300,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0647-palindromic-substrings](https://github.com/tejeshMore-dev/leetcode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/tejeshMore-dev/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/tejeshMore-dev/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/tejeshMore-dev/leetcode/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/tejeshMore-dev/leetcode/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/tejeshMore-dev/leetcode/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/tejeshMore-dev/leetcode/tree/master/0844-backspace-string-compare) |
@@ -466,6 +469,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0645-set-mismatch](https://github.com/tejeshMore-dev/leetcode/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tejeshMore-dev/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/tejeshMore-dev/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/tejeshMore-dev/leetcode/tree/master/0721-accounts-merge) |
 | [0769-max-chunks-to-make-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/tejeshMore-dev/leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0853-car-fleet](https://github.com/tejeshMore-dev/leetcode/tree/master/0853-car-fleet) |
@@ -542,6 +546,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0687-longest-univalue-path](https://github.com/tejeshMore-dev/leetcode/tree/master/0687-longest-univalue-path) |
 | [0690-employee-importance](https://github.com/tejeshMore-dev/leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/tejeshMore-dev/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/tejeshMore-dev/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/tejeshMore-dev/leetcode/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/tejeshMore-dev/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/tejeshMore-dev/leetcode/tree/master/0841-keys-and-rooms) |
@@ -591,6 +596,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0684-redundant-connection](https://github.com/tejeshMore-dev/leetcode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/tejeshMore-dev/leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/tejeshMore-dev/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/tejeshMore-dev/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/tejeshMore-dev/leetcode/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/tejeshMore-dev/leetcode/tree/master/0752-open-the-lock) |
 | [0802-find-eventual-safe-states](https://github.com/tejeshMore-dev/leetcode/tree/master/0802-find-eventual-safe-states) |
@@ -620,6 +626,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0547-number-of-provinces](https://github.com/tejeshMore-dev/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/tejeshMore-dev/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/tejeshMore-dev/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/tejeshMore-dev/leetcode/tree/master/0721-accounts-merge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/tejeshMore-dev/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
