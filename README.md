@@ -262,6 +262,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0974-subarray-sums-divisible-by-k](https://github.com/tejeshMore-dev/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/tejeshMore-dev/leetcode/tree/master/0981-time-based-key-value-store) |
 | [0997-find-the-town-judge](https://github.com/tejeshMore-dev/leetcode/tree/master/0997-find-the-town-judge) |
+| [1079-letter-tile-possibilities](https://github.com/tejeshMore-dev/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1122-relative-sort-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1122-relative-sort-array) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/tejeshMore-dev/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/tejeshMore-dev/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -321,6 +322,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0990-satisfiability-of-equality-equations](https://github.com/tejeshMore-dev/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1021-remove-outermost-parentheses](https://github.com/tejeshMore-dev/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tejeshMore-dev/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1079-letter-tile-possibilities](https://github.com/tejeshMore-dev/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/tejeshMore-dev/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/tejeshMore-dev/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tejeshMore-dev/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -951,6 +953,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0451-sort-characters-by-frequency](https://github.com/tejeshMore-dev/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/tejeshMore-dev/leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/tejeshMore-dev/leetcode/tree/master/0692-top-k-frequent-words) |
+| [1079-letter-tile-possibilities](https://github.com/tejeshMore-dev/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1854-maximum-population-year](https://github.com/tejeshMore-dev/leetcode/tree/master/1854-maximum-population-year) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tejeshMore-dev/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Shortest Path
@@ -1365,6 +1368,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0257-binary-tree-paths](https://github.com/tejeshMore-dev/leetcode/tree/master/0257-binary-tree-paths) |
 | [0491-non-decreasing-subsequences](https://github.com/tejeshMore-dev/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0784-letter-case-permutation](https://github.com/tejeshMore-dev/leetcode/tree/master/0784-letter-case-permutation) |
+| [1079-letter-tile-possibilities](https://github.com/tejeshMore-dev/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/tejeshMore-dev/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/tejeshMore-dev/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Trie
