@@ -8,6 +8,7 @@ class Solution:
         def backtrack(start):
             if len(path) == n:
                 ans.append(path.copy())
+                return
 
             for i in range(n):
                 if used[i]:
