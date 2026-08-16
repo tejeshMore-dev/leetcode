@@ -6,6 +6,7 @@ class Solution:
         def backtrack(start, remaining):
             if len(path) == k and remaining == 0:
                 ans.append(path.copy())
+                return
 
             for i in range(start, 10):
                 if i > remaining:
