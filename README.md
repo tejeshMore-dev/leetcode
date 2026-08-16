@@ -417,6 +417,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0152-maximum-product-subarray](https://github.com/tejeshMore-dev/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/tejeshMore-dev/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/tejeshMore-dev/leetcode/tree/master/0279-perfect-squares) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/tejeshMore-dev/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0392-is-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/tejeshMore-dev/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -611,6 +612,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0207-course-schedule](https://github.com/tejeshMore-dev/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/tejeshMore-dev/leetcode/tree/master/0279-perfect-squares) |
 | [0399-evaluate-division](https://github.com/tejeshMore-dev/leetcode/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/tejeshMore-dev/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tejeshMore-dev/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -826,6 +828,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0189-rotate-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/tejeshMore-dev/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/tejeshMore-dev/leetcode/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/tejeshMore-dev/leetcode/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/tejeshMore-dev/leetcode/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tejeshMore-dev/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/tejeshMore-dev/leetcode/tree/master/0441-arranging-coins) |
@@ -1469,4 +1472,12 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 |  |
 | ------- |
 | [0139-word-break](https://github.com/tejeshMore-dev/leetcode/tree/master/0139-word-break) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/tejeshMore-dev/leetcode/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/tejeshMore-dev/leetcode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
