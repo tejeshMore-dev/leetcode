@@ -78,6 +78,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0455-assign-cookies](https://github.com/tejeshMore-dev/leetcode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/tejeshMore-dev/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0491-non-decreasing-subsequences](https://github.com/tejeshMore-dev/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/tejeshMore-dev/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/tejeshMore-dev/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -237,6 +238,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0442-find-all-duplicates-in-an-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/tejeshMore-dev/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0491-non-decreasing-subsequences](https://github.com/tejeshMore-dev/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/tejeshMore-dev/leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/tejeshMore-dev/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -1029,6 +1031,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0078-subsets](https://github.com/tejeshMore-dev/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/tejeshMore-dev/leetcode/tree/master/0268-missing-number) |
+| [0491-non-decreasing-subsequences](https://github.com/tejeshMore-dev/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/tejeshMore-dev/leetcode/tree/master/0645-set-mismatch) |
 | [1310-xor-queries-of-a-subarray](https://github.com/tejeshMore-dev/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/tejeshMore-dev/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -1350,6 +1353,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0090-subsets-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/tejeshMore-dev/leetcode/tree/master/0257-binary-tree-paths) |
+| [0491-non-decreasing-subsequences](https://github.com/tejeshMore-dev/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/tejeshMore-dev/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Trie
 |  |
