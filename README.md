@@ -423,6 +423,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0746-min-cost-climbing-stairs](https://github.com/tejeshMore-dev/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/tejeshMore-dev/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tejeshMore-dev/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1137-n-th-tribonacci-number](https://github.com/tejeshMore-dev/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1162-as-far-from-land-as-possible](https://github.com/tejeshMore-dev/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1395-count-number-of-teams](https://github.com/tejeshMore-dev/leetcode/tree/master/1395-count-number-of-teams) |
@@ -829,6 +830,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0781-rabbits-in-forest](https://github.com/tejeshMore-dev/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0973-k-closest-points-to-origin](https://github.com/tejeshMore-dev/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1006-clumsy-factorial](https://github.com/tejeshMore-dev/leetcode/tree/master/1006-clumsy-factorial) |
+| [1137-n-th-tribonacci-number](https://github.com/tejeshMore-dev/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1201-ugly-number-iii](https://github.com/tejeshMore-dev/leetcode/tree/master/1201-ugly-number-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/tejeshMore-dev/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/tejeshMore-dev/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -911,6 +913,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | ------- |
 | [0070-climbing-stairs](https://github.com/tejeshMore-dev/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/tejeshMore-dev/leetcode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/tejeshMore-dev/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
 |  |
 | ------- |
