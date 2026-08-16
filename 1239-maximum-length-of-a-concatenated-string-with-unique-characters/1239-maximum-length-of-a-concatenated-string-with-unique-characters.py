@@ -22,14 +22,13 @@ class Solution:
                     used.add(char)
                 
                 if can_use:
-                    for char in arr[i]:
-                        used.add(char)
-
                     current_length += len(arr[i])
                     backtrack(i + 1)
+
                     current_length -= len(arr[i])
-                    for char in arr[i]:
-                        used.discard(char)
+
+                    while stack:
+                        used.discard(stack.pop())
                 else:
                     while stack:
                         used.discard(stack.pop())
