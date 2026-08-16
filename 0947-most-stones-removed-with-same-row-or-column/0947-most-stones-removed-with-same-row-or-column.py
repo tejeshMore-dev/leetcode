@@ -29,7 +29,7 @@ class Solution:
         n = len(stones)
         dsu = DSU(n)
 
-        components = 0
+        components = n
         for i in range(n):
             for j in range(i + 1, n):
                 same_row = stones[i][0] == stones[j][0]
@@ -37,6 +37,6 @@ class Solution:
 
                 if same_row or same_col:
                     if dsu.union(i, j):
-                        components += 1
+                        components -= 1
     
-        return components
+        return n - components
