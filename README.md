@@ -41,6 +41,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejeshMore-dev/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/tejeshMore-dev/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/tejeshMore-dev/leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tejeshMore-dev/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/tejeshMore-dev/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -225,6 +226,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tejeshMore-dev/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/tejeshMore-dev/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/tejeshMore-dev/leetcode/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/tejeshMore-dev/leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/tejeshMore-dev/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/tejeshMore-dev/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/tejeshMore-dev/leetcode/tree/master/0202-happy-number) |
@@ -295,6 +297,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0071-simplify-path](https://github.com/tejeshMore-dev/leetcode/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/tejeshMore-dev/leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/tejeshMore-dev/leetcode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/tejeshMore-dev/leetcode/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/tejeshMore-dev/leetcode/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/tejeshMore-dev/leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/tejeshMore-dev/leetcode/tree/master/0242-valid-anagram) |
@@ -410,6 +413,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0070-climbing-stairs](https://github.com/tejeshMore-dev/leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/tejeshMore-dev/leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejeshMore-dev/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/tejeshMore-dev/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/tejeshMore-dev/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/tejeshMore-dev/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0213-house-robber-ii) |
@@ -914,6 +918,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tejeshMore-dev/leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/tejeshMore-dev/leetcode/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/tejeshMore-dev/leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/tejeshMore-dev/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
@@ -1393,6 +1398,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/tejeshMore-dev/leetcode/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/tejeshMore-dev/leetcode/tree/master/0692-top-k-frequent-words) |
 ## String Matching
 |  |
@@ -1459,4 +1465,8 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/tejeshMore-dev/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/tejeshMore-dev/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
