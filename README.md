@@ -175,6 +175,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1833-maximum-ice-cream-bars](https://github.com/tejeshMore-dev/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-single-threaded-cpu](https://github.com/tejeshMore-dev/leetcode/tree/master/1834-single-threaded-cpu) |
 | [1854-maximum-population-year](https://github.com/tejeshMore-dev/leetcode/tree/master/1854-maximum-population-year) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/tejeshMore-dev/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/tejeshMore-dev/leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/tejeshMore-dev/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/tejeshMore-dev/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -814,6 +815,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1201-ugly-number-iii](https://github.com/tejeshMore-dev/leetcode/tree/master/1201-ugly-number-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/tejeshMore-dev/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/tejeshMore-dev/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/tejeshMore-dev/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/tejeshMore-dev/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Design
@@ -1033,6 +1035,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/tejeshMore-dev/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1720-decode-xored-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1720-decode-xored-array) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/tejeshMore-dev/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/tejeshMore-dev/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Simulation
 |  |
 | ------- |
@@ -1164,6 +1167,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 |  |
 | ------- |
 | [1201-ugly-number-iii](https://github.com/tejeshMore-dev/leetcode/tree/master/1201-ugly-number-iii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/tejeshMore-dev/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Number Theory
 |  |
 | ------- |
@@ -1346,6 +1350,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0090-subsets-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/tejeshMore-dev/leetcode/tree/master/0257-binary-tree-paths) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/tejeshMore-dev/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Trie
 |  |
 | ------- |
@@ -1411,4 +1416,8 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/tejeshMore-dev/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/tejeshMore-dev/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
