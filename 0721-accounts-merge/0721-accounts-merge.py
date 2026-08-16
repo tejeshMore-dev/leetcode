@@ -51,6 +51,6 @@ class Solution:
         ans = []
         for i, emails in account_index_to_emails.items():
             name = accounts[i][0]
-            ans.append([ name ]  + sorted(list(emails)) )
+            ans.append([ name ]  + sorted(emails) )
         
         return ans
