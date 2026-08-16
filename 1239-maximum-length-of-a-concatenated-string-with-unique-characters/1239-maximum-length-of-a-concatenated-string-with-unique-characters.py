@@ -11,14 +11,14 @@ class Solution:
 
             for i in range(start, len(arr)):
                 can_use = True
-                stack = []
+                added = []
 
                 for char in arr[i]:
                     if char in used:
                         can_use = False
                         break
                     
-                    stack.append(char)
+                    added.append(char)
                     used.add(char)
                 
                 if can_use:
@@ -27,11 +27,8 @@ class Solution:
 
                     current_length -= len(arr[i])
 
-                    while stack:
-                        used.discard(stack.pop())
-                else:
-                    while stack:
-                        used.discard(stack.pop())
+                while added:
+                    used.discard(added.pop())
 
         backtrack(0)
         return ans
