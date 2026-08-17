@@ -88,6 +88,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/tejeshMore-dev/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/tejeshMore-dev/leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/tejeshMore-dev/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/tejeshMore-dev/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -434,6 +435,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/tejeshMore-dev/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0392-is-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/tejeshMore-dev/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/tejeshMore-dev/leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/tejeshMore-dev/leetcode/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tejeshMore-dev/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -1417,6 +1419,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0216-combination-sum-iii](https://github.com/tejeshMore-dev/leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/tejeshMore-dev/leetcode/tree/master/0257-binary-tree-paths) |
 | [0491-non-decreasing-subsequences](https://github.com/tejeshMore-dev/leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0494-target-sum) |
 | [0784-letter-case-permutation](https://github.com/tejeshMore-dev/leetcode/tree/master/0784-letter-case-permutation) |
 | [1079-letter-tile-possibilities](https://github.com/tejeshMore-dev/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/tejeshMore-dev/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -1499,8 +1502,13 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/tejeshMore-dev/leetcode/tree/master/0279-perfect-squares) |
+| [0494-target-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/tejeshMore-dev/leetcode/tree/master/0279-perfect-squares) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
