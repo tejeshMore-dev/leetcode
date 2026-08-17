@@ -209,6 +209,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/tejeshMore-dev/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/tejeshMore-dev/leetcode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/tejeshMore-dev/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/tejeshMore-dev/leetcode/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2381-shifting-letters-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/2381-shifting-letters-ii) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/tejeshMore-dev/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/tejeshMore-dev/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -445,6 +446,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/tejeshMore-dev/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/tejeshMore-dev/leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2140-solving-questions-with-brainpower](https://github.com/tejeshMore-dev/leetcode/tree/master/2140-solving-questions-with-brainpower) |
+| [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/tejeshMore-dev/leetcode/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 ## Sliding Window
 |  |
 | ------- |
