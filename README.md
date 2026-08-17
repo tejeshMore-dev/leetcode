@@ -136,6 +136,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0912-sort-an-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tejeshMore-dev/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0941-valid-mountain-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0941-valid-mountain-array) |
 | [0946-validate-stack-sequences](https://github.com/tejeshMore-dev/leetcode/tree/master/0946-validate-stack-sequences) |
 | [0973-k-closest-points-to-origin](https://github.com/tejeshMore-dev/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -443,6 +444,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0746-min-cost-climbing-stairs](https://github.com/tejeshMore-dev/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/tejeshMore-dev/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tejeshMore-dev/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0931-minimum-falling-path-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/tejeshMore-dev/leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1137-n-th-tribonacci-number](https://github.com/tejeshMore-dev/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1162-as-far-from-land-as-possible](https://github.com/tejeshMore-dev/leetcode/tree/master/1162-as-far-from-land-as-possible) |
@@ -701,6 +703,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0733-flood-fill](https://github.com/tejeshMore-dev/leetcode/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/tejeshMore-dev/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0909-snakes-and-ladders](https://github.com/tejeshMore-dev/leetcode/tree/master/0909-snakes-and-ladders) |
+| [0931-minimum-falling-path-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/tejeshMore-dev/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/tejeshMore-dev/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/tejeshMore-dev/leetcode/tree/master/1162-as-far-from-land-as-possible) |
