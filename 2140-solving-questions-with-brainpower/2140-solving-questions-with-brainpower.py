@@ -9,5 +9,4 @@ class Solution:
             points, brainpower = questions[i]
             dp[i] = max(dp[i + 1], points + dp[min(n, i + brainpower + 1)])
         
-        print(dp)
         return dp[0]
