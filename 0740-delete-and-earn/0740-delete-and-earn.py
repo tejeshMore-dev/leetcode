@@ -7,8 +7,11 @@ class Solution:
         for num in nums:
             dp[num] += num
         
+        two = 0
+        one = dp[0]
+        
         for i in range(1, max_num + 1):
-            dp[i] = max(dp[i - 1], dp[i] + dp[i - 2])
-            ans = max(ans, dp[i])
+            one, two = max(one, dp[i] + two), one
+            dp[i] = one
 
-        return ans
+        return one
