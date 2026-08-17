@@ -201,6 +201,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/tejeshMore-dev/leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2104-sum-of-subarray-ranges](https://github.com/tejeshMore-dev/leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [2140-solving-questions-with-brainpower](https://github.com/tejeshMore-dev/leetcode/tree/master/2140-solving-questions-with-brainpower) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tejeshMore-dev/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2187-minimum-time-to-complete-trips](https://github.com/tejeshMore-dev/leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/tejeshMore-dev/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -443,6 +444,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/tejeshMore-dev/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/tejeshMore-dev/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/tejeshMore-dev/leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
+| [2140-solving-questions-with-brainpower](https://github.com/tejeshMore-dev/leetcode/tree/master/2140-solving-questions-with-brainpower) |
 ## Sliding Window
 |  |
 | ------- |
