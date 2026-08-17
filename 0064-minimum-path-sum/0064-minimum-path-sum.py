@@ -4,8 +4,9 @@ class Solution:
         COLS = len(grid[0])
 
         dp = [ [0] * COLS for _ in range(ROWS) ]
+        dp[0][0] = grid[0][0]
 
-        for r in range(ROWS):
+        for r in range(1, ROWS):
             dp[r][0] = grid[r][0] + dp[r-1][0]
 
         for c in range(1, COLS):
