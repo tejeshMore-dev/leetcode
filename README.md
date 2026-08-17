@@ -138,6 +138,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0973-k-closest-points-to-origin](https://github.com/tejeshMore-dev/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tejeshMore-dev/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0983-minimum-cost-for-tickets](https://github.com/tejeshMore-dev/leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [0990-satisfiability-of-equality-equations](https://github.com/tejeshMore-dev/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/tejeshMore-dev/leetcode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/tejeshMore-dev/leetcode/tree/master/0997-find-the-town-judge) |
@@ -433,6 +434,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0746-min-cost-climbing-stairs](https://github.com/tejeshMore-dev/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/tejeshMore-dev/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tejeshMore-dev/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0983-minimum-cost-for-tickets](https://github.com/tejeshMore-dev/leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1137-n-th-tribonacci-number](https://github.com/tejeshMore-dev/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1162-as-far-from-land-as-possible](https://github.com/tejeshMore-dev/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
