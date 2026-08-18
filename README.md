@@ -620,6 +620,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0695-max-area-of-island](https://github.com/tejeshMore-dev/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/tejeshMore-dev/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/tejeshMore-dev/leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/tejeshMore-dev/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/tejeshMore-dev/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/tejeshMore-dev/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/tejeshMore-dev/leetcode/tree/master/0841-keys-and-rooms) |
@@ -676,6 +677,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0695-max-area-of-island](https://github.com/tejeshMore-dev/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/tejeshMore-dev/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/tejeshMore-dev/leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/tejeshMore-dev/leetcode/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/tejeshMore-dev/leetcode/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/tejeshMore-dev/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/tejeshMore-dev/leetcode/tree/master/0802-find-eventual-safe-states) |
@@ -753,6 +755,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0399-evaluate-division](https://github.com/tejeshMore-dev/leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/tejeshMore-dev/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/tejeshMore-dev/leetcode/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/tejeshMore-dev/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/tejeshMore-dev/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/tejeshMore-dev/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/tejeshMore-dev/leetcode/tree/master/0841-keys-and-rooms) |
@@ -806,6 +809,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0621-task-scheduler](https://github.com/tejeshMore-dev/leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/tejeshMore-dev/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/tejeshMore-dev/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/tejeshMore-dev/leetcode/tree/master/0743-network-delay-time) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/tejeshMore-dev/leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0912-sort-an-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/tejeshMore-dev/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -1042,6 +1046,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/tejeshMore-dev/leetcode/tree/master/0399-evaluate-division) |
+| [0743-network-delay-time](https://github.com/tejeshMore-dev/leetcode/tree/master/0743-network-delay-time) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1566,4 +1571,8 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0785-is-graph-bipartite](https://github.com/tejeshMore-dev/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/tejeshMore-dev/leetcode/tree/master/0886-possible-bipartition) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/tejeshMore-dev/leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/tejeshMore-dev/leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
