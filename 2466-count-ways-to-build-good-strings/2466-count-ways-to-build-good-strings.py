@@ -13,8 +13,10 @@ class Solution:
             if one <= length:
                 dp[length] += dp[length - one]
             
+            dp[length] %= MOD
 
             if low <= length:
                 ans += dp[length]
+                ans %= MOD
 
-        return ans % MOD
+        return ans      
