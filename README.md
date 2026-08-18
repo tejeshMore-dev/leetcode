@@ -620,6 +620,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0695-max-area-of-island](https://github.com/tejeshMore-dev/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/tejeshMore-dev/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/tejeshMore-dev/leetcode/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/tejeshMore-dev/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/tejeshMore-dev/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/tejeshMore-dev/leetcode/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tejeshMore-dev/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -674,6 +675,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0721-accounts-merge](https://github.com/tejeshMore-dev/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/tejeshMore-dev/leetcode/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/tejeshMore-dev/leetcode/tree/master/0752-open-the-lock) |
+| [0785-is-graph-bipartite](https://github.com/tejeshMore-dev/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/tejeshMore-dev/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/tejeshMore-dev/leetcode/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tejeshMore-dev/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -703,6 +705,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0684-redundant-connection](https://github.com/tejeshMore-dev/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/tejeshMore-dev/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/tejeshMore-dev/leetcode/tree/master/0721-accounts-merge) |
+| [0785-is-graph-bipartite](https://github.com/tejeshMore-dev/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/tejeshMore-dev/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/tejeshMore-dev/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/tejeshMore-dev/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -744,6 +747,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0399-evaluate-division](https://github.com/tejeshMore-dev/leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/tejeshMore-dev/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/tejeshMore-dev/leetcode/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/tejeshMore-dev/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/tejeshMore-dev/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/tejeshMore-dev/leetcode/tree/master/0841-keys-and-rooms) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/tejeshMore-dev/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -1513,6 +1517,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 ## Bipartite Graph
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/tejeshMore-dev/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/tejeshMore-dev/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Enumeration
 |  |
@@ -1545,4 +1550,8 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0583-delete-operation-for-two-strings](https://github.com/tejeshMore-dev/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1035-uncrossed-lines](https://github.com/tejeshMore-dev/leetcode/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/1143-longest-common-subsequence) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/tejeshMore-dev/leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
