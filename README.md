@@ -688,6 +688,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1042-flower-planting-with-no-adjacent](https://github.com/tejeshMore-dev/leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/tejeshMore-dev/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/tejeshMore-dev/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/tejeshMore-dev/leetcode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1162-as-far-from-land-as-possible](https://github.com/tejeshMore-dev/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/tejeshMore-dev/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -760,6 +761,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0990-satisfiability-of-equality-equations](https://github.com/tejeshMore-dev/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [0997-find-the-town-judge](https://github.com/tejeshMore-dev/leetcode/tree/master/0997-find-the-town-judge) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/tejeshMore-dev/leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/tejeshMore-dev/leetcode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/tejeshMore-dev/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/tejeshMore-dev/leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/tejeshMore-dev/leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
