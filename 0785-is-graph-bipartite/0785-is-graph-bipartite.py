@@ -1,5 +1,10 @@
 class Solution:
     def isBipartite(self, graph: List[List[int]]) -> bool:
+        '''
+        0 → uncolored
+        1 → red
+        -1 → blue
+        '''
         n = len(graph)
         color = [0] * n
 
