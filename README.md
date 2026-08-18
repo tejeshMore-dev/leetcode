@@ -476,6 +476,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tejeshMore-dev/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/tejeshMore-dev/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/tejeshMore-dev/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/tejeshMore-dev/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/tejeshMore-dev/leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2140-solving-questions-with-brainpower](https://github.com/tejeshMore-dev/leetcode/tree/master/2140-solving-questions-with-brainpower) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/tejeshMore-dev/leetcode/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
@@ -776,12 +777,14 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1615-maximal-network-rank](https://github.com/tejeshMore-dev/leetcode/tree/master/1615-maximal-network-rank) |
 | [1791-find-center-of-star-graph](https://github.com/tejeshMore-dev/leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/tejeshMore-dev/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/tejeshMore-dev/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/tejeshMore-dev/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/tejeshMore-dev/leetcode/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/tejeshMore-dev/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1054,6 +1057,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | ------- |
 | [0399-evaluate-division](https://github.com/tejeshMore-dev/leetcode/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/tejeshMore-dev/leetcode/tree/master/0743-network-delay-time) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/tejeshMore-dev/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1583,4 +1587,5 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | ------- |
 | [0743-network-delay-time](https://github.com/tejeshMore-dev/leetcode/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/tejeshMore-dev/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/tejeshMore-dev/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
