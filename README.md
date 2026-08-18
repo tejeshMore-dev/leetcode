@@ -88,6 +88,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tejeshMore-dev/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/tejeshMore-dev/leetcode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0474-ones-and-zeroes](https://github.com/tejeshMore-dev/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/tejeshMore-dev/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/tejeshMore-dev/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0494-target-sum) |
@@ -331,6 +332,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0438-find-all-anagrams-in-a-string](https://github.com/tejeshMore-dev/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/tejeshMore-dev/leetcode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/tejeshMore-dev/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0474-ones-and-zeroes](https://github.com/tejeshMore-dev/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/tejeshMore-dev/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0567-permutation-in-string](https://github.com/tejeshMore-dev/leetcode/tree/master/0567-permutation-in-string) |
@@ -446,6 +448,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0377-combination-sum-iv](https://github.com/tejeshMore-dev/leetcode/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/tejeshMore-dev/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0474-ones-and-zeroes](https://github.com/tejeshMore-dev/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/tejeshMore-dev/leetcode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -1523,6 +1526,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/tejeshMore-dev/leetcode/tree/master/0279-perfect-squares) |
+| [0474-ones-and-zeroes](https://github.com/tejeshMore-dev/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
@@ -1533,6 +1537,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0474-ones-and-zeroes](https://github.com/tejeshMore-dev/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0494-target-sum) |
 ## Longest Common Subsequence
 |  |
