@@ -475,6 +475,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [2100-find-good-days-to-rob-the-bank](https://github.com/tejeshMore-dev/leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2140-solving-questions-with-brainpower](https://github.com/tejeshMore-dev/leetcode/tree/master/2140-solving-questions-with-brainpower) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/tejeshMore-dev/leetcode/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
+| [2466-count-ways-to-build-good-strings](https://github.com/tejeshMore-dev/leetcode/tree/master/2466-count-ways-to-build-good-strings) |
 ## Sliding Window
 |  |
 | ------- |
