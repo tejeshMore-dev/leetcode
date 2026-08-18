@@ -185,6 +185,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/tejeshMore-dev/leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1630-arithmetic-subarrays](https://github.com/tejeshMore-dev/leetcode/tree/master/1630-arithmetic-subarrays) |
+| [1631-path-with-minimum-effort](https://github.com/tejeshMore-dev/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1710-maximum-units-on-a-truck](https://github.com/tejeshMore-dev/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1720-decode-xored-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1720-decode-xored-array) |
@@ -639,6 +640,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1382-balance-a-binary-search-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/tejeshMore-dev/leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1631-path-with-minimum-effort](https://github.com/tejeshMore-dev/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/tejeshMore-dev/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/tejeshMore-dev/leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -698,6 +700,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1448-count-good-nodes-in-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/tejeshMore-dev/leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1609-even-odd-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/1609-even-odd-tree) |
+| [1631-path-with-minimum-effort](https://github.com/tejeshMore-dev/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/tejeshMore-dev/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/tejeshMore-dev/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2059-minimum-operations-to-convert-number](https://github.com/tejeshMore-dev/leetcode/tree/master/2059-minimum-operations-to-convert-number) |
@@ -717,6 +720,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/tejeshMore-dev/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/tejeshMore-dev/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/tejeshMore-dev/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1631-path-with-minimum-effort](https://github.com/tejeshMore-dev/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/tejeshMore-dev/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -744,6 +748,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1162-as-far-from-land-as-possible](https://github.com/tejeshMore-dev/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/tejeshMore-dev/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1631-path-with-minimum-effort](https://github.com/tejeshMore-dev/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/tejeshMore-dev/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/tejeshMore-dev/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Graph Theory
@@ -817,6 +822,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1094-car-pooling](https://github.com/tejeshMore-dev/leetcode/tree/master/1094-car-pooling) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/tejeshMore-dev/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tejeshMore-dev/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1631-path-with-minimum-effort](https://github.com/tejeshMore-dev/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/tejeshMore-dev/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1834-single-threaded-cpu](https://github.com/tejeshMore-dev/leetcode/tree/master/1834-single-threaded-cpu) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -874,6 +880,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/tejeshMore-dev/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/tejeshMore-dev/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1631-path-with-minimum-effort](https://github.com/tejeshMore-dev/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/tejeshMore-dev/leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/tejeshMore-dev/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2080-range-frequency-queries](https://github.com/tejeshMore-dev/leetcode/tree/master/2080-range-frequency-queries) |
@@ -1575,4 +1582,5 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/tejeshMore-dev/leetcode/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/tejeshMore-dev/leetcode/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
