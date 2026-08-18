@@ -629,6 +629,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/tejeshMore-dev/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0993-cousins-in-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/tejeshMore-dev/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/tejeshMore-dev/leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/tejeshMore-dev/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/tejeshMore-dev/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -684,6 +685,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0909-snakes-and-ladders](https://github.com/tejeshMore-dev/leetcode/tree/master/0909-snakes-and-ladders) |
 | [0993-cousins-in-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/tejeshMore-dev/leetcode/tree/master/0994-rotting-oranges) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/tejeshMore-dev/leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/tejeshMore-dev/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/tejeshMore-dev/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -757,6 +759,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/tejeshMore-dev/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/tejeshMore-dev/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [0997-find-the-town-judge](https://github.com/tejeshMore-dev/leetcode/tree/master/0997-find-the-town-judge) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/tejeshMore-dev/leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/tejeshMore-dev/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/tejeshMore-dev/leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/tejeshMore-dev/leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
@@ -1560,4 +1563,5 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/tejeshMore-dev/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/tejeshMore-dev/leetcode/tree/master/0886-possible-bipartition) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/tejeshMore-dev/leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
 <!---LeetCode Topics End-->
