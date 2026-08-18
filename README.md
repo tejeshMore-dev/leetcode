@@ -331,6 +331,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0438-find-all-anagrams-in-a-string](https://github.com/tejeshMore-dev/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/tejeshMore-dev/leetcode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/tejeshMore-dev/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/tejeshMore-dev/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0567-permutation-in-string](https://github.com/tejeshMore-dev/leetcode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/tejeshMore-dev/leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -447,6 +448,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0435-non-overlapping-intervals](https://github.com/tejeshMore-dev/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/tejeshMore-dev/leetcode/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/tejeshMore-dev/leetcode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/tejeshMore-dev/leetcode/tree/master/0583-delete-operation-for-two-strings) |
