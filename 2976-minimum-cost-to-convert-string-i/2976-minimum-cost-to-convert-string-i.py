@@ -2,10 +2,11 @@ class Solution:
     def minimumCost(self, source: str, target: str, original: List[str], changed: List[str], cost: List[int]) -> int:
         m = len(original)
         INF = float('inf')
+        LETTERS = 26
 
-        dp = [ [INF] * 26 for _ in range(26) ]
+        dp = [ [INF] * LETTERS for _ in range(LETTERS) ]
         
-        for i in range(26):
+        for i in range(LETTERS):
             dp[i][i] = 0
 
         for i in range(m):
@@ -17,9 +18,9 @@ class Solution:
                 cost[i]
             )
         
-        for k in range(26):
-            for i in range(26):
-                for j in range(26):
+        for k in range(LETTERS):
+            for i in range(LETTERS):
+                for j in range(LETTERS):
                     dp[i][j] = min(
                         dp[i][j],
                         dp[i][k]+ dp[k][j]
