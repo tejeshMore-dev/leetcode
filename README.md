@@ -201,6 +201,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1854-maximum-population-year](https://github.com/tejeshMore-dev/leetcode/tree/master/1854-maximum-population-year) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/tejeshMore-dev/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/tejeshMore-dev/leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1882-process-tasks-using-servers](https://github.com/tejeshMore-dev/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/tejeshMore-dev/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/tejeshMore-dev/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1943-describe-the-painting](https://github.com/tejeshMore-dev/leetcode/tree/master/1943-describe-the-painting) |
@@ -856,6 +857,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1696-jump-game-vi](https://github.com/tejeshMore-dev/leetcode/tree/master/1696-jump-game-vi) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/tejeshMore-dev/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1834-single-threaded-cpu](https://github.com/tejeshMore-dev/leetcode/tree/master/1834-single-threaded-cpu) |
+| [1882-process-tasks-using-servers](https://github.com/tejeshMore-dev/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/tejeshMore-dev/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
