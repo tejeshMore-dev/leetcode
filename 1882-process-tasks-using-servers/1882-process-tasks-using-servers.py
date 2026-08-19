@@ -5,14 +5,9 @@ class Solution:
             heapq.heappush(available, ( weight, i ))
         
         time = 0
-        next_task_i = 0
-        task_completed = 0
-        n = len(tasks)
-        task_queue = deque([ ( next_task_i, tasks[next_task_i] ) ])
-        ans = [0] * n
+        ans = []
         busy = []
         
-
         for i, task_time in enumerate(tasks):
             time = max(time, i)
 
@@ -30,7 +25,7 @@ class Solution:
       
             server_weight, server_i = heapq.heappop(available)
 
-            ans[i] = server_i
+            ans.append(server_i)
             heapq.heappush(busy, ( time + task_time, server_weight, server_i ))
         
         
