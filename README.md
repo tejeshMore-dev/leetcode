@@ -463,6 +463,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tejeshMore-dev/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/tejeshMore-dev/leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/tejeshMore-dev/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/tejeshMore-dev/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/tejeshMore-dev/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tejeshMore-dev/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0931-minimum-falling-path-sum) |
@@ -625,6 +626,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0733-flood-fill](https://github.com/tejeshMore-dev/leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/tejeshMore-dev/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/tejeshMore-dev/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/tejeshMore-dev/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/tejeshMore-dev/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/tejeshMore-dev/leetcode/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tejeshMore-dev/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -684,6 +686,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0743-network-delay-time](https://github.com/tejeshMore-dev/leetcode/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/tejeshMore-dev/leetcode/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/tejeshMore-dev/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/tejeshMore-dev/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/tejeshMore-dev/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/tejeshMore-dev/leetcode/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tejeshMore-dev/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -766,6 +769,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0684-redundant-connection](https://github.com/tejeshMore-dev/leetcode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/tejeshMore-dev/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/tejeshMore-dev/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/tejeshMore-dev/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/tejeshMore-dev/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/tejeshMore-dev/leetcode/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/tejeshMore-dev/leetcode/tree/master/0886-possible-bipartition) |
@@ -823,6 +827,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0703-kth-largest-element-in-a-stream](https://github.com/tejeshMore-dev/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/tejeshMore-dev/leetcode/tree/master/0743-network-delay-time) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/tejeshMore-dev/leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/tejeshMore-dev/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/tejeshMore-dev/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/tejeshMore-dev/leetcode/tree/master/1046-last-stone-weight) |
@@ -1062,6 +1067,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | ------- |
 | [0399-evaluate-division](https://github.com/tejeshMore-dev/leetcode/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/tejeshMore-dev/leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/tejeshMore-dev/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/tejeshMore-dev/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/tejeshMore-dev/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Prefix Sum
