@@ -212,6 +212,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [2080-range-frequency-queries](https://github.com/tejeshMore-dev/leetcode/tree/master/2080-range-frequency-queries) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/tejeshMore-dev/leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
+| [2101-detonate-the-maximum-bombs](https://github.com/tejeshMore-dev/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2104-sum-of-subarray-ranges](https://github.com/tejeshMore-dev/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2140-solving-questions-with-brainpower](https://github.com/tejeshMore-dev/leetcode/tree/master/2140-solving-questions-with-brainpower) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tejeshMore-dev/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -651,6 +652,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1631-path-with-minimum-effort](https://github.com/tejeshMore-dev/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/tejeshMore-dev/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/tejeshMore-dev/leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2101-detonate-the-maximum-bombs](https://github.com/tejeshMore-dev/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -714,6 +716,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/tejeshMore-dev/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/tejeshMore-dev/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2059-minimum-operations-to-convert-number](https://github.com/tejeshMore-dev/leetcode/tree/master/2059-minimum-operations-to-convert-number) |
+| [2101-detonate-the-maximum-bombs](https://github.com/tejeshMore-dev/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/tejeshMore-dev/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
@@ -792,6 +795,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1791-find-center-of-star-graph](https://github.com/tejeshMore-dev/leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/tejeshMore-dev/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/tejeshMore-dev/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2101-detonate-the-maximum-bombs](https://github.com/tejeshMore-dev/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/tejeshMore-dev/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/tejeshMore-dev/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Topological Sort
@@ -938,6 +942,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1248-count-number-of-nice-subarrays](https://github.com/tejeshMore-dev/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/tejeshMore-dev/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/tejeshMore-dev/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2101-detonate-the-maximum-bombs](https://github.com/tejeshMore-dev/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/tejeshMore-dev/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Design
@@ -1286,6 +1291,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/tejeshMore-dev/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [2101-detonate-the-maximum-bombs](https://github.com/tejeshMore-dev/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 ## K-D Tree
 |  |
 | ------- |
