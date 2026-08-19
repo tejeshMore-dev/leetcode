@@ -171,6 +171,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1310-xor-queries-of-a-subarray](https://github.com/tejeshMore-dev/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/tejeshMore-dev/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/tejeshMore-dev/leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1395-count-number-of-teams](https://github.com/tejeshMore-dev/leetcode/tree/master/1395-count-number-of-teams) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tejeshMore-dev/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tejeshMore-dev/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -579,6 +580,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1331-rank-transform-of-an-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/tejeshMore-dev/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1348-tweet-counts-per-frequency](https://github.com/tejeshMore-dev/leetcode/tree/master/1348-tweet-counts-per-frequency) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/tejeshMore-dev/leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1552-magnetic-force-between-two-balls](https://github.com/tejeshMore-dev/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/tejeshMore-dev/leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1630-arithmetic-subarrays](https://github.com/tejeshMore-dev/leetcode/tree/master/1630-arithmetic-subarrays) |
@@ -865,6 +867,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1046-last-stone-weight](https://github.com/tejeshMore-dev/leetcode/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/tejeshMore-dev/leetcode/tree/master/1094-car-pooling) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/tejeshMore-dev/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/tejeshMore-dev/leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tejeshMore-dev/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1631-path-with-minimum-effort](https://github.com/tejeshMore-dev/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1696-jump-game-vi](https://github.com/tejeshMore-dev/leetcode/tree/master/1696-jump-game-vi) |
@@ -1078,6 +1081,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0881-boats-to-save-people](https://github.com/tejeshMore-dev/leetcode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tejeshMore-dev/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1029-two-city-scheduling](https://github.com/tejeshMore-dev/leetcode/tree/master/1029-two-city-scheduling) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/tejeshMore-dev/leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1382-balance-a-binary-search-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/tejeshMore-dev/leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/tejeshMore-dev/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
