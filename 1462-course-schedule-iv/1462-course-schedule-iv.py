@@ -13,6 +13,9 @@ class Solution:
 
         for k in range(numCourses):
             for u in range(numCourses):
+                if not dp[u][k]:
+                    continue
+
                 for v in range(numCourses):
                     dp[u][v] = dp[u][v] or ( dp[u][k] and dp[k][v] )
         
