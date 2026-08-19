@@ -21,7 +21,8 @@ class Solution:
             if min_heap:
                 heapq.heappop(min_heap)
                 attended += 1
-                day += 1
+            
+            day += 1
 
                 
         return attended
