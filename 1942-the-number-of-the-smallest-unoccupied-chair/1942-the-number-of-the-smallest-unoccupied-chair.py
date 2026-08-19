@@ -13,14 +13,12 @@ class Solution:
             arrival, leaving = time
             heapq.heappush(persons, ( arrival, leaving, person ))
         
-        time = 1
         busy = []
 
         while persons:
             arrival, leaving, person = heapq.heappop(persons)
-            time = max(time, arrival)
 
-            while busy and busy[0][0] <= time:
+            while busy and busy[0][0] <= arrival:
                 _, chair = heapq.heappop(busy)
                 heapq.heappush(available, chair)
             
