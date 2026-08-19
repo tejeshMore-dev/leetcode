@@ -20,7 +20,8 @@ class Solution:
 
             if min_heap:
                 heapq.heappop(min_heap)
-                day += 1
                 attended += 1
+                day += 1
+
                 
         return attended
