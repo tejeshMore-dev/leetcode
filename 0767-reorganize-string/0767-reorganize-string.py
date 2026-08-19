@@ -21,10 +21,10 @@ class Solution:
                 count, char = heapq.heappop(max_heap)
                 ans.append(char)
 
-                count += 1
+                count = -count - 1 
 
-                if count < 0:
-                    heapq.heappush(max_heap, (count, char))
+                if count > 0:
+                    heapq.heappush(max_heap, (-count, char))
             
             while stack:
                 q_count, q_char = stack.pop()
