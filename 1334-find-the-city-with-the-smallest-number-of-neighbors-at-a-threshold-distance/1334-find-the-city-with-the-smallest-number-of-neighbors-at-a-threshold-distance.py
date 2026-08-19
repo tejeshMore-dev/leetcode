@@ -7,10 +7,10 @@ class Solution:
             for _ in range(n)
         ]
         
+        for city in range(n):
+            min_distance[city][city] = 0
+            
         for u, v, w in edges:
-            min_distance[u][u] = 0
-            min_distance[v][v] = 0
-
             min_distance[u][v] = min(
                 min_distance[u][v],
                 w
