@@ -315,6 +315,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [2080-range-frequency-queries](https://github.com/tejeshMore-dev/leetcode/tree/master/2080-range-frequency-queries) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/tejeshMore-dev/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2349-design-a-number-container-system](https://github.com/tejeshMore-dev/leetcode/tree/master/2349-design-a-number-container-system) |
 | [2848-points-that-intersect-with-cars](https://github.com/tejeshMore-dev/leetcode/tree/master/2848-points-that-intersect-with-cars) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tejeshMore-dev/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3092-most-frequent-ids](https://github.com/tejeshMore-dev/leetcode/tree/master/3092-most-frequent-ids) |
@@ -882,6 +883,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/tejeshMore-dev/leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2349-design-a-number-container-system](https://github.com/tejeshMore-dev/leetcode/tree/master/2349-design-a-number-container-system) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/tejeshMore-dev/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/tejeshMore-dev/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2762-continuous-subarrays](https://github.com/tejeshMore-dev/leetcode/tree/master/2762-continuous-subarrays) |
@@ -992,6 +994,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0981-time-based-key-value-store](https://github.com/tejeshMore-dev/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1348-tweet-counts-per-frequency](https://github.com/tejeshMore-dev/leetcode/tree/master/1348-tweet-counts-per-frequency) |
 | [2080-range-frequency-queries](https://github.com/tejeshMore-dev/leetcode/tree/master/2080-range-frequency-queries) |
+| [2349-design-a-number-container-system](https://github.com/tejeshMore-dev/leetcode/tree/master/2349-design-a-number-container-system) |
 ## Randomized
 |  |
 | ------- |
@@ -1325,6 +1328,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0729-my-calendar-i](https://github.com/tejeshMore-dev/leetcode/tree/master/0729-my-calendar-i) |
 | [1348-tweet-counts-per-frequency](https://github.com/tejeshMore-dev/leetcode/tree/master/1348-tweet-counts-per-frequency) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tejeshMore-dev/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2349-design-a-number-container-system](https://github.com/tejeshMore-dev/leetcode/tree/master/2349-design-a-number-container-system) |
 | [2762-continuous-subarrays](https://github.com/tejeshMore-dev/leetcode/tree/master/2762-continuous-subarrays) |
 | [3092-most-frequent-ids](https://github.com/tejeshMore-dev/leetcode/tree/master/3092-most-frequent-ids) |
 ## Longest Increasing Subsequence
