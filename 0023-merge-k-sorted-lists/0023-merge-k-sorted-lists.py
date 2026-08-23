@@ -8,9 +8,6 @@ class Solution:
         if not lists:
             return None
 
-        merged_list = lists[0]
-        n = len(lists)
-
         def merge_lists(list1, list2):
             dummy = ListNode(None)
             current = dummy
@@ -35,11 +32,15 @@ class Solution:
 
             return dummy.next
 
-        for i in range(1, n):
-            list2 = lists[i]
-            merged_list = merge_lists(merged_list, list2)
+        n = len(lists)
+        interval = 1
+        while interval < n:
+            for i in range(0, n - interval, interval * 2):
+                lists[i] = merge_lists(lists[i], lists[i+interval])
+            
+            interval *= 2
         
-        return merged_list
+        return lists[0]
 
 
         
