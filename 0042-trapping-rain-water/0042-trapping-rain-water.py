@@ -1,7 +1,5 @@
 class Solution:
     def trap(self, height: List[int]) -> int:
-        '''
-        '''
         n = len(height)
         l = 0
         r = n - 1
