@@ -15,17 +15,13 @@ class Solution:
 
         for num in nums:
             nums_counter[num + OFFSET] += 1
-
     
-        ans = 0
         for i in range(len(nums_counter) - 1, -1, -1):
             if nums_counter[i]:
                 k -= nums_counter[i] 
                 
                 if k <= 0:
                     return i - OFFSET
-
-        return ans
 
         # n = len(nums)
         # l, r = 0, n - 1
