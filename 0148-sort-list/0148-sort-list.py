@@ -19,6 +19,7 @@ class Solution:
         mid = slow.next
         slow.next = None
 
+        
         start = self.sortList(start)
         mid = self.sortList(mid)
 
@@ -35,16 +36,7 @@ class Solution:
             
             tail = tail.next
         
-
-        while start:
-            tail.next = start
-            tail = tail.next
-            start = start.next
-        
-        while mid:
-            tail.next = mid
-            mid = mid.next
-            tail = tail.next
+        tail.next = start if start else mid
         
         return dummy.next
 
