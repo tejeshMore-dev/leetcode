@@ -22,7 +22,10 @@ class TweetCounts:
         left = bisect_left(self.tweet_records[tweetName], startTime)
         right = bisect_right(self.tweet_records[tweetName], endTime)
 
-        for tweet_time in self.tweet_records[tweetName][left: right]:
+        # for tweet_time in self.tweet_records[tweetName][left: right]:
+        for i in range(left, right):
+            tweet_time = self.tweet_records[tweetName][i]
+
             bucket = (
                 tweet_time - startTime
             ) // interval
