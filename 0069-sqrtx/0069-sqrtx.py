@@ -4,14 +4,13 @@ class Solution:
         r = x
         ans = 1
 
-        while l <= r:
-            mid = l + (r - l) // 2
+        while l < r:
+            mid = l + (r - l + 1) // 2
             square = mid * mid
 
-            if x >= square:
-                ans = mid
-                l = mid + 1
+            if square <= x:
+                l = mid
             else:
                 r = mid - 1
         
-        return ans
+        return l
