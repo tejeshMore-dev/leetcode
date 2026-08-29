@@ -8,15 +8,13 @@ class Solution:
         available = list(range(n))
         heapq.heapify(available)
 
-        persons = []
-        for person, time in enumerate(times):
-            arrival, leaving = time
-            heapq.heappush(persons, ( arrival, leaving, person ))
-        
         busy = []
+        persons = [ (time, person) for person, time in enumerate(times) ]
+        persons.sort()
 
-        while persons:
-            arrival, leaving, person = heapq.heappop(persons)
+        for time, person in persons:
+            arrival, leaving = time
+            person = person
 
             while busy and busy[0][0] <= arrival:
                 _, chair = heapq.heappop(busy)
