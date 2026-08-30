@@ -1,6 +1,5 @@
 class Solution:
     def carFleet(self, target: int, position: List[int], speed: List[int]) -> int:
-        ans = 0
         stack = []
 
         new_array = list(zip(position, speed))
@@ -10,7 +9,6 @@ class Solution:
             time = (target - p) / s
             
             if stack and stack[-1] >= time:
-                ans += 1
                 continue
 
             stack.append(time)
