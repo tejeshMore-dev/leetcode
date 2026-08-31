@@ -20,10 +20,10 @@ class MyCalendar:
             
             bookings += change
             previous = position
-        
-        self.events.append((startTime, 1))
-        self.events.append((endTime, -1))
-        self.events.sort()
+            
+        insort(self.events, (startTime, 1))
+        insort(self.events, (endTime, -1))
+
         return True
 
         
