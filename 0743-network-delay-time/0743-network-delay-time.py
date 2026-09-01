@@ -1,9 +1,9 @@
 class Solution:
     def networkDelayTime(self, times: List[List[int]], n: int, k: int) -> int:
         INF = float('inf')
-        min_distance = [INF] * (n + 1)
-        min_distance[k] = 0
-        min_distance[0] = 0
+        min_time = [INF] * (n + 1)
+        min_time[k] = 0
+        min_time[0] = 0
         ans = -1
 
         graph = [ [] for _ in range(n + 1) ]
@@ -16,21 +16,20 @@ class Solution:
         
         
         while min_heap:
-            distance, position = heapq.heappop(min_heap)
+            current_time, position = heapq.heappop(min_heap)
 
-            if distance > min_distance[position]:
+            if current_time > min_time[position]:
                 continue
                 
             for nei, time in graph[position]:
-                new_distance = distance + time
-                ans = max(ans, new_distance)
+                new_time = current_time + time
 
-                if new_distance < min_distance[nei]:
-                    min_distance[nei] = new_distance
+                if new_time < min_time[nei]:
+                    min_time[nei] = new_time
                 
-                    heapq.heappush(min_heap, (new_distance, nei))
+                    heapq.heappush(min_heap, (new_time, nei))
         
-        ans = max(min_distance)
+        ans = max(min_time)
 
         return -1 if ans == INF else ans
         
