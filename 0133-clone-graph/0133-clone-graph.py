@@ -15,7 +15,7 @@ class Solution:
         cloned = {
             node: Node(node.val)
         }
-        
+
         stack = [ node ]
 
         while stack:
@@ -28,7 +28,6 @@ class Solution:
                 
                 cloned[current].neighbors.append(cloned[nei])
 
-        
         return cloned[node]
 
 
