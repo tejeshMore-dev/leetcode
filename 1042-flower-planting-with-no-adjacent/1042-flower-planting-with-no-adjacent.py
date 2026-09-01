@@ -17,6 +17,6 @@ class Solution:
             for flower_type in range(1, 5):
                 if flower_type not in used:
                     flower[garden] = flower_type
-                    used.add(flower_type)
+                    break
     
         return flower       
