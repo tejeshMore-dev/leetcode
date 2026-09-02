@@ -20,8 +20,6 @@ class Solution:
                 dp[0] = 0
                 
             for c in range(1, COLS):
-                
-
                 if obstacleGrid[r][c]:
                     dp[c] = 0
                     continue
