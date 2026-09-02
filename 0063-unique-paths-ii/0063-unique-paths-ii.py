@@ -15,10 +15,12 @@ class Solution:
                 break
         
         for r in range(1, ROWS):
+            # First column
+            if obstacleGrid[r][0] == 1:
+                dp[0] = 0
+                
             for c in range(1, COLS):
-                # First column
-                if obstacleGrid[r][0] == 1:
-                    dp[0] = 0
+                
 
                 if obstacleGrid[r][c]:
                     dp[c] = 0
