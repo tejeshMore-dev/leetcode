@@ -8,7 +8,10 @@ class Solution:
                 ans.append(path.copy())
                 return
 
-            for i in range(start, n + 1):
+            remaining = k - len(path)
+            last = n - remaining + 2
+
+            for i in range(start, last):
                 path.append(i)
 
                 backtrack(i + 1)
