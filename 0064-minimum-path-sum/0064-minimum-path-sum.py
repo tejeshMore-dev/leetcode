@@ -16,4 +16,4 @@ class Solution:
             for c in range(1, COLS):
                 dp[r][c] = grid[r][c] + min(dp[r-1][c], dp[r][c-1])
         
-        return dp[ROWS-1][COLS-1]
+        return dp[-1][-1]
