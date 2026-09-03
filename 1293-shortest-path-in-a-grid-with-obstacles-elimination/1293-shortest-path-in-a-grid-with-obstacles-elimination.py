@@ -25,9 +25,6 @@ class Solution:
                     if (r, c) == TARGET:
                         return steps
 
-                    if eliminations > k:
-                        continue
-
                     for dr, dc in DIRECTIONS:
                         nr = dr + r
                         nc = dc + c
@@ -39,10 +36,14 @@ class Solution:
                             state = grid[nr][nc] 
                             new_eliminations = eliminations + state
 
-                            if new_eliminations < dp[nr][nc]:
-                                queue.append(( nr, nc, new_eliminations ))
-                                dp[nr][nc] = new_eliminations
+                            if (
+                                new_eliminations > k 
+                                or new_eliminations >= dp[nr][nc]
+                            ):
+                                continue
 
+                            queue.append(( nr, nc, new_eliminations ))
+                            dp[nr][nc] = new_eliminations
 
                 steps += 1
 
