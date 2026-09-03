@@ -146,6 +146,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0918-maximum-sum-circular-subarray](https://github.com/tejeshMore-dev/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [0934-shortest-bridge](https://github.com/tejeshMore-dev/leetcode/tree/master/0934-shortest-bridge) |
 | [0941-valid-mountain-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0941-valid-mountain-array) |
 | [0946-validate-stack-sequences](https://github.com/tejeshMore-dev/leetcode/tree/master/0946-validate-stack-sequences) |
 | [0973-k-closest-points-to-origin](https://github.com/tejeshMore-dev/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -664,6 +665,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0841-keys-and-rooms](https://github.com/tejeshMore-dev/leetcode/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tejeshMore-dev/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0886-possible-bipartition](https://github.com/tejeshMore-dev/leetcode/tree/master/0886-possible-bipartition) |
+| [0934-shortest-bridge](https://github.com/tejeshMore-dev/leetcode/tree/master/0934-shortest-bridge) |
 | [0938-range-sum-of-bst](https://github.com/tejeshMore-dev/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/tejeshMore-dev/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0993-cousins-in-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0993-cousins-in-binary-tree) |
@@ -727,6 +729,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tejeshMore-dev/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0886-possible-bipartition](https://github.com/tejeshMore-dev/leetcode/tree/master/0886-possible-bipartition) |
 | [0909-snakes-and-ladders](https://github.com/tejeshMore-dev/leetcode/tree/master/0909-snakes-and-ladders) |
+| [0934-shortest-bridge](https://github.com/tejeshMore-dev/leetcode/tree/master/0934-shortest-bridge) |
 | [0993-cousins-in-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/tejeshMore-dev/leetcode/tree/master/0994-rotting-oranges) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/tejeshMore-dev/leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
@@ -787,6 +790,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0766-toeplitz-matrix](https://github.com/tejeshMore-dev/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0909-snakes-and-ladders](https://github.com/tejeshMore-dev/leetcode/tree/master/0909-snakes-and-ladders) |
 | [0931-minimum-falling-path-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [0934-shortest-bridge](https://github.com/tejeshMore-dev/leetcode/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/tejeshMore-dev/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/tejeshMore-dev/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/tejeshMore-dev/leetcode/tree/master/1162-as-far-from-land-as-possible) |
