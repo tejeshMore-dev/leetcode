@@ -132,6 +132,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0769-max-chunks-to-make-sorted](https://github.com/tejeshMore-dev/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0781-rabbits-in-forest](https://github.com/tejeshMore-dev/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/tejeshMore-dev/leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0815-bus-routes](https://github.com/tejeshMore-dev/leetcode/tree/master/0815-bus-routes) |
 | [0853-car-fleet](https://github.com/tejeshMore-dev/leetcode/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/tejeshMore-dev/leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/tejeshMore-dev/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -296,6 +297,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0763-partition-labels](https://github.com/tejeshMore-dev/leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/tejeshMore-dev/leetcode/tree/master/0767-reorganize-string) |
 | [0781-rabbits-in-forest](https://github.com/tejeshMore-dev/leetcode/tree/master/0781-rabbits-in-forest) |
+| [0815-bus-routes](https://github.com/tejeshMore-dev/leetcode/tree/master/0815-bus-routes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tejeshMore-dev/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/tejeshMore-dev/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/tejeshMore-dev/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -726,6 +728,7 @@ I mostly do solutions in Python, but if you would like to contribute solutions f
 | [0785-is-graph-bipartite](https://github.com/tejeshMore-dev/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejeshMore-dev/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/tejeshMore-dev/leetcode/tree/master/0802-find-eventual-safe-states) |
+| [0815-bus-routes](https://github.com/tejeshMore-dev/leetcode/tree/master/0815-bus-routes) |
 | [0841-keys-and-rooms](https://github.com/tejeshMore-dev/leetcode/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tejeshMore-dev/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0886-possible-bipartition](https://github.com/tejeshMore-dev/leetcode/tree/master/0886-possible-bipartition) |
