@@ -40,16 +40,7 @@ function requiredSecret(name) {
   return raw.startsWith(prefix) ? raw.slice(prefix.length) : raw;
 }
 
-const session = requiredSecret('LEETCODE_SESSION');
-const csrfToken = requiredSecret('LEETCODE_CSRF_TOKEN');
-
-const requestHeaders = {
-  accept: 'application/json',
-  cookie: `LEETCODE_SESSION=${session}; csrftoken=${csrfToken}`,
-  referer: `${baseUrl}/`,
-  'user-agent': 'Mozilla/5.0 (compatible; accepted-leetcode-sync/1.0)',
-  'x-csrftoken': csrfToken,
-};
+let requestHeaders;
 
 async function requestJson(relativeUrl) {
   const url = new URL(relativeUrl, baseUrl);
@@ -84,6 +75,16 @@ function makeProblemDirectory(frontendId, titleSlug) {
 }
 
 async function main() {
+  const session = requiredSecret('LEETCODE_SESSION');
+  const csrfToken = requiredSecret('LEETCODE_CSRF_TOKEN');
+  requestHeaders = {
+    accept: 'application/json',
+    cookie: `LEETCODE_SESSION=${session}; csrftoken=${csrfToken}`,
+    referer: `${baseUrl}/`,
+    'user-agent': 'Mozilla/5.0 (compatible; accepted-leetcode-sync/1.0)',
+    'x-csrftoken': csrfToken,
+  };
+
   const catalog = await requestJson('/api/problems/all/');
   const catalogPairs = catalog.stat_status_pairs;
   if (!Array.isArray(catalogPairs)) throw new Error('LeetCode returned an invalid problem catalog.');
@@ -209,6 +210,14 @@ async function main() {
 }
 
 main().catch(error => {
-  console.error(error.message);
+  const message = error instanceof Error ? error.message : String(error);
+  console.error(message);
+  if (process.env.GITHUB_ACTIONS === 'true') {
+    const annotationMessage = message
+      .replaceAll('%', '%25')
+      .replaceAll('\r', '%0D')
+      .replaceAll('\n', '%0A');
+    console.error(`::error title=Accepted-only LeetCode sync failed::${annotationMessage}`);
+  }
   process.exitCode = 1;
 });
