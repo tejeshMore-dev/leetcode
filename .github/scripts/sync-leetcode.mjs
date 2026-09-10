@@ -4,6 +4,7 @@ import path from 'node:path';
 const repositoryRoot = process.cwd();
 const baseUrl = 'https://leetcode.com';
 const pageSize = 50;
+const syncStatePath = path.join(repositoryRoot, '.github', 'leetcode-sync-state.json');
 
 const languageExtensions = {
   bash: '.sh',
@@ -41,6 +42,7 @@ function requiredSecret(name) {
 }
 
 let requestHeaders;
+let successfulRequestCount = 0;
 
 async function requestJson(relativeUrl) {
   const url = new URL(relativeUrl, baseUrl);
@@ -50,20 +52,36 @@ async function requestJson(relativeUrl) {
     const response = await fetch(url, { headers: requestHeaders, redirect: 'follow' });
     lastStatus = response.status;
 
-    if (response.ok) return response.json();
-    if (response.status === 401 || response.status === 403) {
+    if (response.ok) {
+      successfulRequestCount++;
+      return response.json();
+    }
+    if (response.status === 401 || (response.status === 403 && successfulRequestCount === 0)) {
       throw new Error(
         `LeetCode authentication failed (HTTP ${response.status}). Refresh the two repository secrets.`,
       );
     }
-    if (attempt < 5 && (response.status === 429 || response.status >= 500)) {
-      await sleep(2000 * attempt);
+    if (
+      attempt < 5
+      && (response.status === 403 || response.status === 429 || response.status >= 500)
+    ) {
+      await sleep(5000 * attempt);
       continue;
     }
     break;
   }
 
+  if (lastStatus === 403 || lastStatus === 429) {
+    throw new Error(
+      `LeetCode throttled the sync (HTTP ${lastStatus}). No files were changed; retry later.`,
+    );
+  }
   throw new Error(`LeetCode request failed after retries (HTTP ${lastStatus ?? 'unknown'}).`);
+}
+
+function isAfter(left, right) {
+  return left.timestamp > right.timestamp
+    || (left.timestamp === right.timestamp && left.id > right.id);
 }
 
 function makeProblemDirectory(frontendId, titleSlug) {
@@ -85,6 +103,22 @@ async function main() {
     'x-csrftoken': csrfToken,
   };
 
+  const syncState = JSON.parse(await fs.readFile(syncStatePath, 'utf8'));
+  const cutoff = {
+    timestamp: Number(syncState.latestScannedTimestamp),
+    id: Number(syncState.latestScannedSubmissionId || 0),
+  };
+  const verifiedProblemCount = Number(syncState.verifiedProblemCount);
+  if (
+    syncState.version !== 1
+    || !Number.isSafeInteger(cutoff.timestamp)
+    || !Number.isSafeInteger(cutoff.id)
+    || !Number.isSafeInteger(verifiedProblemCount)
+    || verifiedProblemCount < 1
+  ) {
+    throw new Error('The checked-in sync baseline is invalid; no files were changed.');
+  }
+
   const catalog = await requestJson('/api/problems/all/');
   const catalogPairs = catalog.stat_status_pairs;
   if (!Array.isArray(catalogPairs)) throw new Error('LeetCode returned an invalid problem catalog.');
@@ -93,32 +127,57 @@ async function main() {
     catalogPairs.map(pair => [pair.stat?.question__title_slug, pair.stat?.frontend_question_id]),
   );
   const accountSolvedCount = catalogPairs.filter(pair => pair.status === 'ac').length;
+  if (accountSolvedCount < verifiedProblemCount) {
+    throw new Error(
+      `LeetCode authentication could not be verified: the account catalog reported `
+      + `${accountSolvedCount} solved problems instead of at least ${verifiedProblemCount}.`,
+    );
+  }
 
   const accepted = [];
   let offset = 0;
-  let reachedEnd = false;
+  let reachedBaseline = false;
+  let reachedHistoryEnd = false;
+  let newestSeen = { ...cutoff };
 
-  for (let page = 0; page < 500; page++) {
+  for (let page = 0; page < 100; page++) {
     const response = await requestJson(`/api/submissions/?offset=${offset}&limit=${pageSize}`);
     const submissions = response.submissions_dump;
     if (!Array.isArray(submissions)) throw new Error('LeetCode returned invalid submission history.');
 
-    accepted.push(...submissions.filter(item => item.status_display === 'Accepted'));
+    for (const submission of submissions) {
+      const position = {
+        timestamp: Number(submission.timestamp),
+        id: Number(submission.id),
+      };
+      if (!Number.isSafeInteger(position.timestamp) || !Number.isSafeInteger(position.id)) {
+        throw new Error('LeetCode returned invalid submission identifiers; no files were changed.');
+      }
+      if (!isAfter(position, cutoff)) {
+        reachedBaseline = true;
+        continue;
+      }
+      if (isAfter(position, newestSeen)) newestSeen = position;
+      if (submission.status_display === 'Accepted') accepted.push(submission);
+    }
 
     if (!response.has_next) {
-      reachedEnd = true;
+      reachedHistoryEnd = true;
       break;
     }
+    if (reachedBaseline) break;
     if (submissions.length === 0) throw new Error('Submission pagination stopped before reaching the end.');
 
     offset += submissions.length;
-    if ((page + 1) % 20 === 0) {
-      console.log(`Scanned ${offset} submissions; ${accepted.length} were Accepted.`);
+    if ((page + 1) % 10 === 0) {
+      console.log(`Scanned ${offset} recent submissions; ${accepted.length} new Accepted.`);
     }
-    await sleep(750);
+    await sleep(1250);
   }
 
-  if (!reachedEnd) throw new Error('Submission history exceeded the safety pagination limit.');
+  if (!reachedBaseline && !reachedHistoryEnd) {
+    throw new Error('Recent submission history exceeded the safety pagination limit; no files were changed.');
+  }
 
   const latest = new Map();
   for (const submission of accepted) {
@@ -145,12 +204,9 @@ async function main() {
     throw new Error(`${invalid.length} selected submissions failed validation; no files were changed.`);
   }
 
-  const selectedProblemCount = new Set(selected.map(item => item.title_slug)).size;
-  if (selectedProblemCount !== accountSolvedCount) {
-    throw new Error(
-      `Verification failed: history has ${selectedProblemCount} accepted problems, `
-      + `but the account catalog reports ${accountSolvedCount}; no files were changed.`,
-    );
+  if (selected.length === 0) {
+    console.log('No new Accepted submissions were found.');
+    return;
   }
 
   const outputNameCounts = new Map();
@@ -169,8 +225,11 @@ async function main() {
 
   const expectedPathsByDirectory = new Map();
   for (const item of prepared) {
-    const filename = outputNameCounts.get(item.basePath) > 1
-      ? `${item.directory}-${item.language}${item.extension}`
+    const languageFilename = `${item.directory}-${item.language}${item.extension}`;
+    const languagePath = path.join(repositoryRoot, item.directory, languageFilename);
+    const languageFileExists = await fs.access(languagePath).then(() => true, () => false);
+    const filename = outputNameCounts.get(item.basePath) > 1 || languageFileExists
+      ? languageFilename
       : item.baseName;
     const relativePath = `${item.directory}/${filename}`;
     if (!expectedPathsByDirectory.has(item.directory)) {
@@ -192,21 +251,18 @@ async function main() {
     await fs.writeFile(outputPath, item.submission.code, 'utf8');
   }
 
-  const managedExtensions = new Set(Object.values(languageExtensions));
-  for (const [directory, expectedPaths] of expectedPathsByDirectory) {
-    const directoryPath = path.join(repositoryRoot, directory);
-    const entries = await fs.readdir(directoryPath, { withFileTypes: true });
-    for (const entry of entries) {
-      if (!entry.isFile() || !managedExtensions.has(path.extname(entry.name))) continue;
-      const relativePath = `${directory}/${entry.name}`;
-      if (!expectedPaths.has(relativePath)) await fs.unlink(path.join(directoryPath, entry.name));
-    }
-  }
-
-  console.log(
-    `Verified ${accountSolvedCount} problems and synchronized ${selected.length} latest `
-    + 'Accepted problem/language solutions.',
+  await fs.writeFile(
+    syncStatePath,
+    `${JSON.stringify({
+      version: 1,
+      latestScannedTimestamp: newestSeen.timestamp,
+      latestScannedSubmissionId: newestSeen.id,
+      verifiedProblemCount: accountSolvedCount,
+    }, null, 2)}\n`,
+    'utf8',
   );
+
+  console.log(`Synchronized ${selected.length} latest new Accepted problem/language solutions.`);
 }
 
 main().catch(error => {
