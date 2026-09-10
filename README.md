@@ -11,6 +11,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/tejeshMore-dev/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/tejeshMore-dev/leetcode/tree/master/0239-sliding-window-maximum) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/tejeshMore-dev/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Stack
 |  |
 | ------- |
@@ -40,4 +41,8 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/tejeshMore-dev/leetcode/tree/master/0239-sliding-window-maximum) |
+## Binary Search
+|  |
+| ------- |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/tejeshMore-dev/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 <!---LeetCode Topics End-->
