@@ -11,6 +11,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/tejeshMore-dev/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/tejeshMore-dev/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/tejeshMore-dev/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Stack
 |  |
@@ -45,4 +46,20 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 |  |
 | ------- |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/tejeshMore-dev/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
