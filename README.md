@@ -13,6 +13,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 | [0239-sliding-window-maximum](https://github.com/tejeshMore-dev/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/tejeshMore-dev/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tejeshMore-dev/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Stack
 |  |
 | ------- |
@@ -34,6 +35,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/tejeshMore-dev/leetcode/tree/master/0239-sliding-window-maximum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tejeshMore-dev/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -46,6 +48,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 |  |
 | ------- |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/tejeshMore-dev/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tejeshMore-dev/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,6 +69,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 |  |
 | ------- |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tejeshMore-dev/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Tree
 |  |
 | ------- |
@@ -82,4 +86,8 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 |  |
 | ------- |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tejeshMore-dev/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
