@@ -17,6 +17,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 | [0673-number-of-longest-increasing-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tejeshMore-dev/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0907-sum-of-subarray-minimums](https://github.com/tejeshMore-dev/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tejeshMore-dev/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/tejeshMore-dev/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tejeshMore-dev/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
@@ -50,22 +51,26 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/tejeshMore-dev/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tejeshMore-dev/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tejeshMore-dev/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Sliding Window
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/tejeshMore-dev/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tejeshMore-dev/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tejeshMore-dev/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tejeshMore-dev/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/tejeshMore-dev/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tejeshMore-dev/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tejeshMore-dev/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/tejeshMore-dev/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tejeshMore-dev/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tejeshMore-dev/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Binary Search
 |  |
 | ------- |
@@ -168,4 +173,8 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 |  |
 | ------- |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/tejeshMore-dev/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Ordered Set
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tejeshMore-dev/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
