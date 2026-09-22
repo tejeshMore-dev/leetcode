@@ -1,17 +1,18 @@
 class Solution:
-    def mostCompetitive(self, nums: List[int], k: int) -> List[int]:
+    def mostCompetitive(self, nums: list[int], k: int) -> list[int]:
+        N = len(nums)
         stack = []
-        removals = len(nums) - k
 
-        for num in nums:
-            while stack and stack[-1] > num and removals:
+        for i in range(N):
+            num = nums[i]
+            while stack and stack[-1] > num and ( len(stack) + ( N - i ) ) > k:
                 stack.pop()
-                removals -= 1
             
             stack.append(num)
         
-        while removals:
+        while len(stack) > k:
             stack.pop()
-            removals -= 1
-        
+
         return stack
+
+        
