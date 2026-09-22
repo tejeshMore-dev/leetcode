@@ -5,23 +5,35 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def buildTree(self, preorder: List[int], inorder: List[int]) -> Optional[TreeNode]:
-        inorder_i = { val: i for i, val in enumerate(inorder) }
-        i = 0
+    def buildTree(self, preorder: list[int], inorder: list[int]) -> TreeNode | None:
+        inorder_index_map = {}
+        for i , num in enumerate(inorder):
+            inorder_index_map[num] = i
+        
+        preorder_i = 0
+        N = len(inorder)
 
         def build(l, r):
-            nonlocal i
+            nonlocal preorder_i
 
-            if i == len(preorder) or l > r:
+            if l > r:
                 return None
             
-            node = TreeNode(preorder[i])
-            middle = inorder_i[preorder[i]]
-            i += 1
-
-            node.left = build(l, middle - 1)
-            node.right = build(middle + 1, r)
-
-            return node
+            if preorder_i >= N:
+                return None
             
-        return build(0, len(preorder))
+            val = preorder[preorder_i]
+            preorder_i += 1
+            
+            mid = inorder_index_map[val]
+            root = TreeNode(val)
+
+            root.left = build(l, mid - 1)
+            root.right = build(mid + 1, r)
+
+            return root
+
+        return build(0, N)
+
+
+        
