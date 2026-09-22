@@ -90,10 +90,12 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/tejeshMore-dev/leetcode/tree/master/0207-course-schedule) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/tejeshMore-dev/leetcode/tree/master/0207-course-schedule) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 ## DP on Trees
 |  |
@@ -125,4 +127,16 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tejeshMore-dev/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/tejeshMore-dev/leetcode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/tejeshMore-dev/leetcode/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/tejeshMore-dev/leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
