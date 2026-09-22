@@ -13,6 +13,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tejeshMore-dev/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0239-sliding-window-maximum](https://github.com/tejeshMore-dev/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0410-split-array-largest-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0503-next-greater-element-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tejeshMore-dev/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/tejeshMore-dev/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -21,10 +22,12 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/tejeshMore-dev/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0503-next-greater-element-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/tejeshMore-dev/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0503-next-greater-element-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0503-next-greater-element-ii) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
