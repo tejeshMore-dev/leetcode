@@ -6,7 +6,7 @@ class Solution:
         min_heap = []
 
         for i in range(1):
-            for j, num in enumerate(nums2):
+            for j in range(min(k, N2)):
                 heapq.heappush(min_heap, ( nums1[i] + nums2[j], i, j))
         
         ans = []
