@@ -1,37 +1,19 @@
 class Solution:
-    def kthSmallest(self, matrix: List[List[int]], k: int) -> int:
+    def kthSmallest(self, matrix: list[list[int]], k: int) -> int:
+        min_heap = []
         ROWS = len(matrix)
         COLS = len(matrix[0])
 
-        l = matrix[0][0]
-        r = matrix[-1][-1]
-       
-        def count_smallest(num: int) -> int:
-            count = 0
-            r = 0
-            c = COLS - 1
-
-            while r < ROWS and c >= 0:
-                current = matrix[r][c]
-
-                if num == current:
-                    r += 1
-                    count += c + 1
-                elif num > current:
-                    r += 1
-                    count += c + 1
-                else:
-                    c -= 1
-            
-            return count
-
-
-        while l < r:
-            mid = l + (r - l) // 2
-
-            if count_smallest(mid) >= k:
-                r = mid
-            else:
-                l = mid + 1
+        for r in range(ROWS):
+            heapq.heappush(min_heap, ( matrix[r][0], r, 0))
         
-        return l
+        while min_heap and k - 1:
+            _, r, c = heapq.heappop(min_heap)
+            k -= 1
+
+            c += 1
+            if c < COLS:
+                heapq.heappush(min_heap, ( matrix[r][c], r, c))
+        
+        return min_heap[0][0]
+        
