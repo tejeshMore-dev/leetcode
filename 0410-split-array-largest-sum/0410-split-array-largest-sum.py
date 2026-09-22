@@ -1,26 +1,23 @@
 class Solution:
-    def splitArray(self, nums: List[int], k: int) -> int:
-        if k == 1:
-            return sum(nums)
-        
-        l = max(nums)
+    def splitArray(self, nums: list[int], k: int) -> int:
+        l = max(nums) 
         r = sum(nums)
 
-        def possible(limit: int) -> bool:
+        def possible(limit):
+            splits = 1
             current_sum = 0
-            partitions = 1
 
             for num in nums:
                 if current_sum + num <= limit:
                     current_sum += num
                 else:
                     current_sum = num
-                    partitions += 1
+                    splits += 1
 
-                    if partitions > k:
+                    if splits > k:
                         return False
             
-            return partitions <= k
+            return True
 
         while l < r:
             mid = l + (r - l) // 2
