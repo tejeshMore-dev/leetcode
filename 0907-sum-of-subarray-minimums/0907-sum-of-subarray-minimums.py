@@ -1,33 +1,29 @@
 class Solution:
-    def sumSubarrayMins(self, arr: List[int]) -> int:
-        stack = []
-        n = len(arr)
+    def sumSubarrayMins(self, arr: list[int]) -> int:
+        N = len(arr)
         MOD = 10**9 + 7
+        stack = []
         ans = 0
 
-        for right in range(n + 1):
+        for r in range(N + 1):
             while (
-                stack
-                and (
-                    right == n
-                    or arr[stack[-1]] > arr[right]
+                stack and 
+                (
+                    r == N or
+                    arr[r] < arr[stack[-1]]
                 )
             ):
-                middle = stack.pop()
+                mid = stack.pop()
                 left = stack[-1] if stack else -1
 
-                left_choices = middle - left
-                right_choices = right - middle
-
-                contrubutions = (
-                    arr[middle]
-                    * left_choices
-                    * right_choices
+                contribution = (
+                    arr[mid] 
+                    * (mid - left) 
+                    * (r - mid)
                 )
 
-                ans += contrubutions
-
-            if right < n:
-                stack.append(right)
+                ans += contribution
+            
+            stack.append(r)
         
         return ans % MOD
