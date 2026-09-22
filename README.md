@@ -53,6 +53,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1143-longest-common-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/1143-longest-common-subsequence) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -90,4 +91,12 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tejeshMore-dev/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/1143-longest-common-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
