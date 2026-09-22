@@ -4,8 +4,8 @@ class Solution:
         l = 0
         r = N - 1
         
-        if nums[l] < nums[r]:
-            return nums[l]
+        # if nums[l] < nums[r]:
+        #     return nums[l]
 
         while l < r:
             mid = l + (r - l) // 2
