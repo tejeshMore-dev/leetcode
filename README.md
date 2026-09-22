@@ -19,18 +19,21 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 | [0907-sum-of-subarray-minimums](https://github.com/tejeshMore-dev/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/tejeshMore-dev/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tejeshMore-dev/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2104-sum-of-subarray-ranges](https://github.com/tejeshMore-dev/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/tejeshMore-dev/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/tejeshMore-dev/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/tejeshMore-dev/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/tejeshMore-dev/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/tejeshMore-dev/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/tejeshMore-dev/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
