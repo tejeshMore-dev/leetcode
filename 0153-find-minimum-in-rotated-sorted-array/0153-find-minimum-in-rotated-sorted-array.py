@@ -3,11 +3,14 @@ class Solution:
         N = len(nums)
         l = 0
         r = N - 1
+        
+        def possible(mid, right):
+            return mid < right
 
         while l < r:
             mid = l + (r - l) // 2
 
-            if nums[r] > nums[mid]:
+            if possible(nums[mid], nums[r]):
                 r = mid
             else:
                 l = mid + 1
