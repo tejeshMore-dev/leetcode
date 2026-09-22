@@ -19,6 +19,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 | [0907-sum-of-subarray-minimums](https://github.com/tejeshMore-dev/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/tejeshMore-dev/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tejeshMore-dev/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2104-sum-of-subarray-ranges](https://github.com/tejeshMore-dev/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Stack
 |  |
@@ -27,6 +28,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 | [0402-remove-k-digits](https://github.com/tejeshMore-dev/leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/tejeshMore-dev/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2104-sum-of-subarray-ranges](https://github.com/tejeshMore-dev/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -35,6 +37,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 | [0402-remove-k-digits](https://github.com/tejeshMore-dev/leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/tejeshMore-dev/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2104-sum-of-subarray-ranges](https://github.com/tejeshMore-dev/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Range Minimum/Maximum Query
 |  |
@@ -133,6 +136,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 | ------- |
 | [0402-remove-k-digits](https://github.com/tejeshMore-dev/leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0410-split-array-largest-sum) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
