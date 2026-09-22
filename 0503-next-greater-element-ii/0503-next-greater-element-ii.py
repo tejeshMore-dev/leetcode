@@ -12,9 +12,5 @@ class Solution:
 
             if i < N:
                 stack.append(( num, i ))
-        
-        # while stack:
-        #     _, index = stack.pop()
-        #     ans[index] = -1
 
         return ans
