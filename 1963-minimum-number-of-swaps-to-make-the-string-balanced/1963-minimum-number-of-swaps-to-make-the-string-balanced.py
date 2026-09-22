@@ -1,15 +1,22 @@
 class Solution:
     def minSwaps(self, s: str) -> int:
+        N = len(s)
         opening = 0
-        unmatched = 0
+        closing = 0 
+        swaps = 0
 
         for char in s:
             if char == "[":
-                opening += 1
-            else:
-                if opening:
-                    opening -= 1
+                if opening < N // 2:
+                    opening += 1
                 else:
-                    unmatched += 1
+                    closing += 1
+                    swaps += 1
+            else:
+                if opening > closing:
+                    closing += 1
+                else:
+                    opening += 1
+                    swaps += 1
         
-        return ceil(unmatched / 2)
+        return swaps // 2
