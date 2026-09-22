@@ -22,6 +22,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tejeshMore-dev/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2104-sum-of-subarray-ranges](https://github.com/tejeshMore-dev/leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [2187-minimum-time-to-complete-trips](https://github.com/tejeshMore-dev/leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 ## Stack
 |  |
 | ------- |
@@ -78,6 +79,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tejeshMore-dev/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/tejeshMore-dev/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tejeshMore-dev/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2187-minimum-time-to-complete-trips](https://github.com/tejeshMore-dev/leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 ## Dynamic Programming
 |  |
 | ------- |
