@@ -16,4 +16,3 @@ class Solution:
                 heapq.heappush(min_heap, ( matrix[r][c], r, c))
         
         return min_heap[0][0]
-        
