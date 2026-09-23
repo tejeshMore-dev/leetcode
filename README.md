@@ -30,6 +30,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 | [1673-find-the-most-competitive-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2104-sum-of-subarray-ranges](https://github.com/tejeshMore-dev/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2187-minimum-time-to-complete-trips](https://github.com/tejeshMore-dev/leetcode/tree/master/2187-minimum-time-to-complete-trips) |
+| [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/tejeshMore-dev/leetcode/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |
 ## Stack
 |  |
 | ------- |
@@ -105,6 +106,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 | [0673-number-of-longest-increasing-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0907-sum-of-subarray-minimums](https://github.com/tejeshMore-dev/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1143-longest-common-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/1143-longest-common-subsequence) |
+| [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/tejeshMore-dev/leetcode/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |
 ## Binary Indexed Tree
 |  |
 | ------- |
