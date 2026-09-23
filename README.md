@@ -123,6 +123,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/tejeshMore-dev/leetcode/tree/master/0337-house-robber-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/tejeshMore-dev/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0652-find-duplicate-subtrees](https://github.com/tejeshMore-dev/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -183,6 +184,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/tejeshMore-dev/leetcode/tree/master/0337-house-robber-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/tejeshMore-dev/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0652-find-duplicate-subtrees](https://github.com/tejeshMore-dev/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Graph Theory
@@ -229,4 +231,8 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/tejeshMore-dev/leetcode/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
