@@ -150,12 +150,14 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/tejeshMore-dev/leetcode/tree/master/0337-house-robber-iii) |
 | [0652-find-duplicate-subtrees](https://github.com/tejeshMore-dev/leetcode/tree/master/0652-find-duplicate-subtrees) |
+| [0785-is-graph-bipartite](https://github.com/tejeshMore-dev/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/tejeshMore-dev/leetcode/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/tejeshMore-dev/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 ## DP on Trees
 |  |
@@ -208,6 +210,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/tejeshMore-dev/leetcode/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/tejeshMore-dev/leetcode/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
@@ -267,4 +270,16 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0494-target-sum) |
+## Union-Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/tejeshMore-dev/leetcode/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/tejeshMore-dev/leetcode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/tejeshMore-dev/leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
