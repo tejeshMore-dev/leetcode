@@ -118,6 +118,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tejeshMore-dev/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -125,6 +126,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 | [0110-balanced-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0207-course-schedule](https://github.com/tejeshMore-dev/leetcode/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Breadth-First Search
 |  |
@@ -134,6 +136,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 ## DP on Trees
 |  |
 | ------- |
+| [0979-distribute-coins-in-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Prefix Sum
 |  |
@@ -168,6 +171,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tejeshMore-dev/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Graph Theory
 |  |
 | ------- |
