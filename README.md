@@ -92,6 +92,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/tejeshMore-dev/leetcode/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/tejeshMore-dev/leetcode/tree/master/0198-house-robber) |
 | [0337-house-robber-iii](https://github.com/tejeshMore-dev/leetcode/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0410-split-array-largest-sum) |
@@ -162,6 +163,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/tejeshMore-dev/leetcode/tree/master/0091-decode-ways) |
 | [0402-remove-k-digits](https://github.com/tejeshMore-dev/leetcode/tree/master/0402-remove-k-digits) |
 | [1143-longest-common-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/tejeshMore-dev/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
