@@ -1,25 +1,25 @@
 class Solution:
     def numDecodings(self, s: str) -> int:
-        if s[0] == "0":
-            return 0
-
-        n = len(s)
-
         two = 1
-        one = 1
+        one = 0
 
-        for i in range(1, n):
-            current = 0
+        if  0 < int(s[0]) <= 9:
+            one = 1
 
-            if s[i] != "0":
-                current += one
+        N = len(s)
+
+        for i in range(1, N):
+            ways = 0
+
+            if 0 < int(s[i]) <= 9:
+                ways += one
+
+            if 10 <= int(s[i-1] + s[i] ) <= 26:
+                ways += two
             
-            if 10 <= int(s[i-1:i+1]) <= 26:
-                current += two
-            
-            one, two = current, one
-            
+            one, two = ways, one
+        
         return one
-        '''
-        10
-        '''
+
+
+        
