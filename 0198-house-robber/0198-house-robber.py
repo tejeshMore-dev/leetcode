@@ -4,10 +4,10 @@ class Solution:
             return nums[0]
 
         N = len(nums)
-        one = nums[1]
         two = nums[0]
+        one = max(nums[1], nums[0])
         
         for i in range(2, N):
-            one, two = max(nums[i] + two, two, one), max(one, two)
+            one, two = max(nums[i] + two, two, one), one
         
-        return max(one, two)
+        return one
