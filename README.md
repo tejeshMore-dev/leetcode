@@ -30,6 +30,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/tejeshMore-dev/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0402-remove-k-digits](https://github.com/tejeshMore-dev/leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/tejeshMore-dev/leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -119,6 +120,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tejeshMore-dev/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/tejeshMore-dev/leetcode/tree/master/0337-house-robber-iii) |
 | [0652-find-duplicate-subtrees](https://github.com/tejeshMore-dev/leetcode/tree/master/0652-find-duplicate-subtrees) |
@@ -128,6 +130,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0207-course-schedule](https://github.com/tejeshMore-dev/leetcode/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/tejeshMore-dev/leetcode/tree/master/0337-house-robber-iii) |
@@ -177,6 +180,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tejeshMore-dev/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/tejeshMore-dev/leetcode/tree/master/0337-house-robber-iii) |
 | [0652-find-duplicate-subtrees](https://github.com/tejeshMore-dev/leetcode/tree/master/0652-find-duplicate-subtrees) |
@@ -221,4 +225,8 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
