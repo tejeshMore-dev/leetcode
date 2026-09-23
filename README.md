@@ -108,6 +108,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 | [0673-number-of-longest-increasing-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0907-sum-of-subarray-minimums](https://github.com/tejeshMore-dev/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1143-longest-common-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/1143-longest-common-subsequence) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/tejeshMore-dev/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/tejeshMore-dev/leetcode/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |
 ## Binary Indexed Tree
 |  |
@@ -213,10 +214,12 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 | ------- |
 | [0207-course-schedule](https://github.com/tejeshMore-dev/leetcode/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/tejeshMore-dev/leetcode/tree/master/0785-is-graph-bipartite) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/tejeshMore-dev/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/tejeshMore-dev/leetcode/tree/master/0207-course-schedule) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/tejeshMore-dev/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -285,4 +288,12 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/tejeshMore-dev/leetcode/tree/master/0785-is-graph-bipartite) |
+## Shortest Path
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/tejeshMore-dev/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/tejeshMore-dev/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
