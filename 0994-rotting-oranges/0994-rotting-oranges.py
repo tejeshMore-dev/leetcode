@@ -1,28 +1,27 @@
 class Solution:
-    def orangesRotting(self, grid: List[List[int]]) -> int:
+    def orangesRotting(self, grid: list[list[int]]) -> int:
         ROWS = len(grid)
         COLS = len(grid[0])
-        DIRECTIONS = [ [0, 1], [0, -1], [1, 0], [-1, 0] ]
+        DIRECTIONS = [ [0, -1], [0, 1], [1, 0], [-1, 0] ]
 
-        total_fresh = 0
-        rotten_queue = deque()
-
+        fresh_oranges = 0
+        queue = deque()
+        
         for r in range(ROWS):
             for c in range(COLS):
-                if grid[r][c] == 2:
-                    rotten_queue.append((r, c))
-
                 if grid[r][c] == 1:
-                    total_fresh += 1
+                    fresh_oranges += 1
+                elif grid[r][c] == 2:
+                    queue.append((r, c))
         
         minutes = 0
 
-        while rotten_queue:
-            queue_length = len(rotten_queue)
+        while queue:
+            queue_length = len(queue)
 
             for _ in range(queue_length):
-                r, c = rotten_queue.popleft()
-
+                r, c = queue.popleft()
+                
                 for dr, dc in DIRECTIONS:
                     nr = dr + r
                     nc = dc + c
@@ -33,17 +32,12 @@ class Solution:
                         and grid[nr][nc] == 1
                     ):
                         grid[nr][nc] = 2
-                        rotten_queue.append((nr, nc))
-                        total_fresh -= 1
+                        fresh_oranges -= 1
+                        queue.append((nr, nc))
             
-            if len(rotten_queue):
+            if len(queue):
                 minutes += 1
         
-        if total_fresh == 0:
-            return minutes
+        return minutes if fresh_oranges == 0 else -1
 
-        return -1
-
-
-            
         
