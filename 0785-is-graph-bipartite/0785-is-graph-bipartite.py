@@ -1,31 +1,54 @@
 class Solution:
-    def isBipartite(self, graph: List[List[int]]) -> bool:
-        '''
-        0 → uncolored
-        1 → red
-        -1 → blue
-        '''
-        n = len(graph)
-        color = [0] * n
+    def isBipartite(self, graph: list[list[int]]) -> bool:
+        N = len(graph)
+        colors = [ -1 ] * N
 
-        for v in range(n):
-            if color[v] != 0:
+        for node in range(N):
+            if colors[node] != -1:
                 continue
             
-            color[v] = 1
-            queue = deque([v])
+            colors[node] = 0
+            queue = deque([ (node, 0) ])
 
             while queue:
-                parent = queue.popleft()
-                
-                for nei in graph[parent]:
-                    if color[nei] == color[parent]:
+                node, color = queue.popleft()
+
+                new_color = 1 - color
+
+                for nei in graph[node]:                    
+                    if colors[nei] == color:
                         return False
-                    elif color[nei] == 0:
-                        queue.append(nei)
-                        color[nei] = -color[parent]
+                    
+                    if colors[nei] == new_color:
+                        continue
+                    
+                    colors[nei] = new_color
+                    queue.append(( nei, new_color ))
 
         return True
-            
 
-        
+
+        # N = len(graph)
+        # visited = set()
+
+        # for node in range(N):
+        #     if node in visited:
+        #         continue
+            
+        #     visited.add(node)
+        #     queue = deque([ (node, -1) ])
+
+        #     while queue:
+        #         node, parent = queue.popleft()
+
+        #         for nei in graph[node]:
+        #             if nei == parent:
+        #                 continue
+                    
+        #             if nei in visited:
+        #                 return False
+                    
+        #             visited.add(nei)
+        #             queue.append(( nei, node ))
+
+        # return True
