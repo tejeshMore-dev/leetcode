@@ -5,7 +5,7 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def flatten(self, root: Optional[TreeNode]) -> None:
+    def flatten(self, root: TreeNode | None) -> None:
         """
         Do not return anything, modify root in-place instead.
         """
@@ -13,15 +13,17 @@ class Solution:
 
         def helper(node):
             nonlocal previous
-
+            
             if not node:
                 return
-
+            
             helper(node.right)
             helper(node.left)
 
             node.right = previous
             node.left = None
-            previous = node
-                    
+
+            previous  = node
+        
         helper(root)
+        return root
