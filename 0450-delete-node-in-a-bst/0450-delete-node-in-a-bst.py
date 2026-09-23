@@ -6,34 +6,6 @@
 #         self.right = right
 class Solution:
     def deleteNode(self, root: TreeNode | None, key: int) -> TreeNode | None:
-        # def delete(node):
-        #     if not node:
-        #         return None
-            
-        #     if not node.left and not node.right:
-        #         return None
-
-        #     if node.right:
-        #         succesor = node.right
-
-        #         while succesor and succesor.left:
-        #             succesor.left
-                
-        #         node.val = succesor.val
-
-        #         delete(succesor)
-        #     elif node.left:
-        #         prodecessor = node.left
-
-        #         while prodecessor and prodecessor.right:
-        #             prodecessor.right
-                
-        #         node.val = prodecessor.val
-
-        #         delete(prodecessor)
-        #     else:
-        #         node.val = None
-
         def helper(node, key):
             if not node:
                 return None
