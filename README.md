@@ -116,11 +116,13 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tejeshMore-dev/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/tejeshMore-dev/leetcode/tree/master/0207-course-schedule) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Breadth-First Search
 |  |
@@ -162,6 +164,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tejeshMore-dev/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Graph Theory
 |  |
 | ------- |
@@ -194,4 +197,12 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tejeshMore-dev/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
