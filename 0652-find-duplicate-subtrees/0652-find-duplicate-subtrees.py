@@ -6,25 +6,23 @@
 #         self.right = right
 class Solution:
     def findDuplicateSubtrees(self, root: TreeNode | None) -> list[TreeNode | None]:
-        node_path_map = defaultdict(list)
+        pattern_frequency = defaultdict(int)
         ans = []
-        used = set()
 
         def helper(node):
             if not node:
-                return "None"
+                return "#"
             
             left = helper(node.left)
             right = helper(node.right)
 
-            path = str(node.val) + "-" + left + '-' + right
-            
-            if path in node_path_map[node.val] and path not in used:
-                ans.append(node)
-                used.add(path)
+            pattern = str(node.val) + "-" + left + '-' + right
+            pattern_frequency[pattern] += 1
 
-            node_path_map[node.val].append(path)
-            return str(path)
+            if pattern_frequency[pattern] == 2:
+                ans.append(node)
+        
+            return pattern
         
         helper(root)
         return ans
