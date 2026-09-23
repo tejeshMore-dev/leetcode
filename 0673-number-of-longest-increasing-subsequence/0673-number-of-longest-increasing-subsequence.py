@@ -3,6 +3,7 @@ class Solution:
         N = len(nums)
         dp = [1] * N
         count = [1] * N
+        max_length = 1
 
         for i in range(1, N):
             for j in range(i):
@@ -14,8 +15,7 @@ class Solution:
                     elif dp[j] + 1 == dp[i]:
                         count[i] += count[j]
 
-
-        max_length =  max(dp)
+            max_length =  max(dp[i], max_length)
         
         ans = 0
         for i, length in enumerate(dp):
