@@ -97,6 +97,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/tejeshMore-dev/leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/tejeshMore-dev/leetcode/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/tejeshMore-dev/leetcode/tree/master/0198-house-robber) |
 | [0337-house-robber-iii](https://github.com/tejeshMore-dev/leetcode/tree/master/0337-house-robber-iii) |
@@ -304,4 +305,12 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 |  |
 | ------- |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/tejeshMore-dev/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tejeshMore-dev/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tejeshMore-dev/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
