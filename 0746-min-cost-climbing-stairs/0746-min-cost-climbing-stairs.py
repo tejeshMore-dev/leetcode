@@ -4,34 +4,14 @@ class Solution:
         TC : O(n)
         SC : O(1)
         '''
-
-        if len(cost) < 3:
+        N = len(cost)
+        if N <= 2:
             return min(cost)
         
-        l = len(cost)
-        two = cost[-1]
-        one = cost[-2]
+        two = cost[0]
+        one = cost[1]
         
-        for i in range(l-3, -1, -1):
+        for i in range(2, N):
             one, two = cost[i] + min(one, two), one
         
         return min(one, two)
-
-        ## recursion approach
-
-        # mem = {}
-
-        # def helper(i):
-        #     if i in mem:
-        #         return mem[i]
-
-        #     if i >= len(cost):
-        #         return  0
-            
-        #     ans = cost[i] + min(helper(i+1), helper(i+2))
-        #     mem[i] = ans
-
-        #     return ans
-        
-        # helper(0)
-        # return min(mem[0], mem[1])
