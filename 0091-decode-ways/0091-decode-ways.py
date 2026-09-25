@@ -20,6 +20,3 @@ class Solution:
             one, two = ways, one
         
         return one
-
-
-        
