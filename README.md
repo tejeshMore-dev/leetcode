@@ -115,6 +115,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 | [0907-sum-of-subarray-minimums](https://github.com/tejeshMore-dev/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1143-longest-common-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/tejeshMore-dev/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2320-count-number-of-ways-to-place-houses](https://github.com/tejeshMore-dev/leetcode/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/tejeshMore-dev/leetcode/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |
 ## Binary Indexed Tree
 |  |
