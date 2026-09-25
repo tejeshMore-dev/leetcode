@@ -114,6 +114,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 | [0746-min-cost-climbing-stairs](https://github.com/tejeshMore-dev/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/tejeshMore-dev/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1143-longest-common-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/1143-longest-common-subsequence) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/tejeshMore-dev/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/tejeshMore-dev/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/tejeshMore-dev/leetcode/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/tejeshMore-dev/leetcode/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |
@@ -299,6 +300,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/tejeshMore-dev/leetcode/tree/master/0785-is-graph-bipartite) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/tejeshMore-dev/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Bipartite Graph
 |  |
 | ------- |
