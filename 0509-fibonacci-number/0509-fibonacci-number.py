@@ -1,10 +1,7 @@
 class Solution:
     def fib(self, n: int) -> int:
-        if n == 0:
-            return 0
-        
-        if n == 1:
-            return 1
+        if n < 2:
+            return n
 
         two = 0
         one = 1
