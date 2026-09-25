@@ -28,6 +28,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 | [0994-rotting-oranges](https://github.com/tejeshMore-dev/leetcode/tree/master/0994-rotting-oranges) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tejeshMore-dev/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/tejeshMore-dev/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-get-maximum-in-generated-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1646-get-maximum-in-generated-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tejeshMore-dev/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2104-sum-of-subarray-ranges](https://github.com/tejeshMore-dev/leetcode/tree/master/2104-sum-of-subarray-ranges) |
@@ -315,4 +316,8 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tejeshMore-dev/leetcode/tree/master/0070-climbing-stairs) |
+## Simulation
+|  |
+| ------- |
+| [1646-get-maximum-in-generated-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1646-get-maximum-in-generated-array) |
 <!---LeetCode Topics End-->
