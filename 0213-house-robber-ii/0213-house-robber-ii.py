@@ -5,21 +5,20 @@ class Solution:
         SC : O(1)
         '''
 
-        l = len(nums)
-        if l < 3:
+        N = len(nums)
+        if N < 3:
             return max(nums)
 
         def helper(s, e):
-            two = nums[e]
-            one = max(two, nums[e-1])
+            two = nums[s]
+            one = max(two, nums[s+1])
 
-            for i in range(e-2, s-1, -1):
-                one, two = max(nums[i] + two, one), one
+            for i in range(s + 2, e):
+                one, two = max(nums[i] + two, two, one), one
             
             return one
 
-
-        return max(helper(0, l-2), helper(1, l-1))
+        return max(helper(0, N-1), helper(1, N))
 
         # l = len(nums)
         # if l < 3:
