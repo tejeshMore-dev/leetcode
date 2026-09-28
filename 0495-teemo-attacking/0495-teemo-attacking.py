@@ -4,11 +4,11 @@ class Solution:
         ans = 0
 
         for t in timeSeries:
-            if not last or (last and last <= t):
-                ans += duration
-            elif last and last > t:
-                ans += duration - ( last - t )
+            ans += duration
             
+            if last and last > t:
+                ans -= ( last - t )
+                
             last = t + duration
         
         return ans
