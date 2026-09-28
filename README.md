@@ -21,6 +21,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 | [0410-split-array-largest-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0494-target-sum) |
+| [0495-teemo-attacking](https://github.com/tejeshMore-dev/leetcode/tree/master/0495-teemo-attacking) |
 | [0503-next-greater-element-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/tejeshMore-dev/leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -326,6 +327,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 ## Simulation
 |  |
 | ------- |
+| [0495-teemo-attacking](https://github.com/tejeshMore-dev/leetcode/tree/master/0495-teemo-attacking) |
 | [1646-get-maximum-in-generated-array](https://github.com/tejeshMore-dev/leetcode/tree/master/1646-get-maximum-in-generated-array) |
 ## Design
 |  |
