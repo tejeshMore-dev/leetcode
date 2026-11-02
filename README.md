@@ -229,6 +229,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 | ------- |
 | [0053-maximum-subarray](https://github.com/tejeshMore-dev/leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tejeshMore-dev/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0148-sort-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0148-sort-list) |
 ## Binary Tree
 |  |
 | ------- |
@@ -262,6 +263,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0148-sort-list) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/tejeshMore-dev/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Bracket Sequences
 |  |
@@ -274,6 +276,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0148-sort-list) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tejeshMore-dev/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tejeshMore-dev/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 ## Matrix
@@ -293,6 +296,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0148-sort-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0148-sort-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -355,4 +359,8 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
