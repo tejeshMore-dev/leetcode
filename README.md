@@ -9,6 +9,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/tejeshMore-dev/leetcode/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tejeshMore-dev/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tejeshMore-dev/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -143,6 +144,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tejeshMore-dev/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0208-implement-trie-prefix-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/tejeshMore-dev/leetcode/tree/master/0652-find-duplicate-subtrees) |
