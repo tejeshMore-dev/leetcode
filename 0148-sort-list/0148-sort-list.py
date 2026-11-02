@@ -4,27 +4,26 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def sortList(self, head: Optional[ListNode]) -> Optional[ListNode]:
+    def sortList(self, head: ListNode | None) -> ListNode | None:
         if not head or not head.next:
             return head
-        
+
         slow = head
         fast = head
 
         while fast.next and fast.next.next:
             slow = slow.next
             fast = fast.next.next
-
+        
         start = head
         mid = slow.next
         slow.next = None
 
-        
         start = self.sortList(start)
         mid = self.sortList(mid)
 
-        dummy = ListNode()
-        tail = dummy       
+        dummy_node = ListNode()
+        tail = dummy_node
 
         while start and mid:
             if start.val <= mid.val:
@@ -37,10 +36,8 @@ class Solution:
             tail = tail.next
         
         tail.next = start if start else mid
-        
-        return dummy.next
 
-
+        return dummy_node.next
 
 
         
