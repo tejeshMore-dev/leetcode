@@ -26,6 +26,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 | [0494-target-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/tejeshMore-dev/leetcode/tree/master/0495-teemo-attacking) |
 | [0503-next-greater-element-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0525-contiguous-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0525-contiguous-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tejeshMore-dev/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/tejeshMore-dev/leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -147,6 +148,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 | [0001-two-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tejeshMore-dev/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0208-implement-trie-prefix-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0525-contiguous-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0525-contiguous-array) |
 | [0652-find-duplicate-subtrees](https://github.com/tejeshMore-dev/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tejeshMore-dev/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -197,6 +199,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0525-contiguous-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0525-contiguous-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tejeshMore-dev/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tejeshMore-dev/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## String
