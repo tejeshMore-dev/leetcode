@@ -111,6 +111,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 | [0070-climbing-stairs](https://github.com/tejeshMore-dev/leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/tejeshMore-dev/leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejeshMore-dev/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/tejeshMore-dev/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/tejeshMore-dev/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/tejeshMore-dev/leetcode/tree/master/0337-house-robber-iii) |
@@ -206,6 +207,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/tejeshMore-dev/leetcode/tree/master/0091-decode-ways) |
+| [0131-palindrome-partitioning](https://github.com/tejeshMore-dev/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0402-remove-k-digits](https://github.com/tejeshMore-dev/leetcode/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -315,6 +317,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 ## Backtracking
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/tejeshMore-dev/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0494-target-sum) |
 ## Union-Find
 |  |
