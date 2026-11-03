@@ -26,6 +26,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 | [0494-target-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/tejeshMore-dev/leetcode/tree/master/0495-teemo-attacking) |
 | [0503-next-greater-element-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0518-coin-change-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/tejeshMore-dev/leetcode/tree/master/0525-contiguous-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tejeshMore-dev/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -121,6 +122,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 | [0416-partition-equal-subset-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0518-coin-change-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tejeshMore-dev/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/tejeshMore-dev/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/tejeshMore-dev/leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -312,6 +314,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
@@ -374,4 +377,8 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tejeshMore-dev/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
