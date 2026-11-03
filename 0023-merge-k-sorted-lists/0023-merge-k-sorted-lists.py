@@ -19,8 +19,8 @@ class Solution:
         tail = dummy
 
         while min_heap:
-            val, i,  node = heapq.heappop(min_heap)
-            tail.next = ListNode(val)
+            _, i,  node = heapq.heappop(min_heap)
+            tail.next = node
             
             if node.next:
                 heapq.heappush(min_heap, (node.next.val, i, node.next))
