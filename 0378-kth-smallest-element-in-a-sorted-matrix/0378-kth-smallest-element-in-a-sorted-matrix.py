@@ -1,18 +1,19 @@
 class Solution:
     def kthSmallest(self, matrix: list[list[int]], k: int) -> int:
-        min_heap = []
         ROWS = len(matrix)
-        COLS = len(matrix[0])
+        COLUMNS = len(matrix[0])
 
-        for r in range(ROWS):
-            heapq.heappush(min_heap, ( matrix[r][0], r, 0))
-        
-        while min_heap and k - 1:
-            _, r, c = heapq.heappop(min_heap)
-            k -= 1
+        min_heap = []
 
-            c += 1
-            if c < COLS:
-                heapq.heappush(min_heap, ( matrix[r][c], r, c))
+        for row in range(ROWS):
+            heapq.heappush(min_heap, (matrix[row][0], row, 0))
         
-        return min_heap[0][0]
+        while k-1:
+            _, row, column = heapq.heappop(min_heap)
+            k-= 1
+
+            column += 1
+            if column < COLUMNS:
+                heapq.heappush(min_heap, (matrix[row][column], row, column))
+
+        return heapq.heappop(min_heap)[0]
