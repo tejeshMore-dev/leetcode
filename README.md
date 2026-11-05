@@ -87,6 +87,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tejeshMore-dev/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/tejeshMore-dev/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/tejeshMore-dev/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/tejeshMore-dev/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tejeshMore-dev/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tejeshMore-dev/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -272,6 +273,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 | ------- |
 | [0015-3sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0148-sort-list) |
+| [0295-find-median-from-data-stream](https://github.com/tejeshMore-dev/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/tejeshMore-dev/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Bracket Sequences
 |  |
@@ -286,6 +288,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 | ------- |
 | [0015-3sum](https://github.com/tejeshMore-dev/leetcode/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/tejeshMore-dev/leetcode/tree/master/0148-sort-list) |
+| [0295-find-median-from-data-stream](https://github.com/tejeshMore-dev/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tejeshMore-dev/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tejeshMore-dev/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 ## Matrix
@@ -367,6 +370,7 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/tejeshMore-dev/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0295-find-median-from-data-stream](https://github.com/tejeshMore-dev/leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Trie
 |  |
 | ------- |
@@ -384,4 +388,8 @@ Future accepted submissions are synchronized automatically with GitHub Actions.
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/tejeshMore-dev/leetcode/tree/master/0518-coin-change-ii) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/tejeshMore-dev/leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
