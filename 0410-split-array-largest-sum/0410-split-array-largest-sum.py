@@ -1,8 +1,8 @@
 class Solution:
     def splitArray(self, nums: list[int], k: int) -> int:
-        l = max(nums) 
-        r = sum(nums)
-
+        left = max(nums)
+        right = sum(nums)
+        
         def possible(limit):
             splits = 1
             current_sum = 0
@@ -13,18 +13,16 @@ class Solution:
                 else:
                     current_sum = num
                     splits += 1
-
-                    if splits > k:
-                        return False
             
-            return True
-
-        while l < r:
-            mid = l + (r - l) // 2
+            return splits <= k
+ 
+        while left < right:
+            mid = left + (right-left) // 2
 
             if possible(mid):
-                r = mid
+                right = mid
             else:
-                l = mid + 1
+                left = mid + 1
         
-        return l
+        return left
+        
